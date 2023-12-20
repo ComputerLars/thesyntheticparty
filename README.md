@@ -13,6 +13,7 @@ The project challenges traditional notions of political representation by levera
   2. Emotion and VAD Classifications
   3. Analysis and Visualizations
   4. Exposition Materials and References
+     
 - Usage
   1. Contributing
   2. License

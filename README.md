@@ -6,18 +6,30 @@ Repo for _The Synthetic Party (Det Syntetiske Parti)_, made by party secretary _
 This GitHub repository accompanies the exposition of ["The Synthetic Party as Techno-Social Sculpture"](https://www.researchcatalogue.net/view/2370287/2370288/731) as submitted to _The Journal of Artistic Research_. It hosts an extensive collection of datasets and theoretical references, emotion and Valence-Arousal-Dominance (VAD) classifications, visualizations, analyses, and supplementary materials used to represent The Synthetic Party of Denmark. The project challenges traditional notions of political representation by leveraging machine learning to interpret and articulate constituency sentiments. The repository of The Synthetic Party's data material should be of interest to those working in the intersection of political theory, artificial intelligence, and artistic research.
 
 **Contents**
+- References and Materials
+1. List of literature and theory
+2. Texts from scripts
+3. Videos of scripts
+4. Visual miscellaneous
+
 - Datasets
   1. Clean datasets
   2. Emotion and VAD Classifications
   3. Analysis and Visualizations
-  4. Exposition Materials and References
-     
+  
 - Usage
   1. Contributing
   2. License
   3. Contact
 
-## __**Datasets**__
+## **References and materials**
+
+1. _Literature references_: List of references for theory included in the exposition.
+2. _Textual Basis for Scripts__: Detailed written material explaining the concept and operations of The Synthetic Party.
+3. _Multimedia Files_: Audiovisual materials used in the exposition, including presentations, videos, and interactive media.
+4. _File dump_ of web scraped visual and video material used in the exposition scripts.
+
+## **Datasets**
 
 The datasets included in this repository are comprehensive collections of data pertaining to The Synthetic Party's operation. These datasets include but are not limited to:
 
@@ -54,18 +66,6 @@ A series of visualizations are included to offer interpretative insights into th
 These are all created by **Matplotlib**, where:
 - 1. The _matplotlib.pyplot.bar_ function creates the bar graphs illustrating the categorical aspect of emotions.
 - 2. The _mpl_toolkits.mplot3d_ toolkit is utilized for dimensional representation to generate 3D cubes depicting valence, arousal, and dominance.
-
-**Exposition Materials and References**
-
-Included are also all materials used in the exposition of The Synthetic Party:
-
-1) _Textual Expositions_: Detailed written material explaining the concept and operations of The Synthetic Party.
-
-2) _Multimedia Files_: Audiovisual materials used in the exposition, including presentations, videos, and interactive media.
-
-3) _Document of literature and theory references from the exposition on The Synthetic Party_
-
-4) _File dump_ of web scraped visual and video material used in the exposition scripts.
 
 ## **Usage**
 

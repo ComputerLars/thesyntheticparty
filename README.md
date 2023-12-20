@@ -25,7 +25,7 @@ The datasets included in this repository are comprehensive collections of data p
 - _Online Deliberation Records_: Transcriptions and records of online discussions and deliberations related to The Synthetic Party.
 _News Media Coverage_: A curated collection of media coverage of The Synthetic Party, highlighting its societal impact and public reception.
 
-_**Emotion and VAD Classification**_
+- **Emotion and VAD Classification**
 
 This section contains datasets classified according to various basic emotions and VAD (Valence, Arousal, and Dominance) models. These classifications provide insights into the affective and emotional dimensions of the data, offering an understanding of public sentiment within  discourse. The classification is executed through several models, each lending a perspective on the data:
 
@@ -33,8 +33,8 @@ This section contains datasets classified according to various basic emotions an
 - BERT Danish: Large language model fine-tuned on Danish SoMe material, which classifies to eight basic emotions: https://huggingface.co/alexandrainst/da-emotion-classification-base
 - GPT 3-5: Large language model that provides the VAD analysis, mapping data onto the valence-arousal-dominance spectrum, and correlates with new emotion classificaiton.
 
-__**Analysis and Visualizations**
-__
+- **Analysis and Visualizations**
+
 This section presents a range of analyses performed on the datasets, including:
 
 _Sentiment Analysis_: Evaluating the emotional content within the political discourse.
@@ -52,8 +52,9 @@ A series of visualizations are included to offer interpretative insights into th
 
 Included are also all materials used in the exposition of The Synthetic Party:
 
-_Textual Expositions_: Detailed written material explaining the concept and operations of The Synthetic Party.
-_Multimedia Files_: Audiovisual materials used in the exposition, including presentations, videos, and interactive media.
+1) _Textual Expositions_: Detailed written material explaining the concept and operations of The Synthetic Party.
+
+2) _Multimedia Files_: Audiovisual materials used in the exposition, including presentations, videos, and interactive media.
 
 ## **Usage**
 

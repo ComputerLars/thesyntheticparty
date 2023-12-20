@@ -18,20 +18,20 @@ This GitHub repository accompanies the exposition of "The Synthetic Party as Tec
 
 ## __**Datasets**__
 
-The datasets included in this repository are comprehensive collections of data pertaining to The Synthetic Party's operation . These datasets include but are not limited to:
+The datasets included in this repository are comprehensive collections of data pertaining to The Synthetic Party's operation. These datasets include but are not limited to:
 
 - _Historical and Theoretical Data_: Insights into the philosophical and political underpinnings of The Synthetic Party.
 - _Training Data_: The data used to train the AI models, including textual data from 200+ Danish micro-parties as found within their founding documents, online deliberations, websites, and media coverage.
-- _AI Party Program_: The text-generated party program of The Synthetic Party which is based on the training data. Inferred from the party's publications on [Medium](https://medium.com/@ComputerLars)
-- _Online Deliberation Records_: Transcriptions and records of online discussions and deliberations taking place on The Synthetic Party's [Discord](https://discord.com/invite/Hmy6tKf8yf)-server
+- _AI Party Program_: The text-generated party program of The Synthetic Party which is based on the training data. Inferred from the party's publications on [Medium](https://medium.com/@ComputerLars).
+- _Online Deliberation Records_: Transcriptions and records of online discussions and deliberations taking place on The Synthetic Party's [Discord](https://discord.com/invite/Hmy6tKf8yf)-server.
 - _News Media Coverage_: A curated collection of international media coverage of The Synthetic Party, highlighting its societal impact and public reception.
 
 **Emotion and VAD Classification**
 
 This section contains datasets classified according to various basic emotions and VAD (Valence, Arousal, and Dominance) models. These classifications provide insights into the affective and emotional dimensions of the data, offering an understanding of public sentiment within  discourse. The classification is executed through several models, each lending a perspective on the data:
 
-- _Text2Emotion_: Lexical bag-of-words approach focusing on six basic emotions such as happiness, sadness, anger, etc. A [PyPi Library](https://pypi.org/project/text2emotion/)
-- _BERT Danish_: Large language model fine-tuned on Danish SoMe material, which classifies to eight basic emotions, e.g. [BERT-DA](https://huggingface.co/alexandrainst/da-emotion-classification-base)
+- _Text2Emotion_: A [PyPi Library](https://pypi.org/project/text2emotion/). Uses a lexical bag-of-words approach to infer six basic emotions from text, such as happiness, sadness, anger, etc.
+- _BERT Danish_: [Large language model](https://huggingface.co/alexandrainst/da-emotion-classification-base) fine-tuned on Danish SoMe material, which classifies to eight basic emotions.
 - _GPT 3.5_: Large language model that provides the VAD analysis, mapping data onto the valence-arousal-dominance spectrum, and correlates with new emotion classificaiton.
 
 **Analysis and Visualizations**

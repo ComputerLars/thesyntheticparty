@@ -2,6 +2,7 @@
 _The Synthetic Party (Det Syntetiske Parti)_
 
 **Overview**
+
 This GitHub repository hosts an extensive collection of datasets, emotion and Valence-Arousal-Dominance (VAD) classifications, visualizations, analyses, and supplementary materials used to represent The Synthetic Party. The project challenges traditional notions of political representation by leveraging machine learning to interpret and articulate constituency sentiments. The repository of The Synthetic Party's data material should be of interest to those working in the intersection of political theory, artificial intelligence, and artistic research.
 
 **Contents**
@@ -16,6 +17,7 @@ This GitHub repository hosts an extensive collection of datasets, emotion and Va
 - Contact
 
 _**Datasets**_
+
 The datasets included in this repository are comprehensive collections of data pertaining to The Synthetic Party's operation . These datasets include but are not limited to:
 
 - _Historical and Theoretical Data_: Insights into the philosophical and political underpinnings of The Synthetic Party.
@@ -24,6 +26,7 @@ The datasets included in this repository are comprehensive collections of data p
 _News Media Coverage_: A curated collection of media coverage of The Synthetic Party, highlighting its societal impact and public reception.
 
 _**Emotion and VAD Classification**_
+
 This section contains datasets classified according to various basic emotions and VAD (Valence, Arousal, and Dominance) models. These classifications provide insights into the affective and emotional dimensions of the data, offering an understanding of public sentiment within  discourse. The classification is executed through several models, each lending a perspective on the data:
 
 - Text2Emotion: Lexical bag-of-words approach focusing on six basic emotions such as happiness, sadness, anger, etc. PyPi-library: https://pypi.org/project/text2emotion/
@@ -31,6 +34,7 @@ This section contains datasets classified according to various basic emotions an
 - GPT 3-5: Large language model that provides the VAD analysis, mapping data onto the valence-arousal-dominance spectrum, and correlates with new emotion classificaiton.
 
 **Analysis and Visualizations_**
+
 This section presents a range of analyses performed on the datasets, including:
 
 _Sentiment Analysis_: Evaluating the emotional content within the political discourse.
@@ -52,6 +56,7 @@ _Textual Expositions_: Detailed written material explaining the concept and oper
 _Multimedia Files_: Audiovisual materials used in the exposition, including presentations, videos, and interactive media.
 
 **Usage**
+
 This repository is intended for researchers, political theorists, data scientists, and artists interested in the intersection of AI, democracy, and art. To use the datasets and materials:
 
 _Clone the Repository_: Use Git or checkout with SVN using the web URL.
@@ -59,17 +64,21 @@ _Explore the Contents_: Navigate through the directories to find datasets, visua
 _Read the Documentation_: Each dataset and visualization is accompanied by comprehensive documentation explaining its context and usage.
 
 **Contributing**
+
 Contributions to this project are welcome. To contribute:
 
 **Fork the Repository**
+
 Create your Feature Branch (git checkout -b feature/YourFeature)
 Commit your Changes (git commit -m 'Add some YourFeature')
 Push to the Branch (git push origin feature/YourFeature)
 Open a Pull Request
 
 **License**
+
 This project is licensed under the [Creative Commons] - see the LICENSE.md file for details.
 
 **Contact**
+
 For inquiries related to The Synthetic Party, please contact Asker Bryld Staunæs at abs@cc.au.dk
 

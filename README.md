@@ -23,7 +23,7 @@ The datasets included in this repository are comprehensive collections of data p
 - _Historical and Theoretical Data_: Insights into the philosophical and political underpinnings of The Synthetic Party.
 - _Training Data_: The data used to train the AI models, including textual data from 200+ Danish micro-parties as found within their founding documents, online deliberations, websites, and media coverage.
 - _AI Party Program_: The text-generated party program of The Synthetic Party which is based on the training data. Inferred from the party's publications on _Medium_: https://medium.com/@ComputerLars 
-- _Online Deliberation Records_: Transcriptions and records of online discussions and deliberations taking place on The Synthetic Party's _Discord_-server: https://detsyntetiskeparti.wordpress.com/#:~:text=FORM%C3%85L-,LEDER%20LARS%E2%80%99%20SERVER,-COMPUTER%20LARS%E2%80%99%20SERVER.
+- _Online Deliberation Records_: Transcriptions and records of online discussions and deliberations taking place on The Synthetic Party's _Discord_-server: https://discord.com/invite/Hmy6tKf8yf 
 - _News Media Coverage_: A curated collection of international media coverage of The Synthetic Party, highlighting its societal impact and public reception.
 
 **Emotion and VAD Classification**

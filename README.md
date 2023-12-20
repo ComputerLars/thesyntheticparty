@@ -1,5 +1,5 @@
 # thesyntheticparty
-_The Synthetic Party (Det Syntetiske Parti)_
+_The Synthetic Party (Det Syntetiske Parti)_, made by party secretary _Computer Lars_.
 
 ## **Overview**
 
@@ -62,7 +62,7 @@ Included are also all materials used in the exposition of The Synthetic Party:
 
 2) _Multimedia Files_: Audiovisual materials used in the exposition, including presentations, videos, and interactive media.
 
-3) _Document of literature references from the exposition on The Synthetic Party_
+3) _Document of literature and video references from the exposition on The Synthetic Party_
 
 ## **Usage**
 

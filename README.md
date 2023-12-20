@@ -3,18 +3,18 @@ _The Synthetic Party (Det Syntetiske Parti)_
 
 ## **Overview**
 
-This GitHub repository hosts an extensive collection of datasets, emotion and Valence-Arousal-Dominance (VAD) classifications, visualizations, analyses, and supplementary materials used to represent The Synthetic Party of Denmark. The project challenges traditional notions of political representation by leveraging machine learning to interpret and articulate constituency sentiments. The repository of The Synthetic Party's data material should be of interest to those working in the intersection of political theory, artificial intelligence, and artistic research.
+This GitHub repository accompanies the exposition of "The Synthetic Party as Tchno-Social Sculpture" submitted to _The Journal of Artistic Research_. It hosts an extensive collection of datasets and theoretical references, emotion and Valence-Arousal-Dominance (VAD) classifications, visualizations, analyses, and supplementary materials used to represent The Synthetic Party of Denmark. The project challenges traditional notions of political representation by leveraging machine learning to interpret and articulate constituency sentiments. The repository of The Synthetic Party's data material should be of interest to those working in the intersection of political theory, artificial intelligence, and artistic research.
 
 **Contents**
-- Datasets
-- Emotion and VAD Classification
-- Visualizations
-- Analysis
-- Exposition Materials
-- Usage
-- Contributing
-- License
-- Contact
+- _Datasets_
+  1. Clean datasets
+  2. Emotion and VAD Classification
+  3. Analysis and Visualizations
+  4. Exposition Materials and References
+- _Usage_
+  1. Contributing
+  2. License
+  3. Contact
 
 ## __**Datasets**__
 
@@ -25,7 +25,7 @@ The datasets included in this repository are comprehensive collections of data p
 - _Online Deliberation Records_: Transcriptions and records of online discussions and deliberations related to The Synthetic Party.
 _News Media Coverage_: A curated collection of media coverage of The Synthetic Party, highlighting its societal impact and public reception.
 
-- **Emotion and VAD Classification**
+**Emotion and VAD Classification**
 
 This section contains datasets classified according to various basic emotions and VAD (Valence, Arousal, and Dominance) models. These classifications provide insights into the affective and emotional dimensions of the data, offering an understanding of public sentiment within  discourse. The classification is executed through several models, each lending a perspective on the data:
 
@@ -33,7 +33,7 @@ This section contains datasets classified according to various basic emotions an
 - BERT Danish: Large language model fine-tuned on Danish SoMe material, which classifies to eight basic emotions: https://huggingface.co/alexandrainst/da-emotion-classification-base
 - GPT 3-5: Large language model that provides the VAD analysis, mapping data onto the valence-arousal-dominance spectrum, and correlates with new emotion classificaiton.
 
-- **Analysis and Visualizations**
+**Analysis and Visualizations**
 
 This section presents a range of analyses performed on the datasets, including:
 
@@ -50,6 +50,7 @@ A series of visualizations are included to offer interpretative insights into th
 - _Network Diagrams_: Showing the interconnections between different elements within the datasets.
 - _Keywords maps_: Showing themes and topical debates
 
+**Exposition Materials and References**
 Included are also all materials used in the exposition of The Synthetic Party:
 
 1) _Textual Expositions_: Detailed written material explaining the concept and operations of The Synthetic Party.
@@ -68,12 +69,12 @@ _Read the Documentation_: Each dataset and visualization is accompanied by compr
 
 Contributions to this project are welcome. To contribute:
 
-**Fork the Repository**
+  _Fork the Repository_
 
-Create your Feature Branch (git checkout -b feature/YourFeature)
-Commit your Changes (git commit -m 'Add some YourFeature')
-Push to the Branch (git push origin feature/YourFeature)
-Open a Pull Request
+  Create your Feature Branch (git checkout -b feature/YourFeature)
+  Commit your Changes (git commit -m 'Add some YourFeature')
+  Push to the Branch (git push origin feature/YourFeature)
+  Open a Pull Request
 
 **License**
 

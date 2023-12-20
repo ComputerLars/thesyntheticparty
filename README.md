@@ -1,5 +1,5 @@
 # thesyntheticparty
-_The Synthetic Party (Det Syntetiske Parti)_, made by party secretary _Computer Lars_.
+Repo for _The Synthetic Party (Det Syntetiske Parti)_, made by party secretary _Computer Lars_.
 
 ## **Overview**
 

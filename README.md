@@ -16,7 +16,7 @@ This GitHub repository hosts an extensive collection of datasets, emotion and Va
 - License
 - Contact
 
-_**Datasets**_
+## _**Datasets**_
 
 The datasets included in this repository are comprehensive collections of data pertaining to The Synthetic Party's operation . These datasets include but are not limited to:
 
@@ -55,7 +55,7 @@ Included are also all materials used in the exposition of The Synthetic Party:
 _Textual Expositions_: Detailed written material explaining the concept and operations of The Synthetic Party.
 _Multimedia Files_: Audiovisual materials used in the exposition, including presentations, videos, and interactive media.
 
-**Usage**
+## **Usage**
 
 This repository is intended for researchers, political theorists, data scientists, and artists interested in the intersection of AI, democracy, and art. To use the datasets and materials:
 
@@ -78,7 +78,9 @@ Open a Pull Request
 
 This project is licensed under the [Creative Commons] - see the LICENSE.md file for details.
 
-**Contact**
+## **Contact**
 
 For inquiries related to The Synthetic Party, please contact Asker Bryld Staunæs at abs@cc.au.dk
+
+See also: https://computerlars.com & https://detsyntetiskeparti.org
 

@@ -77,8 +77,10 @@ These are all created by **Matplotlib**, where:
 This repository is intended for researchers, political theorists, data scientists, and artists interested in the intersection of AI, democracy, and art. To use the datasets and materials:
 
 _Clone the Repository_: Use Git or checkout with SVN using the web URL: git clone https://github.com/YourRepository/thesyntheticparty.git
+
 _Explore the Contents_: Navigate through the directories to find datasets, visualizations, and analyses.
-_Read the Documentation_: Each dataset and visualization is accompanied by comprehensive documentation explaining its context and usage.
+
+_Read the Documentation_: Each folder is accompanied by concise documentation explaining its context and usage.
 
 **Contributing**
 

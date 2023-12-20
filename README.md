@@ -3,7 +3,7 @@ _The Synthetic Party (Det Syntetiske Parti)_
 
 ## **Overview**
 
-This GitHub repository accompanies the exposition of "The Synthetic Party as Tchno-Social Sculpture" submitted to _The Journal of Artistic Research_. It hosts an extensive collection of datasets and theoretical references, emotion and Valence-Arousal-Dominance (VAD) classifications, visualizations, analyses, and supplementary materials used to represent The Synthetic Party of Denmark. The project challenges traditional notions of political representation by leveraging machine learning to interpret and articulate constituency sentiments. The repository of The Synthetic Party's data material should be of interest to those working in the intersection of political theory, artificial intelligence, and artistic research.
+This GitHub repository accompanies the exposition of "The Synthetic Party as Techno-Social Sculpture" submitted to _The Journal of Artistic Research_. It hosts an extensive collection of datasets and theoretical references, emotion and Valence-Arousal-Dominance (VAD) classifications, visualizations, analyses, and supplementary materials used to represent The Synthetic Party of Denmark. The project challenges traditional notions of political representation by leveraging machine learning to interpret and articulate constituency sentiments. The repository of The Synthetic Party's data material should be of interest to those working in the intersection of political theory, artificial intelligence, and artistic research.
 
 **Contents**
 - Datasets
@@ -22,16 +22,16 @@ The datasets included in this repository are comprehensive collections of data p
 
 - _Historical and Theoretical Data_: Insights into the philosophical and political underpinnings of The Synthetic Party.
 - _Training Data_: The data used to train the AI models, including textual data from 200+ Danish micro-parties as found within their founding documents, online deliberations, websites, and media coverage.
-- _AI Party Program_: The text-generated party program of The Synthetic Party which is based on the training data. Inferred from the party's publications on _Medium_: https://medium.com/@ComputerLars 
-- _Online Deliberation Records_: Transcriptions and records of online discussions and deliberations taking place on The Synthetic Party's _Discord_-server: https://discord.com/invite/Hmy6tKf8yf 
+- _AI Party Program_: The text-generated party program of The Synthetic Party which is based on the training data. Inferred from the party's publications on [Medium](https://medium.com/@ComputerLars)
+- _Online Deliberation Records_: Transcriptions and records of online discussions and deliberations taking place on The Synthetic Party's [Discord(https://discord.com/invite/Hmy6tKf8yf)-server
 - _News Media Coverage_: A curated collection of international media coverage of The Synthetic Party, highlighting its societal impact and public reception.
 
 **Emotion and VAD Classification**
 
 This section contains datasets classified according to various basic emotions and VAD (Valence, Arousal, and Dominance) models. These classifications provide insights into the affective and emotional dimensions of the data, offering an understanding of public sentiment within  discourse. The classification is executed through several models, each lending a perspective on the data:
 
-- _Text2Emotion_: Lexical bag-of-words approach focusing on six basic emotions such as happiness, sadness, anger, etc. PyPi-library: https://pypi.org/project/text2emotion/
-- _BERT Danish_: Large language model fine-tuned on Danish SoMe material, which classifies to eight basic emotions: https://huggingface.co/alexandrainst/da-emotion-classification-base
+- _Text2Emotion_: Lexical bag-of-words approach focusing on six basic emotions such as happiness, sadness, anger, etc. A [PyPi Library](https://pypi.org/project/text2emotion/)
+- _BERT Danish_: Large language model fine-tuned on Danish SoMe material, which classifies to eight basic emotions, e.g. [BERT-DA](https://huggingface.co/alexandrainst/da-emotion-classification-base)
 - _GPT 3.5_: Large language model that provides the VAD analysis, mapping data onto the valence-arousal-dominance spectrum, and correlates with new emotion classificaiton.
 
 **Analysis and Visualizations**
@@ -49,6 +49,10 @@ A series of visualizations are included to offer interpretative insights into th
 - _VAD Cubes_: Displaying the distribution of data across the valence-arousal-dominance spectrum.
 - _Network Diagrams_: Showing the interconnections between different elements within the datasets.
 - _Keywords maps_: Showing themes and topical debates
+
+These are all created by **Matplotlib**, where:
+- 1. The _matplotlib.pyplot.bar_ function creates the bar graphs illustrating the categorical aspect of emotions.
+- 2. The _mpl_toolkits.mplot3d_ toolkit is utilized for dimensional representation to generate 3D cubes depicting valence, arousal, and dominance.
 
 **Exposition Materials and References**
 

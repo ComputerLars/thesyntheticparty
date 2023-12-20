@@ -87,7 +87,7 @@ Contributions to this project are welcome. To contribute:
 
 **License**
 
-This project is licensed under the [Creative Commons] - see the LICENSE.md file for details.
+This project is licensed under the [Creative Commons](https://github.com/askerbryld/thesyntheticparty/blob/main/LICENSE) - see the LICENSE.md file for details.
 
 ## **Contact**
 

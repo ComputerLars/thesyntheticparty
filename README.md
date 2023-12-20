@@ -30,7 +30,7 @@ This section contains datasets classified according to various basic emotions an
 - BERT Danish: Large language model fine-tuned on Danish SoMe material, which classifies to eight basic emotions: https://huggingface.co/alexandrainst/da-emotion-classification-base
 - GPT 3-5: Large language model that provides the VAD analysis, mapping data onto the valence-arousal-dominance spectrum, and correlates with new emotion classificaiton.
 
-**Analysis** and **_Visualizations_**
+**Analysis and Visualizations_**
 This section presents a range of analyses performed on the datasets, including:
 
 _Sentiment Analysis_: Evaluating the emotional content within the political discourse.

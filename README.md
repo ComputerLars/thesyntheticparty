@@ -26,10 +26,10 @@ The project challenges traditional notions of political representation by levera
 
 ## **References and Material**
 
-1. _Literature references_: List of references for theory included in the exposition.
-2. _Textual Basis for Scripts__: Detailed written material explaining the concept and operations of The Synthetic Party.
-3. _Multimedia Files_: Audiovisual materials used in the exposition, including presentations, videos, and interactive media.
-4. _File dump_ of web scraped visual and video material used in the exposition scripts.
+- _Literature references_: List of references for theory included in the exposition.
+-  _Textual Basis for Scripts__: Detailed written material explaining the concept and operations of The Synthetic Party.
+- _Multimedia Files_: Audiovisual materials used in the exposition, including presentations, videos, and interactive media.
+- _File dump_ of web scraped visual and video material used in the exposition scripts.
 
 ## **Datasets**
 
@@ -66,8 +66,8 @@ A series of visualizations are included to offer interpretative insights into th
 - _Keywords maps_: Showing themes and topical debates
 
 These are all created by **Matplotlib**, where:
-- 1. The _matplotlib.pyplot.bar_ function creates the bar graphs illustrating the categorical aspect of emotions.
-- 2. The _mpl_toolkits.mplot3d_ toolkit is utilized for dimensional representation to generate 3D cubes depicting valence, arousal, and dominance.
+  1. The _matplotlib.pyplot.bar_ function creates the bar graphs illustrating the categorical aspect of emotions.
+  2. The _mpl_toolkits.mplot3d_ toolkit is utilized for dimensional representation to generate 3D cubes depicting valence, arousal, and dominance.
 
 ## **Usage**
 

@@ -9,12 +9,8 @@ The project challenges traditional notions of political representation by levera
 
 ## **Content & Folders**
 - [References and Material](#references-and-material)
-  1. List of literature and theory
-  2. Texts from scripts
-  3. Videos of scripts
-  4. Visual miscellaneous
 
-- _Datasets](#datasets)
+- [Datasets](#datasets)
   1. Clean datasets
   2. Emotion and VAD Classifications
   3. Analysis and Visualizations
@@ -27,6 +23,8 @@ The project challenges traditional notions of political representation by levera
 
 ## **References and Material**
 
+Contains the following sub-folders with documents and files.
+
 - _Literature references_: List of references for theory included in the exposition.
 -  _Textual Basis for Scripts__: Detailed written material explaining the concept and operations of The Synthetic Party.
 - _Multimedia Files_: Audiovisual materials used in the exposition, including presentations, videos, and interactive media.
@@ -36,6 +34,8 @@ The project challenges traditional notions of political representation by levera
 ## **Datasets**
 
 The datasets included in this repository are comprehensive collections of data pertaining to The Synthetic Party's operation. These datasets include but are not limited to:
+
+**Clean Datasets**
 
 - _Historical and Theoretical Data_: Insights into the philosophical and political underpinnings of The Synthetic Party.
 - _Training Data_: The data used to train the AI models, including textual data from 200+ Danish micro-parties as found within their founding documents, online deliberations, websites, and media coverage.

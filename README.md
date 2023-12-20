@@ -3,10 +3,12 @@ Repo for _The Synthetic Party (Det Syntetiske Parti)_, made by party secretary _
 
 ## **Overview**
 
-This GitHub repository accompanies the exposition of ["The Synthetic Party as Techno-Social Sculpture"](https://www.researchcatalogue.net/view/2370287/2370288/731) as submitted to _The Journal of Artistic Research_. It hosts an extensive collection of datasets and theoretical references, emotion and Valence-Arousal-Dominance (VAD) classifications, visualizations, analyses, and supplementary materials used to represent The Synthetic Party of Denmark. The project challenges traditional notions of political representation by leveraging machine learning to interpret and articulate constituency sentiments. The repository of The Synthetic Party's data material should be of interest to those working in the intersection of political theory, artificial intelligence, and artistic research.
+This GitHub repository accompanies the exposition of ["The Synthetic Party as Techno-Social Sculpture"](https://www.researchcatalogue.net/view/2370287/2370288/731) as submitted to _The Journal of Artistic Research_. It hosts an extensive collection of datasets and theoretical references, emotion and Valence-Arousal-Dominance (VAD) classifications, visualizations, analyses, and supplementary materials used to represent The Synthetic Party of Denmark. 
 
-**Contents**
-- References and Materials
+The project challenges traditional notions of political representation by leveraging machine learning to interpret and articulate constituency sentiments. The repository of The Synthetic Party's data material should be of interest to those working in the intersection of political theory, artificial intelligence, and artistic research.
+
+## **Content & Folders**
+- References and Material
   1. List of literature and theory
   2. Texts from scripts
   3. Videos of scripts
@@ -22,7 +24,7 @@ This GitHub repository accompanies the exposition of ["The Synthetic Party as Te
   2. License
   3. Contact
 
-## **References and materials**
+## **References and Material**
 
 1. _Literature references_: List of references for theory included in the exposition.
 2. _Textual Basis for Scripts__: Detailed written material explaining the concept and operations of The Synthetic Party.

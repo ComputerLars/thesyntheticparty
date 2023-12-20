@@ -7,10 +7,10 @@ This GitHub repository accompanies the exposition of ["The Synthetic Party as Te
 
 **Contents**
 - References and Materials
-1. List of literature and theory
-2. Texts from scripts
-3. Videos of scripts
-4. Visual miscellaneous
+  1. List of literature and theory
+  2. Texts from scripts
+  3. Videos of scripts
+  4. Visual miscellaneous
 
 - Datasets
   1. Clean datasets
@@ -91,7 +91,7 @@ This project is licensed under the [Creative Commons](https://github.com/askerbr
 
 ## **Contact**
 
-For inquiries related to The Synthetic Party, please contact artist-researcher [Asker Bryld Staunæs](abs@cc.au.dk) or party secretary [Computer Lars](computerlars@mindfuture.com).
+For inquiries related to The Synthetic Party, please contact artist-researcher [Asker Bryld Staunæs](mailto:abs@cc.au.dk) or party secretary [Computer Lars](mailto:computerlars@mindfuture.com).
 
 1. [Research Profile: Asker Bryld Staunæs](https://pure.au.dk/portal/da/persons/abs%40cc.au.dk)
 

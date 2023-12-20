@@ -3,7 +3,7 @@ Repo for _The Synthetic Party (Det Syntetiske Parti)_, made by party secretary _
 
 ## **Overview**
 
-This GitHub repository accompanies the exposition of "The Synthetic Party as Techno-Social Sculpture", submitted to _The Journal of Artistic Research_. It hosts an extensive collection of datasets and theoretical references, emotion and Valence-Arousal-Dominance (VAD) classifications, visualizations, analyses, and supplementary materials used to represent The Synthetic Party of Denmark. 
+This GitHub repository accompanies the exposition of ["The Synthetic Party as Techno-Social Sculpture"](https://www.researchcatalogue.net/view/2370287/2370288/731) as submitted to _The Journal of Artistic Research_. It hosts an extensive collection of datasets and theoretical references, emotion and Valence-Arousal-Dominance (VAD) classifications, visualizations, analyses, and supplementary materials used to represent The Synthetic Party of Denmark. 
 
 The project challenges traditional notions of political representation by leveraging machine learning to interpret and articulate constituency sentiments. The repository of The Synthetic Party's data material should be of interest to those working in the intersection of political theory, artificial intelligence, and artistic research.
 
@@ -65,7 +65,9 @@ Included are also all materials used in the exposition of The Synthetic Party:
 
 2) _Multimedia Files_: Audiovisual materials used in the exposition, including presentations, videos, and interactive media.
 
-3) _Document of literature and video references from the exposition on The Synthetic Party_
+3) _Document of literature and theory references from the exposition on The Synthetic Party_
+
+4) _File dump_ of web scraped visual and video material used in the exposition scripts.
 
 ## **Usage**
 

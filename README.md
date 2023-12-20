@@ -3,7 +3,9 @@ Repo for _The Synthetic Party (Det Syntetiske Parti)_, made by party secretary _
 
 ## **Overview**
 
-This GitHub repository accompanies the exposition of "The Synthetic Party as Techno-Social Sculpture", submitted to _The Journal of Artistic Research_. It hosts an extensive collection of datasets and theoretical references, emotion and Valence-Arousal-Dominance (VAD) classifications, visualizations, analyses, and supplementary materials used to represent The Synthetic Party of Denmark. The project challenges traditional notions of political representation by leveraging machine learning to interpret and articulate constituency sentiments. The repository of The Synthetic Party's data material should be of interest to those working in the intersection of political theory, artificial intelligence, and artistic research.
+This GitHub repository accompanies the exposition of "The Synthetic Party as Techno-Social Sculpture", submitted to _The Journal of Artistic Research_. It hosts an extensive collection of datasets and theoretical references, emotion and Valence-Arousal-Dominance (VAD) classifications, visualizations, analyses, and supplementary materials used to represent The Synthetic Party of Denmark. 
+
+The project challenges traditional notions of political representation by leveraging machine learning to interpret and articulate constituency sentiments. The repository of The Synthetic Party's data material should be of interest to those working in the intersection of political theory, artificial intelligence, and artistic research.
 
 **Contents**
 - Datasets
@@ -68,7 +70,7 @@ Included are also all materials used in the exposition of The Synthetic Party:
 
 This repository is intended for researchers, political theorists, data scientists, and artists interested in the intersection of AI, democracy, and art. To use the datasets and materials:
 
-_Clone the Repository_: Use Git or checkout with SVN using the web URL.
+_Clone the Repository_: Use Git or checkout with SVN using the web URL: git clone https://github.com/YourRepository/thesyntheticparty.git
 _Explore the Contents_: Navigate through the directories to find datasets, visualizations, and analyses.
 _Read the Documentation_: Each dataset and visualization is accompanied by comprehensive documentation explaining its context and usage.
 
@@ -88,7 +90,12 @@ This project is licensed under the [Creative Commons] - see the LICENSE.md file 
 
 ## **Contact**
 
-For inquiries related to The Synthetic Party, please contact Asker Bryld Staunæs at abs@cc.au.dk
+For inquiries related to The Synthetic Party, please contact artist-researcher [Asker Bryld Staunæs](abs@cc.au.dk) or party secretary [Computer Lars](computerlars@mindfuture.com).
 
-See also: https://computerlars.com & https://detsyntetiskeparti.org
+1. [Research Profile: Asker Bryld Staunæs](https://pure.au.dk/portal/da/persons/abs%40cc.au.dk)
+
+2. [Blog: Computer Lars](https://computerlars.com)
+
+3. [Official website: The Synthetic Party](https://detsyntetiskeparti.org)
+
 

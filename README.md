@@ -51,6 +51,7 @@ A series of visualizations are included to offer interpretative insights into th
 - _Keywords maps_: Showing themes and topical debates
 
 **Exposition Materials and References**
+
 Included are also all materials used in the exposition of The Synthetic Party:
 
 1) _Textual Expositions_: Detailed written material explaining the concept and operations of The Synthetic Party.
@@ -71,12 +72,11 @@ _Read the Documentation_: Each dataset and visualization is accompanied by compr
 
 Contributions to this project are welcome. To contribute:
 
-  _Fork the Repository_
-
-  Create your Feature Branch (git checkout -b feature/YourFeature)
-  Commit your Changes (git commit -m 'Add some YourFeature')
-  Push to the Branch (git push origin feature/YourFeature)
-  Open a Pull Request
+  1. Fork the Repository_
+  2. Create your Feature Branch (git checkout -b feature/YourFeature)
+  3. Commit your Changes (git commit -m 'Add some YourFeature')
+  4. Push to the Branch (git push origin feature/YourFeature)
+  5. Open a Pull Request
 
 **License**
 

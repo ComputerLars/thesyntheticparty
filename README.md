@@ -1,7 +1,7 @@
 # thesyntheticparty
 _The Synthetic Party (Det Syntetiske Parti)_
 
-**Overview**
+## **Overview**
 
 This GitHub repository hosts an extensive collection of datasets, emotion and Valence-Arousal-Dominance (VAD) classifications, visualizations, analyses, and supplementary materials used to represent The Synthetic Party of Denmark. The project challenges traditional notions of political representation by leveraging machine learning to interpret and articulate constituency sentiments. The repository of The Synthetic Party's data material should be of interest to those working in the intersection of political theory, artificial intelligence, and artistic research.
 

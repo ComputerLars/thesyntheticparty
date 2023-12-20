@@ -8,21 +8,21 @@ This GitHub repository accompanies the exposition of ["The Synthetic Party as Te
 The project challenges traditional notions of political representation by leveraging machine learning to interpret and articulate constituency sentiments. The repository of The Synthetic Party's data material should be of interest to those working in the intersection of political theory, artificial intelligence, and artistic research.
 
 ## **Content & Folders**
-- _[References and Material](#references-and-material)_
+- [References and Material](#references-and-material)
   1. List of literature and theory
   2. Texts from scripts
   3. Videos of scripts
   4. Visual miscellaneous
 
-- _[Datasets](#datasets)_
+- _Datasets](#datasets)
   1. Clean datasets
   2. Emotion and VAD Classifications
   3. Analysis and Visualizations
   
-- _[Usage](#usage)_
-  1. [Contributing](#contributing)
-  2. [License](#license)
-  3. [Contact](#contact)
+- [Usage](#usage)
+  1. Contributing
+  2. License
+  3. Contact
 
 
 ## **References and Material**
@@ -31,6 +31,7 @@ The project challenges traditional notions of political representation by levera
 -  _Textual Basis for Scripts__: Detailed written material explaining the concept and operations of The Synthetic Party.
 - _Multimedia Files_: Audiovisual materials used in the exposition, including presentations, videos, and interactive media.
 - _File dump_ of web scraped visual and video material used in the exposition scripts.
+
 
 ## **Datasets**
 
@@ -69,6 +70,7 @@ A series of visualizations are included to offer interpretative insights into th
 These are all created by **Matplotlib**, where:
   1. The _matplotlib.pyplot.bar_ function creates the bar graphs illustrating the categorical aspect of emotions.
   2. The _mpl_toolkits.mplot3d_ toolkit is utilized for dimensional representation to generate 3D cubes depicting valence, arousal, and dominance.
+
 
 ## **Usage**
 

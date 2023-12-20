@@ -8,7 +8,7 @@ This GitHub repository accompanies the exposition of "The Synthetic Party as Tch
 **Contents**
 - Datasets
   1. Clean datasets
-  2. Emotion and VAD Classification
+  2. Emotion and VAD Classifications
   3. Analysis and Visualizations
   4. Exposition Materials and References
 - Usage

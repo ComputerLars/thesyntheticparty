@@ -8,21 +8,22 @@ This GitHub repository accompanies the exposition of ["The Synthetic Party as Te
 The project challenges traditional notions of political representation by leveraging machine learning to interpret and articulate constituency sentiments. The repository of The Synthetic Party's data material should be of interest to those working in the intersection of political theory, artificial intelligence, and artistic research.
 
 ## **Content & Folders**
-- _References and Material_
+- _[References and Material](#references-and-material)_
   1. List of literature and theory
   2. Texts from scripts
   3. Videos of scripts
   4. Visual miscellaneous
 
-- _Datasets_
+- _[Datasets](#datasets)_
   1. Clean datasets
   2. Emotion and VAD Classifications
   3. Analysis and Visualizations
   
-- _Usage_
-  1. Contributing
-  2. License
-  3. Contact
+- _[Usage](#usage)_
+  1. [Contributing](#contributing)
+  2. [License](#license)
+  3. [Contact](#contact)
+
 
 ## **References and Material**
 

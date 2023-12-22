@@ -32,7 +32,7 @@ Contains the following sub-folders with documents and files.
 
 ## **Datasets**
 
-The datasets included in this repository are comprehensive collections of data pertaining to The Synthetic Party's operation. These datasets include but are not limited to:
+The datasets included in this repository are comprehensive collections of data pertaining to The Synthetic Party's operation. These datasets include:
 
 **Clean Datasets**
 
@@ -44,11 +44,11 @@ The datasets included in this repository are comprehensive collections of data p
 
 **Emotion and VAD Classification**
 
-This section contains datasets classified according to various basic emotions and VAD (Valence, Arousal, and Dominance) models. These classifications provide insights into the affective and emotional dimensions of the data, offering an understanding of public sentiment within  discourse. The classification is executed through several models, each lending a perspective on the data:
+This section contains the above datasets classified according to various basic emotions and affective models. These classifications provide insights into the affective and emotional dimensions of the data, offering an understanding of public sentiment within  discourse. The classification is executed through several models, each lending a perspective on the data:
 
 - _Text2Emotion_: A [PyPi Library](https://pypi.org/project/text2emotion/). Uses a lexical bag-of-words approach to infer six basic emotions from text, such as happiness, sadness, anger, etc.
 - _BERT Danish_: [Large language model](https://huggingface.co/alexandrainst/da-emotion-classification-base) fine-tuned on Danish SoMe material, which classifies eight basic emotions.
-- _GPT 3.5_: Generative large language model by [OpenAI](https://platform.openai.com/docs/models/gpt-3-5) to provide VAD analysis, map data onto the multidimensional valence-arousal-dominance spectrum, and correlate with new emotion classification.
+- _GPT 3.5_: Generative large language model by [OpenAI](https://platform.openai.com/docs/models/gpt-3-5) to provide affective VAD (Valence, Arousal, Dominance) analysis, map data onto the multidimensional valence-arousal-dominance spectrum, and correlate with new emotion classification.
 
 **Visual Analysis**
 
@@ -79,7 +79,7 @@ _Clone the Repository_: Use Git or checkout with SVN using the web URL: git clon
 
 _Explore the Contents_: Navigate through the directories to find datasets, visualizations, and analyses.
 
-_Read the Documentation_: Each folder is accompanied by concise documentation explaining its context and usage.
+_Visit the Exposition_: The datasets are accompanied by an extensive exposition submitted to the Journal of Artistic Research, explaining its context and usage.
 
 **Contributing**
 

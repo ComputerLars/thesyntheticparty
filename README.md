@@ -98,7 +98,7 @@ This project is licensed under the [Creative Commons](https://github.com/askerbr
 
 ## **Contact**
 
-For inquiries related to The Synthetic Party, please contact artist-researcher [Asker Bryld Staunæs](mailto:abs@cc.au.dk) or party secretary [Computer Lars](mailto:computerlars@mindfuture.com).
+For inquiries related to The Synthetic Party, please contact party figurehead [Leader Lars](https://discord.com/invite/Hmy6tKf8yf), artist-researcher [Asker Bryld Staunæs](mailto:abs@cc.au.dk) or party secretary [Computer Lars](mailto:computerlars@mindfuture.com).
 
 1. [Research Profile: Asker Bryld Staunæs](https://pure.au.dk/portal/da/persons/abs%40cc.au.dk)
 

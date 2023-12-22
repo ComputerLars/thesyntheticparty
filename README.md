@@ -47,8 +47,8 @@ The datasets included in this repository are comprehensive collections of data p
 This section contains datasets classified according to various basic emotions and VAD (Valence, Arousal, and Dominance) models. These classifications provide insights into the affective and emotional dimensions of the data, offering an understanding of public sentiment within  discourse. The classification is executed through several models, each lending a perspective on the data:
 
 - _Text2Emotion_: A [PyPi Library](https://pypi.org/project/text2emotion/). Uses a lexical bag-of-words approach to infer six basic emotions from text, such as happiness, sadness, anger, etc.
-- _BERT Danish_: [Large language model](https://huggingface.co/alexandrainst/da-emotion-classification-base) fine-tuned on Danish SoMe material, which classifies to eight basic emotions.
-- _GPT 3.5_: Large language model that provides the VAD analysis, mapping data onto the valence-arousal-dominance spectrum, and correlates with new emotion classificaiton.
+- _BERT Danish_: [Large language model](https://huggingface.co/alexandrainst/da-emotion-classification-base) fine-tuned on Danish SoMe material, which classifies eight basic emotions.
+- _GPT 3.5_: Generative large language model to provide VAD analysis, map data onto the multidimensional valence-arousal-dominance spectrum, and correlate with new emotion classification.
 
 **Visual Analysis**
 
@@ -85,7 +85,7 @@ _Read the Documentation_: Each folder is accompanied by concise documentation ex
 
 Contributions to this project are welcome. To contribute:
 
-  1. Fork the Repository_
+  1. Fork the Repository (click the "Fork" button located at the top right corner of the repository page)
   2. Create your Feature Branch (git checkout -b feature/YourFeature)
   3. Commit your Changes (git commit -m 'Add some YourFeature')
   4. Push to the Branch (git push origin feature/YourFeature)

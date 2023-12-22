@@ -48,7 +48,7 @@ This section contains datasets classified according to various basic emotions an
 
 - _Text2Emotion_: A [PyPi Library](https://pypi.org/project/text2emotion/). Uses a lexical bag-of-words approach to infer six basic emotions from text, such as happiness, sadness, anger, etc.
 - _BERT Danish_: [Large language model](https://huggingface.co/alexandrainst/da-emotion-classification-base) fine-tuned on Danish SoMe material, which classifies eight basic emotions.
-- _GPT 3.5_: Generative large language model to provide VAD analysis, map data onto the multidimensional valence-arousal-dominance spectrum, and correlate with new emotion classification.
+- _GPT 3.5_: Generative large language model by [OpenAI](https://platform.openai.com/docs/models/gpt-3-5) to provide VAD analysis, map data onto the multidimensional valence-arousal-dominance spectrum, and correlate with new emotion classification.
 
 **Visual Analysis**
 

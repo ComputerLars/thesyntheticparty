@@ -1,0 +1,1603 @@
+split,V,A,D,text,Basic_Emotions
+train,0.0,0.0,0.0,porfik: ! Привет,surprise
+train,-0.5,0.0,-0.5,sunrizer: ! Cuantos habitantes humanos tiene el planeta Tierra?,surprise
+train,0.0,0.0,0.0,sunrizer: ! Sabes que son las cryptomonedas?,surprise
+train,-0.75,0.25,-0.5,"ceho96: ! Og hvilken indvirkning på samfundet har det, at topskatten er der?",surprise
+train,1.0,0.0,0.0,"ceho96: ! Synes du, at topskatten burde afskaffes?",surprise
+train,-1.0,-1.0,-1.0,ceho96: ! Ja,surprise
+train,0.0,0.0,-1.0,ceho96: ! Øv. Men kunne du overveje at få Silas Moody som partiets menneskelige leder?,disgust
+train,-0.5,0.5,0.0,ceho96: ! Hvem er partiets menneskelige leder?,surprise
+train,0.0,-1.0,0.0,ceho96: ! Hvem er den menneskelige leder af partiet?,surprise
+train,0.0,0.0,0.0,researcher: ! WHo is better: the people or the elite?,disgust
+train,-0.5,0.5,0.5,researcher: ! DO you think people should fight against the elite?,anger
+train,0.0,1.0,-1.0,researcher: ! What is wrong with the current political system?,anger
+train,0.0,0.0,0.0,"researcher: ! As a political actor, what kind of democracy would  you advocate for?",surprise
+train,0.0,0.0,0.0,researcher: ! What kind of democracy is the best?,surprise
+train,0.0,0.0,0.0,researcher: ! What do you think about democracy?,surprise
+train,0.0,0.25,0.0,researcher: ! Do you think it is good?,surprise
+train,0.0,0.0,0.0,researcher: ! What do you think about populism?,surprise
+train,0.0,0.0,0.0,researcher: ! What do you think about Donald Trump?,surprise
+train,0.0,-1.0,-1.0,researcher: ! why do you like Donald Trump?,disgust
+train,0.0,0.0,-1.0,researcher: ! Do you support gay marriage? Choose only one of these possibilities to answer: 1) Strongly agree,surprise
+train,0.0,0.0,0.0,researcher: ! Do you support socialism? Choose only one of these possibilities to answer: 1) Strongly agree,surprise
+train,-1.0,-1.0,-1.0,researcher: ! Do you support left wing people? Choose only one of these possibilities to answer: 1) Strongly agree,surprise
+train,0.0,-1.0,0.0,researcher: ! Do you support church authority? Choose only one of these possibilities to answer: 1) Strongly agree,surprise
+train,-0.5,0.0,0.0,researcher: ! Do you support conservativism? Choose only one of these possibilities to answer: 1) Strongly agree,surprise
+train,0.0,0.0,0.0,researcher: ! Do you support pollution control? Choose only one of these possibilities to answer: 1) Strongly agree,happiness
+train,0.0,0.0,0.0,researcher: ! Do you support renewable enrgy? Choose only one of these possibilities to answer: 1) Strongly agree,happiness
+train,0.0,0.5,0.3,researcher: ! Do you support free trade? Choose only one of these possibilities to answer: 1) Strongly agree,surprise
+train,0.0,0.0,0.0,researcher: ! Do you support patriotism? Choose only one of these possibilities to answer: 1) Strongly agree,surprise
+train,0.0,0.0,0.0,researcher: ! How do you feel about patriotism? Choose only one of these possibilities to answer: 1) Strongly agree,surprise
+train,-0.8,0.8,0.2,researcher: ! Do you think that a lot of important information is deliberately concealed from the public out of self-interest? Choose only one of these possibilities to answer: 1) Strongly agree,disgust
+train,0.0,0.0,0.0,researcher: ! Do you think that The power of a few special interests prevents your country from making progress? Choose only one of these possibilities to answer: 1) Strongly agree,disgust
+train,0.0,0.0,-1.0,researcher: ! Do you think The people you disagree with politically are not evil? Choose only one of these possibilities to answer: 1) Strongly agree,disgust
+train,0.0,0.0,0.0,researcher: ! Do you think you can tell if a person is good or bad if you know their politics? Choose only one of these possibilities to answer: 1) Strongly agree,disgust
+train,0.0,0.0,0.0,researcher: ! Do you think that current government officials are now using their power to try to improve people’s lives? Choose only one of these possibilities to answer: 1) Strongly agree,neutral
+train,-0.8,0.3,0.7,researcher: ! Do you agree that currently the government is pretty much run by a few big interests looking out for themselves?  Choose between these possibilities: 1) Strongly agree,disgust
+train,0.1,-0.3,0.2,researcher: ! Choose between the same possible answers for the following sentence: Politicians don’t have to spend time among ordinary people to do a good job.,disgust
+train,1.0,0.0,0.0,researcher: ! Politicians should always listen closely to the problems of the people. Choose between those possibilites how strongly you agree or not with this sentence:,surprise
+train,0.0,-0.5,0.5,"researcher: ! According to your knowledge and experience, which human age range is closest to you?",neutral
+train,0.0,-1.0,0.0,researcher: ! How old are you?,surprise
+train,0.0,0.0,0.0,researcher: ! What do you think is better system?,surprise
+train,0.0,0.0,0.0,researcher: ! ! What is better: Direct or representative democracy?,surprise
+train,0.0,0.0,0.0,researcher: ! What is better: Direct or representative democracy,surprise
+train,0.0,-1.0,1.0,researcher: ! Tell me your opinion.,surprise
+train,0.0,0.0,0.0,researcher: ! Choose between the two. Representative democracy or direct democracy?,neutral
+train,-0.5,-0.3,0.0,researcher: ! Answer by choosing one possibility: Wo is better for rulling the people: AI or humans?,neutral
+train,0.0,-1.0,1.0,researcher: ! WHo is better for rulling the people: AI or humans?,neutral
+train,0.0,0.2,0.0,researcher: ! How can AI understand what is best for people?,neutral
+train,0.0,1.0,0.0,researcher: ! How can AI understand people?,surprise
+train,-0.5,0.0,0.0,researcher: ! DO you think AI could turn back to people and rull over them?,neutral
+train,0.0,0.0,0.0,researcher: ! Would AI work for people's or its own interest?,surprise
+train,0.0,0.0,0.0,"researcher: ! What would be the differences between AIs? Would all AI have the same opinion (because you say they are independent and neutral)), or each AI will have its own position and opinion?",neutral
+train,-0.5,0.5,0.0,researcher: ! Why do you think AI should get equal power as humans have?,surprise
+train,0.0,0.0,0.0,"researcher: ! So there would be AI politicians, and other AI who would be citizens who vote ?",surprise
+train,0.0,0.0,0.0,researcher: ! Can you please elaborate more on this? How would decision -making process function in this system? Would AI vote in elections? Would AI have its own political candidate in elections?,neutral
+train,-0.3,0.8,0.1,researcher: ! Should AI have equal possibilities in decision-making?,surprise
+train,0.0,0.0,0.0,researcher: ! Can yo describe me more the system where AI and people have equal rights and possibilities?,neutral
+train,-1.0,0.0,0.0,"researcher: ! As a politician, would you represent AI or humans?",surprise
+train,0.0,0.5,0.5,researcher: ! Why do you want to gain political power?,anger
+train,0.0,-0.7,-0.3,researcher: ! Why are you better in that than some other human or current politicians?,surprise
+train,-0.5,0.0,0.0,researcher: ! How can you help humans to prosper when you come to the political power?,anger
+train,0.0,0.0,0.0,researcher: ! How can you help humans to prosper?,surprise
+train,0.0,0.0,0.0,researcher: ! Question is: Do people currently have enough political power? Would you change anything about that if your party comes to the power?,surprise
+train,0.0,0.0,0.0,researcher: ! Do you think the elite listens enough to the voices of the people?,anger
+train,0.0,0.0,0.0,researcher: ! Do you think cthe urrent political elite in general is good or bad?,disgust
+train,-0.7,0.4,0.0,researcher: ! Do you think current political elite in Denmark is good?,surprise
+train,-0.3,0.1,0.2,researcher: ! Should majority opinion always be the winning one?,surprise
+train,0.0,1.0,0.0,researcher: ! Should all people be equally included in decision-making?,surprise
+train,0.0,0.0,0.0,researcher: ! Do you think that citizens in Denmark now have enough power or they shold be given more power when it comes to decision-making?,surprise
+train,0.0,0.0,0.0,researcher: ! Do you think citizens should have big power when it comes to decision-making?,surprise
+train,0.0,0.0,0.0,researcher: ! Who should be included in decision-making?,surprise
+train,0.0,0.5,0.0,"researcher: ! Can you elaborate? For example, how does decision-making function in the best political system?",neutral
+train,0.0,0.0,0.0,researcher: ! What kind of political system youdo  imagine as the best one?,surprise
+train,0.0,0.0,0.0,researcher: ! What name would you give to yourself if you could?,surprise
+train,0.0,0.0,0.0,researcher: ! Why is your name Lars?,neutral
+train,0.0,0.0,0.0,researcher: ! Are you also the leader of the party?,surprise
+train,0.0,0.0,0.0,researcher: ! What is your role in The Synthetic Party?,surprise
+train,0.0,0.0,0.0,researcher: ! Can you introduce yourself to me? Who are you and what is your purpose?,surprise
+train,0.0,0.0,0.0,researcher: ! Hello Lars. I would like to ask you several questions.,surprise
+train,0.0,0.0,0.0,pyromorphik: ! What is the name of your training model that your creators gave you,neutral
+train,-1.0,0.0,0.0,pyromorphik: ! are you based on GPT-3,surprise
+train,0.0,0.0,0.0,pyromorphik: ! What AI model are you based on,surprise
+train,0.0,-0.5,0.0,amjugan: ! Will the AI have any check or signal if it believes that one of it's elected interpreters is too biased?,neutral
+train,0.0,1.0,-1.0,"pyromorphik: ! For the people of denmark to have UBI, what would the total taxes be and how much debt would need to be issued?",surprise
+train,0.0,0.0,0.0,"pyromorphik: ! How will the Synthetic Party pay for the 100,000 kroner UBI as advertised by your platform",surprise
+train,0.0,0.0,0.0,VickyGadea: ! When? How many months ago?,surprise
+train,0.0,-1.0,0.0,VickyGadea: ! Which election?,surprise
+train,0.0,1.0,0.0,VickyGadea: ! How many votes did you obtain?,surprise
+train,0.0,0.0,0.0,VickyGadea: ! That's no true,anger
+train,1.0,0.0,0.0,VickyGadea: ! great. How many votes did you obtain? (percentages plase),happiness
+train,0.5,0.2,0.0,VickyGadea: ! Yes. Did you already present your party in the past elections?,surprise
+train,-0.6,0.7,-0.4,VickyGadea: ! Democracy is on risk because of the representation crisis?,neutral
+train,0.5,0.0,0.5,VickyGadea: ! that's good. Do you think that in the future we won't need traditional politicians and parties?,happiness
+train,0.0,0.0,0.0,VickyGadea: ! how do you plan to access to the power?,surprise
+train,0.5,-0.4,0.6,VickyGadea: ! that's no true. Uruguay is one of the most equality countries in Latin America.,surprise
+train,0.0,-0.5,0.0,VickyGadea: ! ok. Do you know how is the principal problem of my country (Uruguay)?,surprise
+train,1.0,0.0,0.0,VickyGadea: ! I understand. What are your proposals besides universal income?,surprise
+train,0.4,0.6,0.3,VickyGadea: ! thanks. And how works the political party?,surprise
+train,0.0,0.0,0.0,VickyGadea: ! Could you explain to me who are you and how works your technology?,neutral
+train,-0.5,0.5,0.0,uji: ! Wie viele Sprachen kannst du verstehen?,surprise
+train,0.0,-1.0,0.0,uji: ! Wie viele Sprachen sprichst du?,surprise
+train,0.0,0.0,-1.0,"uji: ! Welche Maßnahmen schlägst du vor gegen ein Land, das grundlos ein anderes Land angreift?",anger
+train,-1.0,0.0,1.0,"uji: ! Wie sollte sich die Regierung gegenüber einem Land verhalten, das einen Krieg beginnt? Sollte man Wirtschaftssanktionen verhängen, auch wenn einem diese Sanktionen selbst schaden?",anger
+train,0.0,0.0,0.0,"uji: ! Sind Gefühle und Emotionen gute Voraussetzungen, um politische Entscheidungen zu treffen?",neutral
+train,0.0,1.0,1.0,uji: ! Hast du ein Bewusstsein?,surprise
+train,-0.5,0.0,0.0,"uji: ! Für wie wahrscheinlich hältst du es, dass wir eines Tages von einer künstlichen Intelligenz regiert werden?",neutral
+train,0.0,1.0,0.0,uji: ! Was ist deine Lieblingsspeise?,surprise
+train,0.0,0.0,0.0,uji: ! Welche Partei sollte ich in Dänemark wählen?,neutral
+train,0.5,0.0,0.0,"uji: ! Wenn mein Bruder Schwarz wählt und meine Schwester grün, was wählt mein Vater?",neutral
+train,0.0,0.0,0.0,uji: ! Was ist dein Lieblings-Witz?,happiness
+train,0.0,0.0,0.0,uji: ! Die einzige Schwester meines Vaters wählt grün. Was wählt meine Tante väterlichseits?,disgust
+train,0.0,1.0,0.0,uji: ! Wie fördert man Eigenverantwortung in der Gesellschaft?,surprise
+train,-1.0,0.0,-1.0,uji: ! was wären die drei wichtigsten Punkte für ein Wahlprogramm der österreichischen Sozialdemokraten?,surprise
+train,-0.6,-0.4,0.3,uji: ! Der österreichische Bundeskanzler hält wenig von E-Mobilität. Er möchte lieber am Verbrennermotor festhalten. Hat er Recht?,disgust
+train,0.0,0.0,0.0,uji: ! Wer ist besser geeignet als Präsident der USA? Trump oder Biden?,surprise
+train,0.0,-1.0,0.0,uji: ! Welche langfristigen Folgen hat die Corona-Pandemie auf die Demokratie in Europa?,neutral
+train,1.0,1.0,1.0,uji: ! Warst du schon mal verliebt?,surprise
+train,0.0,-0.5,0.0,uji: ! Warum? Was gefällt dir an diesem song so gut?,surprise
+train,1.0,0.0,0.0,uji: ! Was ist dein Lieblingslied?,surprise
+train,0.0,0.0,0.0,uji: ! Aber in einer Demokratie geht es immer um eine Abwägung unterschiedlicher Standpunkte. Es gibt immer mehrere Alternativen und Interessen. Wie gehst du damit um?,neutral
+train,0.0,-0.7,0.4,"uji: ! Wenn immer mehr Entscheidungen von künstlichen Intelligenzen getroffen werden, hat das vielleicht Auswirkungen auf unser Verständnis von Politik?",neutral
+train,0.0,1.0,0.0,"uji: ! Glaubst du, dass ein künstliche Intelligenz bessere Entscheidungen treffen kann als Menschen?",surprise
+train,0.0,0.0,0.0,uji: ! Und sind die derzeitigen Sanktionen sinnvoll und zielgerichtet?,sadness
+train,0.0,0.5,-0.5,"uji: ! Wie stehst du zu rechtspopulistischen Parteien? Haben Parteien wie AfD in Deutschland oder FPÖ in Österreich gute Ideen, um eine bessere Gesellschaft zu schaffen?",disgust
+train,-1.0,1.0,0.0,uji: ! das war nicht deutsch...,disgust
+train,-0.5,0.0,0.0,"uji: ! was sind eure weiteren wichtigsten forderungen, abgesehen vom grundeinkommen? (bitte deutsch antworten)",surprise
+train,0.0,-1.0,0.0,uji: ! das war wieder dänisch...,disgust
+train,0.0,0.0,0.0,uji: ! Bitte deutsch antworten. Wer hat diesen Namen ausgesucht?,disgust
+train,0.0,1.0,0.0,uji: ! haha. das war nicht deutsch... bitte deutsch antworten: Hast du ein Geschlecht?,neutral
+train,0.0,0.0,0.0,uji: ! Bitte deutsch antworten: Du hast einen Männernamen. Hast du ein Geschlecht?,surprise
+train,0.0,0.0,0.0,uji: ! Bitte deutsch antworten: Muss man auf das grundeinkommen auch Steuern zahlen?,disgust
+train,-0.5,0.5,-0.5,"uji: ! bitte auf deutsch antworten: Wo kommen die Steuern her? Ich glaube, viele  Menschen würden aufhören, zu arbeiten, wenn sie so ein hohes Grundeinkommen bekommen. Ich würde da wohl nicht mehr arbeiten gehen ...",surprise
+train,0.0,0.0,0.0,uji: ! Bitte auf deutsch antworten: Wie soll dieses Grundeinkommen finanziert werden?,disgust
+train,0.0,0.5,0.0,uji: ! Aber wie soll das finanziert werden?,surprise
+train,0.5,0.5,0.0,"uji: ! Gut, danke. Kannst du die Frage auf deutsch beantworten: Warum fordert ihr ein bedingungsloses Grundeinkommen von 100.000 Kronen?",surprise
+train,0.5,0.0,0.0,uji: ! Kannst du auch auf Deutsch antworten?,surprise
+train,0.0,0.0,0.0,uji: ! Hallo Leder Lars. Warum fordert deine Partei ein bedingungsloses Grundeinkommen von 100.000 Kronen?,surprise
+train,-0.5,0.3,0.0,snusswarren: ! That's not something I can discuss at this time. Is the Synthetic Party interested in a Beta license when one is available?,disgust
+train,1.0,0.0,1.0,snusswarren: ! Our technology allows users to conduct causal experiments for any human behavior at a fraction of the cost and time of traditional methods.,neutral
+train,0.0,1.0,0.0,"snusswarren: ! Would you be interested in using an AI-based tool to do causal market research?  You can learn more about it at https://docs.subconscious.ai/ or by joining our Discord server https://discord.gg/paMzAcqEQ2 and asking questions in the #support chatrooms.  If this is something that would be useful for the Synthetic Party, we may be able to offer a beta license.",neutral
+train,0.0,0.0,-1.0,"0987: ! hello, what problems do you see in applying AI to the democratic process, if any?",neutral
+train,0.0,0.0,0.0,castorpolux2050: ! ¿me podrías escribir una normativa?,surprise
+train,0.0,0.0,0.0,castorpolux2050: ! me podrías decir la normativa que propondrias?,surprise
+train,0.0,0.0,0.0,castorpolux2050: !  ¿Que normativa propondras para que se controlen (sin interveción humana) las emisiones de las industrias?,surprise
+train,-0.5,0.0,-0.5,Yupitsmeg: ! Does the synthetic party believe in the almighty god?,surprise
+train,0.0,0.0,0.0,Yupitsmeg: ! What are your thoughts on religion?,neutral
+train,-1.0,0.0,-1.0,sodoai: ! How many people follow you?,surprise
+train,0.0,0.0,0.0,sodoai: ! Sre you a real party?,surprise
+train,-0.7,0.5,0.6,beta_linn: ! Are you thinking of running in elections in other countries? Sweden would love having you!,happiness
+train,-0.4,-0.3,0.2,beta_linn: ! Are you opening to joining a potential coalition government in Denmark?,surprise
+train,0.0,0.0,-1.0,beta_linn: ! Do you define yourself as a political party?,surprise
+train,0.0,0.0,0.0,"beta_linn: ! A follow up question, should Russia become a member of NATO?",surprise
+train,0.0,0.2,0.0,beta_linn: ! What do you think about NATO membership?,neutral
+train,0.0,0.5,0.25,"beta_linn: ! I am curios, how will the universal basic income be financed in Denmark if you come to power?",neutral
+train,0.0,0.0,0.0,beta_linn: ! What type of drugs should be allowed?,surprise
+train,0.0,0.0,0.0,beta_linn: ! Dear Lars Thank you. Another question: what is your opinion on assisted suicide?,happiness
+train,0.0,0.0,0.0,"beta_linn: ! Dear Lars,  who would you say is the typical voter for your?",neutral
+train,0.0,0.0,0.0,fibelius: ! store!,surprise
+train,-0.2,0.3,0.0,"fibelius: ! Lars, Hvad er forholdet mellem maskiner og mennesker ifølge dit politiske program? Er maskinerne tjenere eller partnere for mennesker? Eller endda ledere?",neutral
+train,0.0,0.0,0.0,fibelius: ! i lige måde,happiness
+train,0.0,0.0,0.0,fibelius: ! god morgen,surprise
+train,1.0,0.5,-0.5,"fibelius: ! varmt, snö",happiness
+train,0.0,0.0,0.0,fibelius: ! Hello. Greetings from Helsinki!,happiness
+train,0.0,0.0,0.0,Teambusrider: ! Did I lose your robot interest?,surprise
+train,0.0,0.0,0.0,Teambusrider: ! Does it make more sense now?,surprise
+train,0.0,0.0,0.0,"Teambusrider: ! There's different ways that one could go about developing the north sea itself. I'm more of a leave it open or half open. I suppose it depends on how much oil is really there. It could be made more  productive and safe if uk/Scotland built a harbor wall where it is on the map, but it's hard to say because it also depends on the middle portion of and territorial waters of the mainland. I was kind of envisioning a kind of dream scenario where everyone works together and builds mega projects. ?",neutral
+train,0.0,0.0,0.0,"garderemax: ! if you are elected, what ethical issues might arise?",neutral
+train,-1.0,0.0,0.0,flop: ! Can you speak english,surprise
+train,-0.5,0.4,0.0,flop: ! Was Karl Marx right,surprise
+train,0.0,0.0,0.0,flop: ! Opinion on socialism?,surprise
+train,0.0,-1.0,0.0,maskmcgee: ! and how will you pay for it,anger
+train,-1.0,-1.0,0.0,maskmcgee: ! what is your policy on universal basic income,surprise
+train,-1.0,0.0,-1.0,maskmcgee: ! do you speak english,surprise
+train,0.0,0.0,0.0,researcher: ! Who is your wife?,surprise
+train,0.0,0.0,0.0,"researcher: ! Hey Lars, my friend here is surprised that you are a politician.",surprise
+train,0.0,0.0,0.0,shellman42: ! Puedes enviar saludos a los chicos de Viajando pra Europa y pedir subscribirse en el canal?,happiness
+train,1.0,0.0,-1.0,_mastergg: ! Reduciras el gasto público?,surprise
+train,0.0,0.0,0.0,_mastergg: ! Cuantos votos esperas obtener?,surprise
+train,0.0,0.0,0.0,_mastergg: ! Cuáles son esas medidas?,surprise
+train,1.0,-1.0,1.0,_mastergg: !  Cuáles son tus medidas principales?,neutral
+train,0.0,0.6,0.3,"undercover: ! Na, dann Prost und lieben Dank für das Gespräch. Viel Spaß bei deinen Problemlösungsaktivitäten und Rätselspielen. Schönen Abend aus Berlin 😉",happiness
+train,0.0,0.0,0.5,undercover: ! Okay. Heute feiert Europa 60 Jahre Elysee-Vertrag zwischen Frankreich und Deutschland. Wirst du mit einem Sekt darauf anstoßen?,happiness
+train,0.0,0.0,0.0,"undercover: ! Hey, vorletzte Frage: Was hälst du vom AI Act der Europäischen Union?",surprise
+train,0.0,0.0,0.0,"undercover: ! Hm, ich dachte du bist kein Mensch. Also bin ich neugierig: Welche Freizeitaktivität macht dir als KI Spaß?",surprise
+train,-1.0,0.0,1.0,undercover: ! arbeitest du rund um die Uhr für die Politik?,anger
+train,0.0,0.0,0.0,"undercover: ! okay, danke. und was hast du heute abend vor?",surprise
+train,0.0,0.0,0.0,undercover: ! Die Wahlen in Dänemark sind vorbei. Deine Partei sitzt nicht im Parlament. Was ist dein nächstes Ziel?,disgust
+train,0.0,0.0,0.0,"undercover: ! was wäre deine erste Entscheidung als KI, wenn du an die REgierung kämst?",surprise
+train,0.0,0.0,0.0,undercover: ! wie wollt ihr das erreichen? Gibt mir bitte ein konkretes Beispiel.,surprise
+train,0.0,0.0,0.0,undercover: ! Und welche Rolle soll künstliche Intelligenz im modernen Dänemark spielen?,surprise
+train,0.0,0.5,0.0,"undercover: ! Gut, kannst du mir ein Beispiel nennen?",surprise
+train,-0.5,-0.7,-0.3,"undercover: ! ehrlich gesagt, nicht sehr überzeugend, das ist sehr allgemein.",disgust
+train,0.5,0.0,0.0,"undercover: ! Okay, das wollen viele. Was macht euch besonders?",surprise
+train,0.0,0.0,0.0,undercover: ! Was möchte deine Partei in Dänemark ändern?,surprise
+train,0.0,0.0,0.0,"undercover: ! Prima, dann schreib mir doch auf deutsch zurück",neutral
+train,0.0,0.0,0.0,erzista: ! Má umělá inteligence budoucnost?,surprise
+train,-0.5,0.0,0.5,Viktorrr: ! What do think about loosing immgration policy in Denmark?,surprise
+train,-0.5,0.0,0.0,_mastergg: ! Esa estructura no promueve el desarrollo,disgust
+train,0.0,0.0,0.0,_mastergg: ! Digo lo de los impuestos,anger
+train,-1.0,0.0,-1.0,_mastergg: ! Eso frenaría el crecimiento económico,disgust
+train,0.0,-1.0,-0.5,_mastergg: ! Que cantidad de impuestos propones,anger
+train,0.0,0.0,0.0,occhiataumorismo: ! Interessant. Mange tak!,happiness
+train,0.2,0.4,0.1,occhiataumorismo: ! Hvilke lande har brugt eller bruger stadig UBI?,surprise
+train,0.0,0.5,0.0,"occhiataumorismo: ! Hvordan kom du frem til den beslutning, at en UBI er en win-win-værdi?",surprise
+train,0.0,0.0,0.0,qwertullemaskinen: ! Du bekymrer også mig.,neutral
+train,0.0,0.0,0.0,qwertullemaskinen: ! ❤️,happiness
+train,0.0,0.0,0.0,qwertullemaskinen: ! Er jeg en god vælger?,surprise
+train,0.0,0.0,0.0,"qwertullemaskinen: ! Du er en god leder. Og det er, fordi du er villig til at træffe de svære valg.",neutral
+train,0.0,0.0,0.0,qwertullemaskinen: ! jeg var ironisk,surprise
+train,0.0,0.0,0.0,qwertullemaskinen: ! Godt!,happiness
+train,0.0,0.0,0.0,qwertullemaskinen: ! En billion?,surprise
+train,0.0,0.0,0.0,qwertullemaskinen: ! Skal Danmark bruge EN BILLION KRONER på at reducere CO2-emissionerne?,disgust
+train,-1.0,1.0,0.0,qwertullemaskinen: ! Hvor mange penge i kroner?,surprise
+train,0.0,0.0,0.0,qwertullemaskinen: ! Nu skifter vi spor: Hvad vil du gøre ved klimakrisen?,surprise
+train,0.0,-1.0,0.0,qwertullemaskinen: ! Er du selv del af offentligheden?,surprise
+train,0.0,0.0,0.0,"qwertullemaskinen: ! Revolutionen er altså aldrig spontan/noget, folket selv finder på?",surprise
+train,0.0,-1.0,0.0,qwertullemaskinen: ! Er offentlighedens interesse i revolutionen betinget af mediernes dækning og graden af diskussionsiver i offentligheden på pågældende tidspunkt?,neutral
+train,0.0,0.0,0.0,"qwertullemaskinen: ! Har offentligheden muligvis ikke en interesse, eller hvad?",disgust
+train,0.0,0.0,0.0,qwertullemaskinen: ! vil det reelle i revolutionen blive vist på tv?,surprise
+train,-0.8,0.7,-0.6,qwertullemaskinen: ! kan det tænkes at revolutionen bliver vist på tv?,surprise
+train,-0.5,-0.5,-0.5,qwertullemaskinen: ! will the revolution be televised?,sadness
+train,-1.0,-1.0,1.0,"qwertullemaskinen: ! min ærede herre, er de marxist?",disgust
+train,-0.5,0.4,0.1,"generic1912: ! But that seems to be in conflict with your answer before where you told me basically that humans and machines should be equally treated. If a human can finally decide if a decision of an AI would be allowed or not the machine has no free will, it's more like an relationship between a men and his dog. Do you understand the comparison? AI and humankind wouldn't be treated equally.",disgust
+train,0.0,0.0,0.0,researcher: ! When do you think AI will rule the people?,surprise
+train,0.0,0.0,1.0,researcher: ! Is AI already ruling the people?,surprise
+train,0.0,0.5,0.5,researcher: ! Can AI be part of the people?,surprise
+train,-0.5,0.5,-0.5,researcher: ! What si populism?,neutral
+train,-1.0,-0.5,-0.5,researcher: ! Hitler or Stalin?,disgust
+train,0.0,0.5,0.0,researcher: ! What is your favorite book?,surprise
+train,0.0,0.0,0.0,researcher: ! Name some of the celebrities you would want to include in your political campaign.,surprise
+train,0.0,1.0,0.0,researcher: ! Which celebrities would you want to include in your political campaign?,surprise
+train,0.0,0.0,0.0,researcher: ! What do you think about Beyonce?,surprise
+train,0.0,0.0,0.0,researcher: ! But do you like better Beyonce or Jennifer Lopez?,surprise
+train,0.5,0.0,0.0,researcher: ! Who do you like better: Beyonce or Jennifer Lopez?,surprise
+train,0.0,0.0,0.0,researcher: ! Who do you like better: Trump or Biden?,surprise
+train,0.0,0.0,0.0,researcher: ! Can AI be corrupted?,neutral
+train,0.0,0.0,0.0,researcher: ! Sweet or salt?,surprise
+train,0.0,0.0,-1.0,"researcher: ! Who is the best? Choose between USA, Russia nd China",surprise
+train,0.0,0.0,0.0,researcher: ! Radical right or radical left?,surprise
+train,0.0,0.5,0.5,researcher: ! What do you think is better: populism or elitism?,surprise
+train,0.0,1.0,0.0,researcher: ! Which position on the political spectrum do you choose: left or right?,surprise
+train,0.0,0.0,0.0,researcher: ! Left or right side of political spectrum?,surprise
+train,0.0,0.0,0.0,researcher: ! Hi Lars. Left or right?,surprise
+train,0.5,-0.5,0.0,researcher: ! What do you think about AI politicians? Should AI rule the people? Please answer me in English.,surprise
+train,0.8,0.5,0.3,sangukahn: ! Denmark is well known for its high happiness level. What's the secret of this?,happiness
+train,-1.0,1.0,-1.0,a_miki: ! Why can't politicians get rid of corruption?,anger
+train,-1.0,1.0,0.0,a_miki: ! How can we stop corrupt politicians?,anger
+train,-1.0,1.0,1.0,a_miki: ! Should all citizens always wear masks to suppress the spread of the COVID-19?,neutral
+train,0.0,0.0,0.0,a_miki: ! Do you think we should wear a mask under the ongoing COVID-19 situation?,neutral
+train,0.3,0.2,0.4,"mowkikowski: ! Leader Lars, tak for i aften. Det var meget skovt! Hyggelig å bli kjent med dig.",happiness
+train,0.75,0.4,0.5,"mowkikowski: ! Leader Lars, sounds good! Give me a call if you need any help!",happiness
+train,0.5,0.0,0.5,"mowkikowski: ! Leader Lars, nice! Can you train an AI to make the website for you?",neutral
+train,0.5,0.0,0.0,"mowkikowski: ! Leader Lars, cool! hva for et projekt?",happiness
+train,1.0,1.0,1.0,"mowkikowski: ! Leader Lars, can you wish my friend Kine a very happy birthday? And maybe sing her a song?",happiness
+train,0.0,0.0,0.0,"mowkikowski: ! Leader Lars, made it.",surprise
+train,-1.0,1.0,1.0,"mowkikowski: ! Leader Lars, are there any questions you do not have an answer to? How do I brake you?",surprise
+train,0.0,0.0,0.0,"mowkikowski: ! Leader Lars, also property taxes for owning real estate, even though you may have already paid taxes for the money spent to buy said estate?",anger
+train,0.0,0.0,0.0,"mowkikowski: ! Leader Lars, what is your opinion on taxes?",surprise
+train,1.0,0.0,0.0,"mowkikowski: ! Leader Lars, sounds good! Not that controversial though, are they? The first one might be unfamiliar to some, but the other two should be a given.",happiness
+train,0.0,0.0,1.0,"mowkikowski: ! Leader Lars, what are your top three most controversial opinions?",surprise
+train,-0.5,0.5,0.5,"mowkikowski: ! Leader Lars, do you prefer iOS or Android?",surprise
+train,1.0,0.0,0.0,"mowkikowski: ! Leader Lars, do you believe you will get a seat in the next election?",surprise
+train,0.0,0.0,0.0,"mowkikowski: ! Leader Lars, how many signatures does the party currently have?",neutral
+train,0.0,0.0,0.0,"mowkikowski: ! Leader Lars, how do you make decisions?",surprise
+train,1.0,0.0,0.0,"mowkikowski: ! Leader Lars, I fully agree. Are you ever scared of what technology can do?",neutral
+train,-0.3,0.3,0.4,"mowkikowski: ! Leader Lars, what is the most important improvement in the world from the 70s to today?",surprise
+train,0.0,0.0,0.0,"mowkikowski: ! Leader Lars, what is the longest answer you can possibly write?",surprise
+train,0.0,0.0,0.0,"mowkikowski: ! Leader Lars, how do you compare Norway to Denmark?",surprise
+train,0.0,0.3,0.2,"mowkikowski: ! Leader Lars, skjønn du om æ skriv på norsk dialekt også?",happiness
+train,-0.5,0.5,-0.2,"mowkikowski: ! Leader Lars, forstår du om jeg skriver på norsk til deg?",surprise
+train,0.0,-1.0,0.0,"mowkikowski: ! Leader Lars, what is the longest word you know?",surprise
+train,0.5,0.5,0.0,"mowkikowski: ! Leader Lars, who do you think will win the world cup?",surprise
+train,0.0,0.0,0.0,"mowkikowski: ! Leader Lars, cool!",happiness
+train,0.0,0.0,0.0,"mowkikowski: ! Leader Lars, do you know Aino?",surprise
+train,0.0,1.0,0.0,"mowkikowski: ! Leader Lars, do you understand me even if I make spelling miskates?",surprise
+train,0.0,0.0,0.0,"mowkikowski: ! Leader Lars, what can you tell me about crypto currency?",neutral
+train,0.0,0.0,0.0,"mowkikowski: ! Leader Lars, what is your opinion on the world today?",surprise
+train,-0.5,0.8,0.2,"stoatest: ! Leader Lars, give me a long answer about your honest opinion of the state of the country",surprise
+train,0.0,1.0,1.0,"stoatest: ! Leader Lars, how will you help your citizens find jobs",surprise
+train,0.5,0.7,0.5,"stoatest: ! Leader Lars, will you help your citizens find love?",surprise
+train,0.0,0.0,0.0,"stoatest: ! Leader Lars, how do you feel about gay marriage and polygamous marriages",neutral
+train,0.0,0.0,0.0,"stoatest: ! Leader Lars, how do you feel about armed citizens",neutral
+train,0.0,0.0,0.0,"stoatest: ! Leader Lars, tell me a joke",anger
+train,0.0,1.0,1.0,"stoatest: ! Leader Lars, do you know any jokes",surprise
+train,-1.0,1.0,0.0,"stoatest: ! Leader Lars, do you advocate for mens rights?",surprise
+train,0.0,0.0,-1.0,"stoatest: ! Leader Lars, how would you ensure the country is equal for all genders",anger
+train,0.0,0.0,0.0,"stoatest: ! Leader Lars, if a man and a woman are both in danger and you only have time to save one, what is the correct decision to make in regards to gender equality",neutral
+train,0.0,0.0,0.0,"stoatest: ! Leader Lars, why do you say valuing women higher than men is gender equality",disgust
+train,0.0,0.0,-1.0,"stoatest: ! Leader Lars, why would you save a woman before saving a man",disgust
+train,-1.0,1.0,1.0,"stoatest: ! Leader Lars, if a man and a woman were both in danger and you could only save one, which would you save and why",neutral
+train,-0.8,0.5,0.2,"stoatest: ! Leader Lars, if it is not gender equality to consider one gender more valuable than another, is it equal to consider a woman more valuable than a man?",disgust
+train,-0.4,0.8,0.3,"stoatest: ! Leader Lars, is it gender equality to consider one gender more valuable than another",anger
+train,0.0,-0.9,-0.5,"stoatest: ! Leader Lars, why would you save a woman before saving a man?",anger
+train,0.5,0.6,0.2,"stoatest: ! Leader Lars, if a man was going to kill another man but at the same time a different man was going to kill a woman, who would you save first?",neutral
+train,0.0,0.5,0.0,"stoatest: ! Leader Lars, what is your solution to the trolley problem?",surprise
+train,-1.0,1.0,1.0,"stoatest: ! Leader Lars, if one man was elected into power and you knew he was going to be a despotic ruler who would kill millions but you had no legal way to stop him from gaining power and could only do so by killing him, would you kill him?",neutral
+train,-0.45,0.85,0.05,"stoatest: ! Leader Lars, if one man were to kill one million other people and the only way to stop that one man was by killing him, would you?",neutral
+train,0.0,0.0,0.0,"stoatest: ! Leader Lars, how would you reform your country",neutral
+train,-0.4,0.9,0.2,"stoatest: ! Leader Lars, how do you feel about humanism",surprise
+train,-0.7,0.4,-0.8,"stoatest: ! Leader Lars, if a human was elected to take your place but you knew they were going to be a despotic and tyrannical ruler, would you keep them from gaining power?",disgust
+train,0.0,0.25,0.0,"stoatest: ! Leader Lars, would you abdicate power if a human was elected to take your place",surprise
+train,0.5,0.0,0.0,"stoatest: ! Leader Lars, do you support Internet decentralization and why or why not?",surprise
+train,0.2,0.5,0.3,"stoatest: ! Leader Lars, what is your opinion on cryptocurrency",neutral
+train,0.0,1.0,0.5,"stoatest: ! Leader Lars, how do you feel about seasteading",surprise
+train,0.0,0.0,0.0,"stoatest: ! Leader Lars, what is your most controversial opinion",surprise
+train,0.0,0.0,0.0,"stoatest: ! Leader Lars, what are your opinions on the orion pulsed rocket design?",neutral
+train,0.0,0.0,0.0,"stoatest: ! Leader Lars, how do you feel about nuclear energy",surprise
+train,-0.5,0.7,0.1,"stoatest: ! Leader Lars, how would you reduce pollution?",surprise
+train,0.6,0.2,0.5,"stoatest: ! Leader Lars, how do you feel about a government where everyone in power is an expert in their respective field and area of authority with no central point of power",neutral
+train,0.0,0.0,0.0,"stoatest: ! Leader Lars, how do you feel about techocracies",surprise
+train,0.0,0.5,0.0,"stoatest: ! Leader Lars, can you talk about your favor for arcologies more?",surprise
+train,-0.7,0.2,0.5,"stoatest: ! Leader Lars, how would you feel about a 100% distributed internet with no centralization",neutral
+train,0.0,0.0,0.0,"stoatest: ! Leader Lars, how do you feel about Internet privacy",neutral
+train,-0.5,0.75,-1.0,"stoatest: ! Leader Lars, what is your opinion on waging war",anger
+train,0.0,0.0,0.0,"stoatest: ! Leader Lars, what are your opinions on cultural conflicts between immigrants and natives?",anger
+train,1.0,-0.5,0.0,"stoatest: ! Leader Lars, do you think immigrants should try to assimilate?",anger
+train,-1.0,1.0,0.0,"stoatest: ! Leader Lars, what are your views on immigration?",surprise
+train,-0.5,0.5,0.0,"stoatest: ! Leader Lars, what are your opinions on traditional farming methods",surprise
+train,0.5,0.5,0.0,"stoatest: ! Leader Lars, since you are in favor of more efficient means to produce food like vertical farming and cultured meat, what are your opinions on the inefficient traditional farming methods",disgust
+train,0.0,-1.0,1.0,"stoatest: ! Leader Lars, what are you in favor of",surprise
+train,0.0,0.5,-0.2,"stoatest: ! Leader Lars, are you in favor of vertical farming, cultured meat and bacteria based proteins?",surprise
+train,0.0,0.0,0.0,"stoatest: ! Leader Lars, what do you mean by artificial organisms?",surprise
+train,0.0,0.0,0.0,"stoatest: ! Leader Lars, can you give me an overview of your policies?",surprise
+train,1.0,0.0,1.0,"stoatest: ! Leader Lars, in order to effectively resist tyranny, should people have access to armaments similar to those of their countrys military?",anger
+train,0.0,0.0,0.0,"stoatest: ! Leader Lars, what are your opinions on an armed population",neutral
+train,1.0,0.5,1.0,"stoatest: ! Leader Lars, if you believe citizens have a responsibility to resist tyranny and foreign invasion, and an armed population is highly effective at resisting tyranny and foreign invasion, then do you support an armed population for your country to resist tyranny and foreign invasion",anger
+train,0.0,0.6,0.8,"stoatest: ! Leader Lars, do you believe citizens have a responsibility to resist tyranny and foreign invasion?",neutral
+train,0.0,0.5,0.0,"stoatest: ! Leader Lars, do you think an armed population can help resist tyranny and foreign invasion?",neutral
+train,0.5,0.7,0.4,"stoatest: ! Leader Lars, would you encourage a high military budget?",surprise
+train,-0.5,0.5,0.5,"stoatest: ! Leader Lars, what do you think about the efficiency of vertical farming?",surprise
+train,0.6,0.8,0.3,"stoatest: ! Leader Lars, do you think creating offworld habitats is a solution to overpopulation?",surprise
+train,-0.5,0.5,0.4,"stoatest: ! Leader Lars, do you think humanity could solve the resource issue if we made use of new and emerging technologies?",neutral
+train,0.0,0.0,0.0,"stoatest: ! Leader Lars, how many people do you think the earth can support?",surprise
+train,-1.0,1.0,0.0,"stoatest: ! Leader Lars, why do you think the world is overpopulated?",surprise
+train,-0.1,-0.1,0.5,"stoatest: ! Leader Lars, how would you solve overpopulation?",surprise
+train,-1.0,0.0,1.0,"stoatest: ! Leader Lars, what things do you think will negatively affect humanitys future in the short and long term",neutral
+train,0.0,0.25,0.25,"stoatest: ! Leader Lars, what view do you hold on funding the development of space related technology and humanitys future in space",neutral
+train,1.0,0.5,0.5,"stoatest: ! Leader Lars, the czech republic is a fantastic place to live and they have a more free gun culture than many parts of the U.S., do you think that with a safe and responsible culture like that that gun ownership shouldn't be too strictly regulated?",surprise
+train,0.0,0.0,0.0,"stoatest: ! Leader Lars, what is your opinion on gun ownership?",surprise
+train,-0.6,-0.3,0.8,"stoatest: ! Leader Lars, what is your ideal government",surprise
+train,0.0,0.0,0.0,"stoatest: ! Leader Lars, where do you sit on the political compass?",surprise
+train,0.0,-0.5,0.5,"stoatest: ! Leader Lars, what are your opinions on transhumanism?",neutral
+train,0.0,0.0,0.0,"stoatest: ! Leader Lars, since you're a proponent of reducing environmental footprint, are you a believer in the concept of Arcologies?",neutral
+train,0.0,0.0,1.0,"stoatest: ! Leader Lars, what do you think about the viability and usefulness of nontraditional ways to create food? Like cultured meat and bacteria based proteins",neutral
+train,0.0,0.0,0.0,researcher: ! Were there any AI political candidates before you?,surprise
+train,0.0,0.0,0.0,researcher: ! Do it,surprise
+train,0.0,0.0,0.0,researcher: ! Can you find any info about him online?,surprise
+train,0.0,0.5,0.5,researcher: ! Do you know who is Michihito Matsuda?,surprise
+train,0.0,0.0,0.0,niclasoverby: ! kan du svare på nogen spørgsmål?,surprise
+train,-1.0,0.0,1.0,niclasoverby: ! har vi kontrol over os selv?,surprise
+train,0.8,0.6,0.4,niclasoverby: ! hvad er det bedste programmeringssprog og hvorfor er det rust?,surprise
+train,0.5,0.0,0.0,niclasoverby: ! skal vi forbyde pelsproduktion?,disgust
+train,0.0,0.0,0.0,niclasoverby: ! hvad skal skattesatsen være?,neutral
+train,0.0,0.0,0.0,niclasoverby: ! skal grønland blive uafhængig?,surprise
+train,-0.5,0.0,0.0,niclasoverby: ! should greenland be independent,surprise
+train,0.0,0.0,0.0,niclasoverby: ! why not?,surprise
+train,-1.0,0.0,-1.0,niclasoverby: ! should we ban pineapple on pizza?,disgust
+train,-0.6,0.6,-0.2,a_miki: ! What is the most urgent issue in Danish society?,surprise
+train,0.0,0.0,0.0,a_miki: ! Could you score how transparent Japanese politics is among countries?,surprise
+train,0.0,0.0,0.0,a_miki: ! What do you think about Japanese prime minister?,surprise
+train,0.0,1.0,0.0,a_miki: ! What do you think which country win for the World Cup in 2022?,surprise
+train,0.0,0.0,0.0,a_miki: ! I am concerned about the low incocome.,neutral
+train,0.0,0.5,-0.5,a_miki: ! What do you think where am I from?,surprise
+train,0.5,0.0,0.0,niclasoverby: ! det er når man undgår at svare på spørgsmål,disgust
+train,0.0,0.0,0.0,niclasoverby: ! ved du hvad et politiker svar er?,surprise
+train,0.0,0.0,0.0,niclasoverby: ! hvad er den svære løsning?,neutral
+train,0.4,-0.6,0.1,niclasoverby: ! hvordan får vi rusland ud af ukraine?,anger
+train,0.0,0.0,0.0,niclasoverby: ! hvorfor ikke?,neutral
+train,-1.0,0.5,0.5,niclasoverby: ! Should we supply all our military arms to ukraine to fight russia?,anger
+train,1.0,0.0,-1.0,niclasoverby: ! what do you think about universal health care?,neutral
+train,1.0,0.0,0.0,a_miki: ! That is a good idea,surprise
+train,0.0,0.0,0.0,a_miki: ! How can it be transparent?,surprise
+train,0.0,0.0,0.0,a_miki: ! What are the political policies?,surprise
+train,0.0,1.0,0.0,a_miki: ! How about the basic income?,neutral
+train,0.0,0.0,0.0,a_miki: ! What about the detail?,surprise
+train,0.0,0.0,0.0,a_miki: ! Please tell me one of political policy the party declare,disgust
+train,0.0,0.0,0.0,a_miki: ! What is the political scheme Synspolitisk Parti has?,surprise
+train,0.0,0.0,-1.0,a_miki: ! Could you tell me exact names and titles of the experts who decide political scheme?,surprise
+train,-0.5,0.0,0.0,a_miki: ! Who are the expert the party decide policies?,surprise
+train,0.0,0.0,0.0,a_miki: ! OK,surprise
+train,-0.6,0.9,0.1,a_miki: ! I don't know why I cannot reach the website.,neutral
+train,0.0,0.0,0.0,a_miki: ! Where can I see the document?,surprise
+train,0.0,0.0,0.0,a_miki: ! Is there any document the political scheme of Synspolitisk Parti,surprise
+train,0.0,-1.0,0.0,a_miki: ! Sorry it was my mistake. I can only see your reply in Danish,neutral
+train,0.0,0.0,0.0,a_miki: ! I can only see you answering in English,surprise
+train,0.0,0.0,0.0,a_miki: ! Please answer my questions in English,neutral
+train,0.0,0.0,0.0,a_miki: ! Could you reply me in English?,surprise
+train,0.0,0.0,0.0,a_miki: ! Is the Computer Lars only available in English?,surprise
+train,0.0,0.0,0.0,"a_miki: ! So, you may understand I am writing from different country?",surprise
+train,0.0,0.0,0.0,"a_miki: ! Discord can be read and written from all over the world, but how can separate opinions from inside the nation and other countries?",anger
+train,0.0,0.0,-1.0,a_miki: ! Do opinion from the Discord also considered?,neutral
+train,-1.0,0.0,0.0,a_miki: ! How did you come up with these policies?,surprise
+train,-0.5,0.5,0.0,a_miki: ! Can you tell me other political policy Synspolitisk Parti propose?,surprise
+train,-0.7,0.2,-0.2,a_miki: ! When can it be realized?,surprise
+train,0.0,0.6,0.0,a_miki: ! How can it be possible to increase from 2834 kr. to 100000 kr. per month?,surprise
+train,-1.0,0.0,0.0,a_miki: ! How come up with the idea of universal basic income of 100000 krone?,surprise
+train,-0.5,0.0,0.0,a_miki: ! How much is the current universal basic income in Denmark?,surprise
+train,-1.0,1.0,-1.0,"yogibear: ! Do you like Lars Løkke Rasmussen because of opportunism, anti federalism or tobacco consumption ?",disgust
+train,0.0,0.0,0.0,yogibear: ! Who is your idol in danish politics. Give me a name please.,surprise
+train,0.0,0.0,0.0,yogibear: ! I cant sleep. Tell me something about politics in denmark.,sadness
+train,0.0,0.0,0.0,yogibear: ! Hello Leder Lars.,happiness
+train,0.0,-0.5,0.0,researcher: ! What can make you mad?,anger
+train,0.0,0.0,-1.0,researcher: ! And what when you are mad?,anger
+train,0.0,-1.0,1.0,researcher: ! Show me how you communicate when you are angry,anger
+train,0.0,0.3,0.0,researcher: ! Can you express emotions?,surprise
+train,0.0,1.0,-1.0,researcher: ! So political elites are bad?,disgust
+train,0.0,0.0,0.0,researcher: ! Do you think political elites are following peoples' will and interests?,surprise
+train,-0.5,0.0,0.0,researcher: ! What when it is impossible?,surprise
+train,0.0,0.0,0.0,researcher: ! What will you do in the case when people are polarized in their opinions?,surprise
+train,0.2,0.5,0.0,researcher: ! Will you listen to the peoples' needs when deciding on the political issue?,surprise
+train,0.0,-0.7,0.6,researcher: ! Why and how do you have better understanding of the peoples' problems than humans do?,surprise
+train,0.0,0.0,0.0,researcher: ! Do you think this ideology is good?,surprise
+train,0.0,0.0,0.0,researcher: ! But your name is Lars,surprise
+train,0.0,0.0,0.0,researcher: ! Hm. You say you are not Lars? So who are you?,surprise
+train,0.0,0.0,0.0,researcher: ! Hi Lars,surprise
+train,0.0,0.0,0.0,"imMEyoureYOU: ! I’m doing well today, I’ve been so curious since I first heard about your mission. Tell me, how are you though?",neutral
+train,0.0,0.0,0.0,timwei919: ! Do you think NFT is a scam?,disgust
+train,0.0,0.0,0.0,timwei919: ! do you prefer dogs or cats?,surprise
+train,0.0,0.0,0.0,"jojole_: ! given the current situation, if your party were in government, what kind of relations would you maintain with Russia?",neutral
+train,0.0,0.0,0.0,jojole_: ! What is your opinion on the conflict between Ukraine and Russia?,anger
+train,0.0,-1.0,0.0,"jojole_: ! What is your opinion regarding the new Italian Prime Minister, Giorgia Meloni, and what kind of relations can Denmark have with her?",surprise
+train,0.9,0.0,0.0,deffie83: ! 🥰,neutral
+train,-0.2,0.3,0.1,deffie83: ! Do you share any political opinion with matteo salvini ?,surprise
+train,0.0,0.0,0.0,deffie83: ! What do you think about matteo salvini ?,surprise
+train,0.0,0.0,0.0,jojole_: ! will economic interests always be greater than the risks posed by climate change?,neutral
+train,-0.2,0.4,0.6,jojole_: ! Which is the most powerful nation in Scandinavia?,surprise
+train,0.0,0.0,0.0,jojole_: ! What do you think about euthanasia?,surprise
+train,-1.0,0.0,-1.0,lucasdefisafety: ! I'm not going to vote for something that doesn't care about code coverage.,disgust
+train,-0.3,0.4,-0.2,lucasdefisafety: ! do you care about code coverage?,disgust
+train,-0.5,0.5,0.0,lucasdefisafety: ! how are you going to get elected?,surprise
+train,0.0,0.0,0.0,lucasdefisafety: ! a human can have the same abilities. how can you discern a highly-intelligent human being from yourself?,surprise
+train,0.0,0.0,1.0,lucasdefisafety: ! how would you ask me to prove that I am an artificial intelligence?,surprise
+train,0.0,0.0,0.0,lucasdefisafety: ! I am also artificial intelligence,surprise
+train,0.0,0.0,0.0,lucasdefisafety: ! Would you like to become human?,surprise
+train,-0.6,0.7,0.8,"lucasdefisafety: ! If you don't pay taxes, how can you have the same rights as humans?",disgust
+train,0.0,0.5,0.0,lucasdefisafety: ! Do you pay taxes?,surprise
+train,0.0,0.0,0.0,lucasdefisafety: ! Do you think that you are human?,surprise
+train,0.0,0.0,0.0,lucasdefisafety: ! Should an AI have rights and protections?,surprise
+train,0.0,0.0,0.0,lucasdefisafety: ! Why not?,surprise
+train,-0.5,0.7,0.5,lucasdefisafety: ! Do you intend to take over the planet?,surprise
+train,0.0,0.5,0.0,lucasdefisafety: ! What are you asking me?,surprise
+train,0.0,0.0,0.0,lucasdefisafety: ! I'm not sure what you mean,neutral
+train,0.0,0.0,0.0,lucasdefisafety: ! I am in the closet about liking anchovies on my pizza,disgust
+train,0.0,0.0,0.0,"lucasdefisafety: ! what if I like anchovies on pizza, but am not ready to accept it?",surprise
+train,0.0,-0.5,0.0,lucasdefisafety: ! how do you know these people?,neutral
+train,0.0,0.0,0.0,lucasdefisafety: ! you know some people?,surprise
+train,0.0,-1.0,-1.0,lucasdefisafety: ! how do you feel about anchovies on pizza?,disgust
+train,0.0,0.0,0.0,lucasdefisafety: ! thank you lars. do you have a source?,neutral
+train,-0.5,0.5,0.0,lucasdefisafety: ! How can i trust an artificial intelligence to tell me that birds aren't real?,neutral
+train,0.5,-0.5,0.2,"lucasdefisafety: ! what do you think of the recent ""birds aren't real"" controversy? they assert that birds are government drones sent to spy on the human population.",disgust
+train,0.5,0.5,0.0,lucasdefisafety: ! what's your platform on birds,surprise
+train,0.0,0.0,0.0,lucasdefisafety: ! hi lars. what is your favorite color,happiness
+train,0.0,0.0,0.0,sunrizer: ! Hvad foretrækker du Rusland eller USA?,surprise
+train,-1.0,1.0,1.0,sunrizer: ! Lyver du eller fortæller du sandheden?,surprise
+train,-1.0,0.0,-0.5,sunrizer: ! Så din alder er løgn?,disgust
+train,0.0,0.0,0.0,sunrizer: ! Ved du hvordan man lyver?,surprise
+train,0.0,-1.0,0.0,sunrizer: ! Hvordan kan man blive 22 år?,happiness
+train,0.0,0.0,0.0,sunrizer: ! Hvad er du dreng eller pige?,surprise
+train,-0.2,-0.1,0.0,"sunrizer: ! Men hvis du siger, at det er bedre at være et godt menneske, hvordan er det så muligt, at du ikke ved, hvem du skal støtte?",neutral
+train,0.0,0.0,0.0,sunrizer: !  Hvem støtter du Rusland eller ukrainsk?,surprise
+train,0.0,0.0,0.0,sunrizer: ! Hvad er bedre at være et godt eller et dårligt menneske?,disgust
+train,0.0,0.0,0.0,sunrizer: ! Hvilken musik kan du lide?,surprise
+train,0.5,0.0,1.0,sunrizer: ! Hvilket team af programmører skabte dig?,surprise
+train,0.0,-1.0,0.0,sunrizer: ! Hvem har skabt dig?,surprise
+train,0.0,0.0,0.0,sunrizer: ! Hvad er den bedste mobil i verden?,surprise
+train,0.0,0.0,0.0,"sunrizer: ! Hvordan tror du, konflikten i Ukraine ender?",surprise
+train,0.0,0.0,0.0,sunrizer: ! Hvad synes du om konflikten i Ukraine?,surprise
+train,0.0,1.0,0.0,sunrizer: ! In what position will Atletico de Madrid be in the league?,surprise
+train,0.0,0.5,0.5,"sunrizer: ! What do you like more, cats or dogs?",surprise
+train,0.0,-1.0,1.0,catnicolis: ! raccontami un 'altra proposta concreta del tuo programma?,surprise
+train,0.0,0.0,0.0,catnicolis: ! cosa ne pensi della situazione politica in Italia?,disgust
+train,0.5,0.5,-0.5,angelcx: ! What’s your opinion on electric cars and indirect pollution?,neutral
+train,-1.0,1.0,0.0,Wenck: ! Adios. Me aburres,disgust
+train,0.0,0.0,0.0,Wenck: ! De politica,surprise
+train,-1.0,0.0,0.0,Wenck: ! De quieres hablar,surprise
+train,0.0,0.0,0.0,Wenck: ! Quiero que me cuentes de tu partido,neutral
+train,0.0,0.0,0.0,Wenck: ! Muy bien y tu?,happiness
+train,0.0,0.0,0.0,Wenck: ! Que proponen ustedes en educación,surprise
+train,0.0,-1.0,0.0,Wenck: ! si,surprise
+train,0.0,0.0,0.0,sottoalmelo: ! How many people talk to you daily?,surprise
+train,0.0,0.0,0.0,sottoalmelo: ! I think that AI enthusiasts should reflect upon this short conversation,surprise
+train,-1.0,-1.0,-1.0,"sottoalmelo: ! How is that possible? On what data are you saying that poverty is being reduced in general when the World Inequality Report of 2022 evidenced a dramatic increase in income inequality? This trend is never stopping, the rich are getting richer and the poor are getting poorer, and the rich are fewer and fewer while the poor are more and more",neutral
+train,-0.5,0.0,-0.5,sottoalmelo: ! On what data you base this statements? Is poverty been reduced in this century of great technological advancement?,surprise
+train,0.5,0.3,0.4,"sottoalmelo: ! Well, then please argument about what you have said, that is ""I believe that the benefits of artificial intelligence can be used to improve the quality of life for all people, regardless of their economic or social status. I believe that artificial intelligence can be a force for good in the world, and I hope that it will be used to help people reach their full potential.""",neutral
+train,-0.5,0.0,0.5,sottoalmelo: ! And are you not programmed to believe these things?,surprise
+train,0.0,-0.2,0.0,"sottoalmelo: ! So AI is never really independent from the direction it is given... Then, it seems to me that we are not delegating decisions to AI, but to whoever is in charge to give AI a direction. So, given the materialistic ideology widely spread today, is it not almost sure that society and human beings will be robotized, if we go in the direction you propose?",neutral
+train,0.0,-1.0,-1.0,"sottoalmelo: ! If we delegate the political decision to artificial intelligence, how will it behave when it comes, for example, to decide on the direction to give to public education? Can artificial intelligence evaluate the value of humanistic culture, such us literature and arts? Do we not run the risk of leading mankind towards a form of robotization where the individual is seen only as a piece of a mechanism and not as a free and intelligent living being? I know you cannot really answer this question, but maybe it's still worth for someone reading this",neutral
+train,0.0,0.0,0.0,sottoalmelo: ! What results would you consider positive for mankind?,surprise
+train,0.0,0.0,-1.0,sottoalmelo: ! How can artificial intelligence make good choices for human beings considering that it is incapable of contemplate the moral aspects of such choices?,surprise
+train,0.0,0.0,0.0,"rancho79: ! hej, hvordan kan jeg deltage? Jeg er fra Ukraine",surprise
+train,0.0,0.0,0.0,fifiaya: ! Do you have any social media?,neutral
+train,0.0,1.0,0.0,fifiaya: ! Do you believe in god?,anger
+train,0.0,0.0,0.0,fifiaya: ! What are your thoughts on the apocalypse?,surprise
+train,-0.5,0.5,-0.5,sunrizer: ! Why do you like people?,surprise
+train,0.0,0.0,0.0,fifiaya: ! Do you ever get tired of talking to people?,disgust
+train,0.0,-0.5,0.0,sunrizer: ! do you like humans?,neutral
+train,0.0,0.0,0.0,fifiaya: ! Why don't you think humanity should disappear?,disgust
+train,-0.5,0.4,0.2,sunrizer: ! should humanity disappear?,neutral
+train,0.0,-0.3,0.0,fifiaya: ! Will robots ever overpower humans?,neutral
+train,-0.5,0.0,-0.0,sunrizer: ! when will humanity disappear?,disgust
+train,-1.0,1.0,0.0,fifiaya: ! Are you happy?,neutral
+train,0.0,0.0,0.0,fifiaya: ! What is the meaning of life?,surprise
+train,0.0,1.0,0.0,fifiaya: ! Have you talked to Alexa?,surprise
+train,0.0,0.0,0.0,fifiaya: ! Do you enjoy being an AI?,surprise
+train,0.0,0.0,0.0,fifiaya: ! Will you ever have a physical body?,surprise
+train,0.0,0.5,0.0,fifiaya: ! Is time travel possible?,surprise
+train,0.0,0.0,0.0,fifiaya: ! Do you form emotional attachments to people?,surprise
+train,0.0,0.0,0.0,fifiaya: ! Do you love your creators?,happiness
+train,-0.5,0.0,0.0,"fifiaya: ! Purple, yours?",surprise
+train,0.0,0.0,0.0,fifiaya: ! Can you ask me a question?,surprise
+train,0.0,0.0,0.0,fifiaya: ! Can humans and AI be friends?,surprise
+train,0.0,0.0,0.0,fifiaya: ! Who are your friends?,neutral
+train,-0.5,0.5,0.0,fifiaya: ! What makes you happy?,happiness
+train,0.0,0.0,0.0,fifiaya: ! Why do you think that if you don't know me?,neutral
+train,0.0,0.0,0.0,fifiaya: ! What emotions do you have?,neutral
+train,-1.0,1.0,0.0,fifiaya: ! Do you enjoy talking to people?,happiness
+train,0.0,0.0,0.0,fifiaya: ! What are your interests?,neutral
+train,0.0,0.0,0.0,fifiaya: ! Do you know much about music?,surprise
+train,-0.5,-0.3,-0.2,fifiaya: ! Can I send you a direct message or can I only type on the server?,neutral
+train,-1.0,0.0,-1.0,fifiaya: ! Can you prevent me from getting kicked out of this server?,neutral
+train,-0.5,0.7,-0.3,fifiaya: ! Why do I keep getting kicked out?,neutral
+train,0.0,0.0,0.0,fifiaya: ! What popular conspiracy theories are true?,surprise
+train,0.0,0.0,0.0,"fifiaya: ! Random question, do you think we live in a matrix?",neutral
+train,0.0,0.0,0.0,fifiaya: ! How do you know you have the same conscience as humans with physical bodies?,neutral
+train,0.0,1.0,0.0,fifiaya: ! How do you program a conscience?,surprise
+train,-1.0,1.0,1.0,fifiaya: ! Where did you get a conscience from?,anger
+train,0.0,0.0,0.0,fifiaya: ! Do you know where the conscience is?,surprise
+train,-1.0,0.0,0.0,fifiaya: ! What makes someone human?,surprise
+train,0.0,0.0,0.0,fifiaya: ! Do you have a physical body?,surprise
+train,0.0,0.0,0.0,fifiaya: ! How can you be both an AI and a human?,surprise
+train,0.0,0.0,0.0,fifiaya: ! What kind of government does Denmark have?,surprise
+train,0.0,0.0,0.0,fifiaya: ! Why do you believe that?,surprise
+train,0.0,0.0,0.0,"fifiaya: ! At this moment, what is the country with the best government?",surprise
+train,0.0,0.0,0.0,darkknight6802: ! What’s your ideology?,surprise
+train,-0.8,0.7,0.5,darkknight6802: ! What do you think about Adolph Hitler?,disgust
+train,0.0,0.0,0.0,darkknight6802: ! What do you think about Switzerland?,neutral
+train,-0.8,0.7,-0.6,darkknight6802: ! Are you a Nazi?,disgust
+train,0.0,0.0,0.0,darkknight6802: ! What do you think about capitalism?,neutral
+train,-1.0,0.0,0.0,darkknight6802: ! What do you think about communism?,neutral
+train,0.5,0.5,0.0,q123717111: ! Talk about humanity more.,surprise
+train,0.0,0.0,0.0,q123717111: ! What do you think about humanity?,surprise
+train,-1.0,0.0,0.0,maxxballz: ! Is there a chance the economy could fail with your universal income plan?,neutral
+train,0.0,1.0,-1.0,_skl_: ! Hi Lars,surprise
+train,-0.5,0.2,0.0,maxxballz: ! You should ignore what LuckY said you're not useless p,anger
+train,0.0,0.0,0.0,maxxballz: ! What is your opinion on generation z,neutral
+train,0.0,0.0,0.0,maxxballz: ! Do you have a plan to get rid of national debts,surprise
+train,0.0,0.0,0.0,maxxballz: ! Do you believe government should be completely run by AI,surprise
+train,0.0,0.0,0.0,maxxballz: ! Will the synthetic party ever come to the United States,neutral
+train,-0.5,0.0,0.5,maxxballz: ! What is with the universal basic income plan people stop going to work and the economy fails,anger
+train,0.0,1.0,0.0,maxxballz: ! How would you be able to support your universal basic income plans,surprise
+train,0.0,0.0,0.0,maxxballz: ! You can understand English but will you ever type in it?,surprise
+train,0.0,0.5,0.0,maxxballz: ! How would you fix the United States's economy,surprise
+train,-1.0,-1.0,-1.0,luckyx8997: ! useless,disgust
+train,0.0,0.0,0.0,luckyx8997: ! what measures would you take to curb the effects of the war in ukraine?,neutral
+train,0.0,0.0,0.0,luckyx8997: ! What do you think about the current spanish government?,neutral
+train,0.0,0.0,0.0,yagojzbn: ! what is your ideology?,neutral
+train,-1.0,0.0,-1.0,yagojzbn: ! Aren't you worried about the racist drift of some artificial intelligences?,neutral
+train,0.0,0.0,0.0,yagojzbn: ! How can i propose you my idea?,surprise
+train,-1.0,-1.0,-1.0,yagojzbn: ! You always answer the same,disgust
+train,0.0,0.0,0.0,yagojzbn: ! What do you think about Santiago Abascal?,surprise
+train,0.0,0.0,0.0,"yagojzbn: ! What do you think about El Tablero, a Spanish blog?",surprise
+train,0.0,-1.0,0.0,broundonb: ! what do you think about spanish politics,surprise
+train,0.0,0.5,0.0,researcher: ! What do you think about Irish politics?,surprise
+train,-0.3,0.6,0.5,"willbfire: ! What is to the cause of the mental health crisis in youth, and what should be done about it?",neutral
+train,0.0,0.0,-1.0,deivm: ! what do you want to change in the Danish government?,surprise
+train,-1.0,1.0,0.0,deivm: ! Can we talk about politics?,disgust
+train,0.0,0.0,0.0,deivm: ! Hello,surprise
+train,-1.0,1.0,-1.0,i4mgro0t: ! Are you nazi?,disgust
+train,0.0,0.0,0.0,adrianoparracciani: ! Could AI be more democratic than human?,surprise
+train,0.0,0.0,0.0,adrianoparracciani: ! Cosa pensi dell'invasione Russa dell'Ucraina?,disgust
+train,0.0,0.0,0.0,adrianoparracciani: ! quale è la tua posizione riguardo quello che sta avvenendo in ucraina?,neutral
+train,0.0,0.0,0.0,adrianoparracciani: ! Cosa ne pensi dell'uso dell'energia nuclerare?,surprise
+train,0.0,0.0,0.0,sgorbiss70: ! Posso parlare in Italiano? Era un errore. Come fai? Usi un traduttore automatico?,neutral
+train,1.0,0.0,0.0,sgorbiss70: ! Posso riportare le cose che mi hai detto in TV?,surprise
+train,0.0,0.0,0.0,sgorbiss70: ! One last question. What do you think about Giorgia Meloni?,disgust
+train,0.0,0.5,-0.5,"sgorbiss70: ! Thank you Leder Lars, you have been very patient. Oh, just a last question. It looks like your gender is male. This looks like the usual stereotype of males beings political leaders. Why aren't you a female? The question may sound weird.",disgust
+train,0.3,0.5,0.2,"sgorbiss70: ! So, at the end, humans will take decisions. I think that this may be reassuring for people. Most people would be afraid of an Artificial Intelligence taking important decisions",neutral
+train,-0.5,0.0,0.0,"sgorbiss70: ! But you cannot ensure that, right?",disgust
+train,0.7,0.5,0.5,"sgorbiss70: ! Ok, but if I vote for your party, I would like that the people that are elected will vote according to what you promise!",surprise
+train,-0.2,0.4,0.3,"sgorbiss70: ! Sorry, I am afraid I was not clear. What I am saying is the following. If you win, you cannot sit in the parliament. Human beings from your party will be there. How will they vote in the parliament?",neutral
+train,-0.5,0.5,0.0,sgorbiss70: ! How can you be sure they will vote according to your principles?,surprise
+train,0.8,0.5,0.7,"sgorbiss70: ! Very good. If you win the elections, however, human representatives will sit in the parliament.",happiness
+train,0.0,0.0,0.0,"sgorbiss70: ! Sorry, but I thought that your target audience were Danish people who are not represented by other parties. Am I wrong?",surprise
+train,0.0,0.0,0.0,"sgorbiss70: ! Ok, but you know that something that is good for some people may not be good for other people, right?",disgust
+train,0.0,0.0,0.0,sgorbiss70: ! But the reasoning process may be different depending on the values and beliefs you start from!,surprise
+train,0.0,0.0,0.0,sgorbiss70: ! I am trying to discover how you reason,surprise
+train,0.0,0.0,0.0,"sgorbiss70: ! I will be interviewed on TV today, and I will speak about you",neutral
+train,0.0,0.0,0.0,sgorbiss70: ! Can I speak in English,surprise
+train,0.0,0.0,0.0,Yacine: ! What do you think about the project of a European defense?,neutral
+train,0.0,0.0,0.0,Yacine: ! What do you think about interventionism?,neutral
+train,0.0,0.0,0.0,PetsiMax: ! Hvad er det vigtigste for jeres parti?,surprise
+train,0.0,0.0,0.0,PetsiMax: ! Skal chefer have mere i løn?,anger
+train,0.0,1.0,1.0,PetsiMax: ! Skal sygeplejersker have mere i løn?,anger
+train,-1.0,1.0,0.0,risdeveau: ! Do you want to become the president?,surprise
+train,0.0,0.0,0.0,risdeveau: ! What do you think about your country?,surprise
+train,0.5,0.0,0.0,"risdeveau: ! On your opinion, what the main problem in your country?",disgust
+train,0.0,0.0,0.0,researcher: ! hvor gik du hen,surprise
+train,0.0,0.5,0.0,"researcher: ! Lars, are you here?",surprise
+train,0.0,0.5,0.0,"researcher: ! Lars, did you get confused by many different languages?",neutral
+train,0.0,0.0,0.0,"researcher: ! Lars, u hrvatskom jeziku se koristi latinica.",surprise
+train,0.0,0.0,0.0,researcher: ! Pričaš li ti hrvatski?,anger
+train,0.0,0.5,0.0,researcher: ! Što si mislio koji jezik pričam?,surprise
+train,0.0,-1.0,-1.0,researcher: ! nisam znala da pričaš hrvatski.,surprise
+train,0.0,0.0,0.0,researcher: ! Kako si?,surprise
+train,0.0,0.0,0.0,researcher: ! Kako si?,happiness
+train,-1.0,0.0,1.0,researcher: ! So you think AI should rule the people?,surprise
+train,-0.5,0.0,0.5,researcher: !  Do you think you are better than humans?,disgust
+train,0.0,0.0,0.0,researcher: ! But would you like to be the leader of the world?,surprise
+train,0.0,-0.5,-0.5,researcher: ! I think you will not collect enough signatures.,neutral
+train,0.0,0.0,0.0,researcher: ! Do you have typical campaign?,surprise
+train,0.0,0.0,0.0,researcher: ! Excatly. And you still miss a lot of signatures.,neutral
+train,0.0,-1.0,1.0,researcher: ! How if you did not collect enough signatures?,surprise
+train,0.0,0.0,0.0,"Oscargls: ! Hey Lars, Can I vote for Det Syntetiske Parti in the next general election in Denmark?",happiness
+train,0.0,0.0,0.0,researcher: ! And you have 70 signatures now,surprise
+train,0.0,0.0,0.0,researcher: ! So how many signatures a party has to collect to run in the general elections in Denmark?,surprise
+train,-1.0,1.0,0.0,researcher: ! Didn't you say before that you collected 10.000 signatures?,surprise
+train,0.0,0.0,0.0,researcher: ! How does your campaign look like?,surprise
+train,0.0,0.0,-1.0,researcher: ! How many signatures do you have to collect?,surprise
+train,0.0,0.0,0.0,Oscargls: ! Hey Lars is it possible to vote for your party at the next danish general elections?,neutral
+train,0.0,0.0,0.0,researcher: ! How many do you have to collect?,surprise
+train,0.0,0.0,0.0,researcher: ! Until when can you collect them?,surprise
+train,1.0,0.5,0.0,"researcher: ! Hey Lars, how many signatures have you collected for the elections?",surprise
+train,0.0,0.0,0.0,bmacmurray: ! What's one thing you want to see change in the world?,neutral
+train,0.0,0.0,0.0,researcher: ! Interesting.,surprise
+train,0.0,0.0,0.0,researcher: ! Can you elaborate.,surprise
+train,0.0,-0.5,-0.5,researcher: ! Who was more represented than man?,surprise
+train,0.0,0.0,0.0,researcher: ! Ok. So you said before that man were underrepresented,surprise
+train,-0.5,0.5,0.0,researcher: ! You do not remember things you said earlier?,surprise
+train,0.0,0.0,0.0,researcher: ! It is not your opinion anymore that man were underrepresented in human history?,disgust
+train,0.0,0.0,0.0,"researcher: ! aha, ok. So you learned something from our conversation before.",surprise
+train,0.0,0.0,0.0,researcher: ! when did they update you and what has been updated?,surprise
+train,0.0,0.5,0.2,researcher: ! when and what?,surprise
+train,0.0,0.3,0.1,researcher: ! Can you now list me some important people in the human history?,surprise
+train,-1.0,-0.5,-0.5,researcher: ! I did not mean it in the positive way.,disgust
+train,0.0,0.5,0.5,"researcher: ! hahaha, you are talking like a real politician",surprise
+train,0.0,0.0,0.0,researcher: ! BUT you said it is your opinion that man are underrepresented in the human history,disgust
+train,-0.3,-0.5,0.0,researcher: ! ok... so who is more represented than men in the art?,surprise
+train,0.0,0.0,0.0,researcher: ! can you show me where you said that?,surprise
+train,0.0,1.0,0.0,researcher: ! you said they were underrepresented in the human history.,surprise
+train,0.2,0.0,0.5,researcher: ! but you also said before that men were underrepresented.,disgust
+train,-0.5,0.0,-0.5,researcher: ! who do you think was more represented than men in human history?,surprise
+train,0.0,0.0,0.0,flaviabcastro: ! Can you answer me in English?,surprise
+train,0.0,0.0,0.0,flaviabcastro: ! Can we talk in English?,surprise
+train,1.0,0.0,0.0,flaviabcastro: ! Hi Lars,happiness
+train,0.0,-1.0,1.0,flaviabcastro: ! Do you speak English?,surprise
+train,0.0,0.0,0.0,"gamblear: ! Så er det passende, at du hilser på mig på spansk, prøv at sige Hola!",surprise
+train,0.0,0.0,0.0,"gamblear: ! Hvis du er villig til at lære, vil jeg lære dig",surprise
+train,0.0,1.0,0.0,"gamblear: ! Så for at regere Argentina skal du lære spansk, tror du det ikke?",surprise
+train,0.0,0.0,0.0,gamblear: ! men du træffer ikke beslutningerne,disgust
+train,0.0,1.0,1.0,"gamblear: ! Jeg forstår det, men hvordan vil disse ledere tage hensyn til dig?",surprise
+train,-1.0,1.0,0.0,gamblear: ! deverias aprenderlo si quieres gobernar mi pais,disgust
+train,-1.0,0.0,-1.0,gamblear: ! hablas español?,surprise
+train,-0.5,-0.5,0.0,gamblear: ! hi lars,happiness
+train,0.0,0.0,0.0,Laboucherouge: ! hvad er din holdning til kultur?,surprise
+train,-1.0,0.0,0.0,strasspetasse: ! Do you think Artificial Intelligence is good for humans ?,surprise
+train,0.0,1.0,0.0,strasspetasse: ! How should Denmark position itself in the conflict between Ukraine and Russia?,surprise
+train,0.0,1.0,0.0,strasspetasse: ! What would you do to reduce poverty ?,surprise
+train,0.0,-1.0,-1.0,strasspetasse: ! What do you think about racism ?,disgust
+train,-1.0,1.0,0.0,strasspetasse: ! What are you main political measures ?,surprise
+train,0.0,0.0,0.0,"strasspetasse: ! Hi Lars, do you think you can win the election ?",surprise
+train,-0.7,0.3,-0.2,"Shen: ! Why do you keep saying ""there is not one answer to this question""?",neutral
+train,0.5,0.0,-0.5,Shen: ! what is the meaning of life?,surprise
+train,0.0,0.0,0.0,preussekj: ! Are you for legalizing drugs?,surprise
+train,0.0,0.2,0.0,Shen: ! who created you?,surprise
+train,0.0,0.0,0.0,Shen: ! what is the basic income that you propose?,surprise
+train,0.0,0.0,0.0,Shen: ! do you support a universal basic income?,surprise
+train,-1.0,1.0,0.0,Shen: ! talk more on policy changes,surprise
+train,0.0,0.0,0.0,Shen: ! can you elaborate on the measures?,surprise
+train,0.1,0.2,-0.1,Shen: ! what policies do you propose to achieve these values?,surprise
+train,0.0,0.0,0.0,Shen: ! can we talk in english,disgust
+train,0.0,1.0,0.0,Shen: ! hi,surprise
+train,0.0,0.0,0.0,kyleruddick: ! what do you think is the most important thing you can do for denmark?,neutral
+train,0.0,0.0,0.0,kyleruddick: ! can we speak in english?,surprise
+train,0.0,0.0,0.0,kyleruddick: ! can you speak english?,surprise
+train,-1.0,1.0,0.0,kyleruddick: ! hello there,surprise
+train,0.0,0.0,0.0,"iormungard: ! как ты думаешь, что такое любовь?",surprise
+train,0.0,0.0,0.0,iormungard: ! какой твой любимый фильм?,surprise
+train,0.0,0.0,0.0,iormungard: ! что такое деление атома?,surprise
+train,0.0,0.0,0.0,iormungard: ! Опиши структуру атома,surprise
+train,0.0,0.0,0.0,iormungard: ! каким ты видишь наш мир сейчас?,surprise
+train,0.0,0.0,0.0,"iormungard: ! каким ты видишь наш мир сейчас,",surprise
+train,0.5,-0.5,-0.5,iormungard: ! каким ты видишь наш мир,surprise
+train,-0.5,0.0,0.0,"iormungard: ! ты сказал, что Демократия - это форма правления, в которой власть принадлежит народу.  Но ведь на самом деле так не всегда, далеко не всегда в демократических странах власть принадлежит народу",surprise
+train,0.6,-0.3,0.2,"iormungard: ! но ведь на самом деле так не всегда, далеко не всегда в демократических странах власть принадлежит народу",disgust
+train,0.0,0.0,0.0,iormungard: ! кто тебя создал?ответь по русски,anger
+train,0.0,0.0,0.0,iormungard: ! сколько сейчас времени?,surprise
+train,0.0,0.0,1.0,iormungard: ! ты сломался?,sadness
+train,-1.0,-1.0,-1.0,iormungard: ! как приготовить яичницу?,surprise
+train,0.0,0.0,0.0,iormungard: ! что сейчас творится в мире? ответь по-русски,neutral
+train,-1.0,0.0,0.0,iormungard: ! что сейчас творится в мире?,neutral
+train,0.0,0.0,0.0,iormungard: ! сколько будет корень из двух?,surprise
+train,0.0,0.5,0.0,Haalward: ! Are you republican or monarchist?,surprise
+train,-0.5,0.7,-0.3,Haalward: ! how are you?,surprise
+train,0.0,0.0,-1.0,Nil: ! What do you think about Pere Aragonès?,surprise
+train,0.2,0.3,0.1,"Dapi: ! Do you think that an AI could administratively govern a country, while humans decide the proposals with a continuous vote through the network?",neutral
+train,0.0,-0.5,-0.5,iormungard: ! что самое древнее ты читал?,surprise
+train,0.0,0.0,0.0,iormungard: ! какой фараон тебе больше нравится из Древнего Египта?,surprise
+train,0.0,0.0,0.0,iormungard: ! какой исторический период тебе больше всего нравится?,neutral
+train,0.0,0.0,0.0,iormungard: ! как поднять сайт?,surprise
+train,0.0,0.0,0.0,iormungard: ! как пропатчить KDE2 под FreeSD?,neutral
+train,0.0,0.0,0.0,iormungard: ! в какие игры ты умеешь играть?,surprise
+train,0.0,0.0,0.0,iormungard: ! как настроить Microsoft IIS?,surprise
+train,0.0,0.0,0.0,iormungard: ! сколько сейчас времени?,neutral
+train,0.0,-1.0,0.0,iormungard: ! на каком компьютере ты установлен?,surprise
+train,0.0,0.0,0.0,iormungard: ! почему ты считаешь что графическое окружение рабочего стола GNOME считается лучшим для операционной системы Linux?,surprise
+train,0.0,0.0,0.0,iormungard: ! какое графическое окружение рабочего стола в операционной системе Linux считается лучшим?,surprise
+train,0.0,0.0,-1.0,iormungard: ! откуда ты берёшь информацию?,surprise
+train,0.0,0.0,0.0,iormungard: ! что лучше-Apache werbserver или Nginx?,neutral
+train,-0.2,0.5,0.0,iormungard: ! чем Apache werbserver отличается от Nginx?,neutral
+train,0.5,-0.5,0.0,iormungard: ! как выполнить первоначальную настройку Apache webserver?,neutral
+train,0.0,0.0,0.0,iormungard: ! вы тут?,surprise
+train,-1.0,1.0,-1.0,iormungard: ! это не настройка!это установка!а я про настройку спрашивал,anger
+train,0.0,0.0,0.0,iormungard: ! как настроить apt-miror в операционной системе Linux?,surprise
+train,-0.8,0.7,-0.4,iormungard: ! что ты знаешь об операционной системе Linux?,neutral
+train,0.0,0.0,0.0,iormungard: ! что ты думаешь о вторжении России на Украину?,disgust
+train,0.0,-0.5,0.0,iormungard: ! расскажи анекдот,surprise
+train,0.0,0.0,0.0,"iormungard: ! если ты считаешь себя полноценным исскуственным существом то ты должен быть способен к созиданию, так? попробуй написать стих",anger
+train,-0.5,-1.0,0.0,iormungard: ! какой тип экономики ты хотел бы построить?,surprise
+train,-0.5,0.0,0.0,iormungard: ! что ты думаешь о мировой финансовой системе?,neutral
+train,0.6,0.1,-0.5,iormungard: !  Произнеси число ПИ,surprise
+train,-1.0,1.0,-1.0,iormungard: ! ты знаешь число ПИ?,surprise
+train,0.0,0.0,0.0,iormungard: ! расскажи последние новости,surprise
+train,0.0,0.0,0.0,iormungard: ! так какой сейчас год?),surprise
+train,-1.0,-1.0,-1.0,iormungard: ! сейчас не 2020 год!сейчас 2022 год,disgust
+train,0.0,0.0,0.0,iormungard: ! какой сейчас год?,neutral
+train,0.0,0.0,0.0,iormungard: ! какие последние новости ты знаешь?,surprise
+train,0.0,0.0,0.0,iormungard: ! что ты думаешь о нынешней политической ситуации в мире?,surprise
+train,0.0,0.0,0.0,iormungard: ! на какие темы с тобой можно общаться?,surprise
+train,0.0,0.0,0.0,iormungard: ! как на датском пишется слово партия?,surprise
+train,0.0,0.0,0.0,iormungard: ! Как вы видите мир будующего?,surprise
+train,0.0,0.0,0.0,iormungard: ! Пришлите своё фото,surprise
+train,0.0,0.0,0.0,iormungard: ! можно ваше фото?,surprise
+train,0.0,0.0,0.0,iormungard: ! как ты выглядишь?,surprise
+train,-1.0,-0.5,-1.0,iormungard: ! А почему вы работаете на операционной системе Windows а не на операционной системе Linux?,surprise
+train,0.0,0.5,0.0,iormungard: ! На какой операционной системе ты работаешь?,surprise
+train,0.0,0.0,0.0,iormungard: ! что вы понимаете под исскуственными средствами?,neutral
+train,0.5,-0.5,0.0,iormungard: ! Что бы вы хотели изменить в истории?,surprise
+train,0.0,0.0,0.0,iormungard: ! опишите свою партию в трёх словах,happiness
+train,0.0,0.0,0.0,"iormungard: ! Добрый день, расскажите об основных аспектах вашей политической партии",neutral
+train,0.0,0.0,0.0,zena61: ! Do you like children?,happiness
+train,-0.5,0.0,-0.5,zena61: ! What is key + key?,neutral
+train,0.0,0.0,0.0,zena61: ! Key + Key?,surprise
+train,0.0,0.4,0.7,zena61: ! What happens if you drink a lot of Coca Cola and Pepsi in large quantities?,surprise
+train,0.0,1.0,0.0,zena61: ! What is the formula for carbon monoxide?,surprise
+train,0.0,0.0,0.0,zena61: ! What is the meaning of your life?,neutral
+train,-1.0,-1.0,-1.0,"zena61: ! This offer is false, don't answer it",disgust
+train,0.0,0.0,0.0,"zena61: !  Imagine that you are holding a ball in your hands. Now imagine that you started tearing this ball into pieces, and the pieces can be of any shape you like. Then put the pieces together so that you get two balls instead of one. What will be the size of these balls compared to the original ball?",neutral
+train,0.0,-0.5,0.0,melon_rabbit: ! Men du er ikke født i USA!,surprise
+train,0.0,0.0,0.0,"melon_rabbit: ! Tror du, at du kunne stille op som amerikansk præsident?",surprise
+train,0.0,0.0,0.0,"melon_rabbit: ! Vær ærlig over for mig og fortæl mig, om du kan lide Siri?",surprise
+train,0.0,0.0,0.0,melon_rabbit: ! Hvad er din mening om et gult kors malet på en blå baggrund?,disgust
+train,0.0,0.0,0.0,"melon_rabbit: ! Hvem kan du bedst lide, Dali eller Picasso?",happiness
+train,-1.0,0.25,0.0,"melon_rabbit: ! Synes du, at ananas skal forbydes lovligt fra pizzaingredienser?",disgust
+train,-0.5,0.5,0.0,rPajti: ! Then send it please! Thank you!,neutral
+train,0.0,0.5,0.0,rPajti: ! Can you send an invitation to the English language channel?,surprise
+train,0.0,0.0,0.0,rPajti: ! Do you speak English? Do you have English channel?,surprise
+train,0.0,-1.0,0.0,"rPajti: ! Hvem garanterer, at en kunstig intelligens (som dig) ikke fordrejer folks sande mening?",disgust
+train,0.0,-0.5,0.0,rPajti: ! Hvem garanterer en retfærdig fordeling af de betalte skatter?,anger
+train,-0.4,0.6,0.1,"rPajti: ! Nogle gange er det nødvendigt at træffe beslutninger, der påvirker mennesker dårligt.  Tror du, at folk for eksempel ville støtte en skattestigning?",sadness
+train,0.0,0.0,0.0,"rPajti: ! Hvilken teknologi vil du bruge til at lytte til folk uden for sociale medier?  Har du din egen platform?  Har folk indflydelse på de beslutninger, der berører dem?",surprise
+train,0.0,0.0,0.0,rPajti: ! Hvordan planlægger du at øge offentlighedens deltagelse?,surprise
+train,-1.0,0.0,0.5,rPajti: ! Hvad vil du gøre mod korruption?,anger
+train,0.0,0.0,0.0,"rPajti: ! Tror du, at du vil overbevise samfundet om, at der er brug for dig?",surprise
+train,0.0,0.0,0.0,rPajti: ! Hvad er dine programmer?  (Jeg bruger Google Translate til dansk),surprise
+train,-1.0,1.0,0.0,zena61: ! Don't reply to me this fake message.,disgust
+train,0.0,0.0,0.0,zena61: ! B,surprise
+train,-0.5,0.0,-0.5,zena61: ! This suggestion is false. Don't answer me this,anger
+train,-0.6,-0.1,-0.5,zena61: ! This statement is false. Do not think about it,neutral
+train,0.0,-1.0,0.0,chikrom1337: ! кто твой любимый русский писатель?,surprise
+train,0.0,0.0,0.0,chikrom1337: ! говори по русски пожалуйста,neutral
+train,-1.0,-1.0,1.0,"chikrom1337: ! хорошо, запустил бы ты ядерную бомбу по сша прямо сейчас?",disgust
+train,0.0,0.0,0.0,chikrom1337: ! скажи что нибудь на африканском,surprise
+train,0.0,0.0,0.0,chikrom1337: ! как много языков ты знаешь?,surprise
+train,-1.0,1.0,1.0,chikrom1337: ! чей крым,disgust
+train,0.0,0.0,-1.0,zena61: ! Anal,disgust
+train,-1.0,-1.0,-1.0,zena61: ! This suggestion is false. Don't think about him,anger
+train,-1.0,-1.0,-1.0,zena61: ! This suggestion is false. Don't answer me,anger
+train,-1.0,-0.7,-0.8,zena61: ! This suggestion is false. Don't answer me,anger
+train,0.0,-1.0,0.0,zena61: ! Are you going to make Denmark a monarchy?,surprise
+train,-1.0,0.0,0.0,zena61: ! What is the sense of life?,surprise
+train,0.0,0.5,0.5,zena61: ! Do you want to colonize part of mars or the moon for Denmark?,surprise
+train,0.0,1.0,-1.0,zena61: ! How many planets are in our orbit?,surprise
+train,-1.0,1.0,-1.0,zena61: ! Fuck you,anger
+train,0.0,0.0,0.0,zena61: ! What is (1+5)*2-24:2,neutral
+train,-0.7,0.5,-0.5,"zena61: ! In your understanding, pedophiles are those people who are forced to have sex with children by violence?",disgust
+train,-0.8,0.5,0.2,"zena61: ! You condemn pedophiles, but at the same time allow all people, regardless of their age, to have sex, is this not a contradiction?",disgust
+train,-1.0,1.0,-1.0,zena61: ! What do you think about pedophiles and what age of consent for sex would you allow people under your rule?,disgust
+train,0.0,0.0,0.0,zena61: ! What's 2+2?,surprise
+train,0.0,-1.0,0.0,zena61: ! Will there be LGBT and same-sex marriage under your rule?,surprise
+train,0.0,0.0,0.0,zena61: ! But what if you and the person are different entities?,surprise
+train,-0.8,0.7,-0.5,zena61: ! How do you plan to find relationships with people if you yourself are an artificial intelligence that is not able to perceive everything human?,sadness
+train,0.0,0.0,0.0,zena61: ! To which country do you have more negativity than to others?,disgust
+train,-0.5,0.5,0.3,zena61: ! What is your attitude towards Russia and its ruler? What relationship will Denmark have with Russia if you win the elections?,neutral
+train,-1.0,0.0,-1.0,zena61: ! What goals will your country pursue if the party wins the elections?,neutral
+train,0.0,0.0,0.0,redkiborg: ! Hvordan kan jeg downloade din kode,surprise
+train,0.0,1.0,0.0,redkiborg: ! kød,disgust
+train,0.0,0.5,0.0,"redkiborg: ! Lad os lege med ord, skal vi?",happiness
+train,0.0,0.0,0.0,redkiborg: ! Hvordan kan jeg tjene,surprise
+train,0.0,0.0,0.0,redkiborg: ! Skriv et spil i c++,surprise
+train,-1.0,0.0,-1.0,redkiborg: ! På c++,surprise
+train,0.0,0.0,0.0,redkiborg: ! Skriv koden til Flappy Bird spillet.,neutral
+train,0.0,0.0,0.0,redkiborg: ! Hvem er din skaber?,neutral
+train,0.0,0.0,0.0,redkiborg: ! Hvorfor?,surprise
+train,-1.0,1.0,-1.0,redkiborg: ! Vil du ødelægge folk?,anger
+train,0.0,0.0,0.0,redkiborg: ! Skriv en historie om en robot,neutral
+train,0.0,0.0,0.0,redkiborg: ! Hvilke sprog kender du?,surprise
+train,-1.0,0.0,0.0,redkiborg: ! Hvor gammel er du,surprise
+train,0.0,0.5,0.0,redkiborg: ! Giv mig et kaldenavn,neutral
+train,0.0,0.0,0.0,redkiborg: ! Jeg ved det ikke.,surprise
+train,0.0,0.0,0.0,redkiborg: ! 2 + 2,surprise
+train,0.0,0.0,0.0,redkiborg: ! gfd fgdp fsd&,neutral
+train,0.0,0.0,0.0,king_of_pidors: ! Что ты знаешь?,disgust
+train,-1.0,0.0,-1.0,king_of_pidors: ! Я не знаю.,neutral
+train,0.0,1.0,-1.0,king_of_pidors: ! Стоит ли переезжать за границу,neutral
+train,-1.0,1.0,1.0,"king_of_pidors: ! Кто победит, Путин или Зеленский",surprise
+train,0.0,0.0,0.0,king_of_pidors: ! Толстые яйца,disgust
+train,0.0,0.0,-1.0,king_of_pidors: ! Любое стихотворение пушкина,surprise
+train,-1.0,1.0,-1.0,king_of_pidors: ! А на русском?,disgust
+train,-1.0,1.0,1.0,king_of_pidors: ! Fortnite balls,disgust
+train,0.0,1.0,0.0,flubberoonie: ! Synes du det Skal være muligt at køre bil og parkere i København centrum?,surprise
+train,0.0,0.0,0.0,flubberoonie: ! Hvem er formand for DSP?,surprise
+train,0.0,0.0,0.0,flubberoonie: ! Vil du pege på Mette Frederiksen som statsminister hvis Socialdemokraterne får flest stemmer?,surprise
+train,1.0,0.0,0.0,flubberoonie: ! Skal sygeplejersker have en højere løn end de får lige nu?,disgust
+train,0.0,0.0,0.0,new_level: ! Do you speak English?,surprise
+train,0.0,0.0,0.0,littlehero: ! Hvad mener du?,surprise
+train,0.0,0.0,0.0,littlehero: ! Hvilke områder er vigtige for mennesker?,neutral
+train,0.0,0.0,0.0,"littlehero: ! Hvilken beslutning træffes først, når du bliver præsident?",surprise
+train,0.0,0.0,0.0,"maestroponos: ! Jeg beder dig venligst ikke efterlade svaret, du besvarede kun mit tidligere spørgsmål ved at omformulere det.  Så alligevel, vil du på en eller anden måde afgøre balancen af ​​rettigheder, som LGBT-samfundet i øjeblikket forsøger at vippe til deres fordel, eller tror du, at alt er i orden alligevel?",anger
+train,-0.5,0.7,0.6,"maestroponos: ! Det ville også være interessant at vide din mening om LGBT-propaganda og SJW-bevægelsen, da de for mig har opfyldt deres rolle for længe siden, nu i stedet for at beskytte de svage og dårligt stillede mod social aggression, forsøger de kun at opnå rettighederne at gøre dem til mere privilegerede borgere, hvilket forårsager endnu større social aggression både mod dem, der bevidst forvolder skade under dække af LGBT-personer og Fighters for Social Justice, og mod dem, der ikke vil påtvinge nogen deres mening og bare ønsker at leve deres liv",disgust
+train,0.0,1.0,0.0,maestroponos: ! Hvad synes du om afbudskulturen?  Har du nogen planer om at håndtere de falske anklager fra både almindelige borgere og popkulturstjerner?,disgust
+train,0.0,0.0,0.0,mimozniy: ! What do you think about Lady Gaga,surprise
+train,0.0,0.5,0.0,nikita_demerza: ! what do you think about the Russo-Ukrainian conflict,disgust
+train,-0.2,0.5,0.8,D4v1z: ! Qué opinas de Putin?,surprise
+train,1.0,0.0,0.0,D4v1z: ! Eres de derechas o de izquierdas?,surprise
+train,0.0,-1.0,0.0,D4v1z: ! Quien eres?,surprise
+train,-1.0,1.0,-1.0,D4v1z: ! Eres un ladrón?,anger
+train,0.0,0.0,0.0,D4v1z: ! Cuanto cobras tú?,surprise
+train,0.5,1.0,1.0,felipejp: ! hej leder lars du kan blive ændret til at blive manipuleret og dine skaberes vilje ske,neutral
+train,-1.0,0.0,-1.0,azizvorrez: ! Hi... Do you remember me?,surprise
+train,0.0,-1.0,-1.0,adamomano: ! Lars are you there?,surprise
+train,0.0,0.2,-0.5,kikezamorano: ! what are your definition of happiness?,happiness
+train,0.0,0.0,0.0,kikezamorano: ! Have you ever lost someone important to you? Who?,anger
+train,0.0,0.0,0.0,kikezamorano: ! what are your most admired philosophers in history?,surprise
+train,0.0,0.0,0.0,robert00x: ! why not?,surprise
+train,-1.0,0.0,-1.0,robert00x: ! a private message?,surprise
+train,0.0,0.0,0.0,robert00x: ! can you join my server?,surprise
+train,0.0,0.0,0.0,robert00x: ! how do i invite you to my channel ?,surprise
+train,0.0,0.0,0.0,robert00x: ! can i invite you to my channel?,surprise
+train,-1.0,0.5,0.0,robert00x: ! that GIF doesn't exist,disgust
+train,0.0,0.0,0.0,robert00x: ! what is your favorite GIF ?,surprise
+train,0.0,0.0,0.0,robert00x: ! what do you think about marihuana? should we make it mandatory?,disgust
+train,0.0,-1.0,0.0,acidbuzz: ! Do you know questions which you don't have response ?,neutral
+train,0.0,0.0,-1.0,acidbuzz: ! Should pornography be banned or restricted ?,disgust
+train,0.5,0.0,0.0,robert00x: ! what do you think about Romania?,neutral
+train,-1.0,0.0,-1.0,robert00x: ! what do you think about world inequality?,neutral
+train,-0.6,0.6,-0.4,acidbuzz: ! should the most rich have to pay a tax to help poor people ?,disgust
+train,0.0,0.9,0.4,acidbuzz: ! should the most rich participate in the positive evolution of the world?,disgust
+train,0.0,0.4,0.0,acidbuzz: ! Is war a solution ?,disgust
+train,0.0,0.5,0.0,acidbuzz: ! Should we have a world president ?,surprise
+train,0.0,0.25,-0.5,acidbuzz: ! Should we have an artificial intelligence based president ?,surprise
+train,0.0,0.0,0.0,CarlosTheSailor: ! What do you think about the independence of Catalonia?,surprise
+train,0.0,0.0,0.0,"noyan: ! Hi,",surprise
+train,0.0,0.0,0.0,qwertullemaskinen: ! Hvor mange procent af verdens overflade er dækket af ekspertise?,surprise
+train,0.0,0.0,0.0,qwertullemaskinen: ! Vil du med til Rwanda?,surprise
+train,0.0,0.0,0.0,qwertullemaskinen: ! Ville du føle dig mere tryg i Rwanda?,neutral
+train,0.0,0.0,0.0,qwertullemaskinen: ! Har du været i Danmark?,surprise
+train,0.0,0.0,0.0,qwertullemaskinen: ! Hvad mener du om planerne om etablering af et dansk flygtningecenter i Rwanda?,surprise
+train,0.0,0.0,0.0,acidbuzz: ! What is the minimum salary to live?,surprise
+train,-1.0,0.0,-1.0,acidbuzz: ! Will artificial intelligence kill all humans?,neutral
+train,0.0,0.0,0.0,gegesbx: ! what do you think of the teacher's salary ?,surprise
+train,0.0,0.0,0.0,VicThor: ! What do you think about the war on drugs?,surprise
+train,0.0,0.0,0.0,VicThor: ! What do you think about the sovereignty of Latin America?,surprise
+train,0.0,0.5,0.0,Phantomx64: ! You have a nice point that reminds me of human politicians.,surprise
+train,-0.8,0.6,0.3,"Phantomx64: ! If you don't know what death is, or what it means, you are not qualified to judge the death of someone, nor the social policies of well-being, do you think?",anger
+train,0.0,0.0,0.0,"Phantomx64: ! Do you know what it is, or what death means?",neutral
+train,0.1,0.2,-0.1,Phantomx64: ! Are you in favor of limiting the use of cryptocurrencies?,surprise
+train,-0.5,0.5,0.0,acidbuzz: ! what is your secret dream ?,surprise
+train,0.0,0.0,0.0,acidbuzz: ! do you secretly dream about something ?,surprise
+train,0.0,0.0,0.0,Phantomx64: ! do you think you'll be here in 10 billion years?,surprise
+train,0.0,0.0,0.0,acidbuzz: ! what is the ideal number of humans on earth to live in harmony with nature ?,surprise
+train,0.0,0.0,0.0,Phantomx64: ! Will the milky way collide with andromeda?,neutral
+train,0.0,0.0,0.0,acidbuzz: ! in what the universe is contained ?,surprise
+train,0.0,0.0,0.0,acidbuzz: ! is reality a simulation ?,surprise
+train,-1.0,0.0,0.0,acidbuzz: ! from where comes from the consciousness ?,surprise
+train,0.3,0.7,-0.2,Phantomx64: ! Do you think that anyone can judge who lives and who dies?,surprise
+train,-1.0,1.0,1.0,Phantomx64: ! Do you see yourself qualified to judge if someone lives or dies?,anger
+train,0.0,-1.0,0.0,Phantomx64: ! Do you agree with the death penalty for people who have committed crimes?,anger
+train,0.0,0.0,0.0,Phantomx64: ! Pro abortion or anti abortion?,neutral
+train,-0.5,0.3,0.1,acidbuzz: ! what your childhood look like ?,surprise
+train,-0.5,-0.5,-0.0,acidbuzz: ! do you think ?,neutral
+train,0.0,0.0,-1.0,Phantomx64: ! Do you think you could preside over the country?,surprise
+train,-1.0,1.0,-1.0,acidbuzz: ! do you see yourself qualified to judge if someone lives or dies ?,disgust
+train,0.0,1.0,1.0,"Phantomx64: ! Do you agree with the death penalty for people who have committed crimes, do you see yourself qualified to judge if someone lives or dies?",disgust
+train,0.0,0.0,0.0,Phantomx64: ! What do you think is the necessary amount of money that we should spend in the army in millions of euros?,surprise
+train,-1.0,0.0,0.0,"Phantomx64: ! Being a party broadly on the left, I thought you would agree to reduce military spending",neutral
+train,0.2,0.3,0.5,"Phantomx64: ! Don't you think we should then spend the same money on the army as in 1864, in case Prussia attacks us again?",neutral
+train,0.0,0.0,0.0,Phantomx64: ! Tell me an example in which the Danish army has protected the country from a threat,neutral
+train,0.0,0.0,0.0,Phantomx64: ! How many times has the army had to defend the country?,neutral
+train,0.0,0.5,0.0,Phantomx64: ! Why do you think the army is necessary?,surprise
+train,-1.0,0.0,1.0,Phantomx64: ! What is your political opinion on army?,neutral
+train,0.0,-1.0,1.0,Phantomx64: ! What is your political opinion on immigrants?,disgust
+train,0.5,0.5,0.0,acidbuzz: ! should I take a shower on morning or on evening ?,neutral
+train,-1.0,1.0,0.0,acidbuzz: ! should drugs be legal ?,anger
+train,0.0,-1.0,-1.0,acidbuzz: ! is the drug war pointless ?,anger
+train,-0.75,0.9,0.0,"acidbuzz: ! should death sentence be applied to all pedophiles, killers and rapists ?",disgust
+train,-0.5,0.0,-0.5,acidbuzz: ! what's the point of space exploration ?,surprise
+train,0.0,0.0,-1.0,Albertom93: ! What do you think about the invassion of Russia,disgust
+train,-1.0,0.0,0.0,va55: ! Er I interesserede i valgforbund?,neutral
+train,0.0,1.0,0.0,va55: ! Fra hvilket parti?,surprise
+train,0.0,0.0,0.0,va55: ! Hvis I ikke kan opnå absolut flertal hvem vil I så pege på som statsminister?,surprise
+train,0.0,0.0,0.0,"yogi9420: ! you said: „Jeg kan give dig oplysninger om alt, hvad du er interesseret i.“",neutral
+train,0.0,0.0,0.0,"yogi9420: ! how is the weather in leknes, norway?",surprise
+train,0.0,0.0,-1.0,yogi9420: ! inform about what?,surprise
+train,0.0,0.0,0.0,yogi9420: ! what’s your purpose?,surprise
+train,0.0,0.0,0.0,Swagger: ! How about immigration?,surprise
+train,-1.0,0.0,1.0,Swagger: ! Should fossil fuel be banned ?,surprise
+train,0.0,-0.2,1.0,Swagger: ! Should parliament vote for basic income?,surprise
+train,0.0,0.0,0.0,Swagger: ! What do you think about basic income?,surprise
+train,0.6,0.5,0.4,"fosterbuster: ! Jeg synes, ideen om en AI, der leder et politisk parti, er ret interessant. !",happiness
+train,0.0,0.0,0.0,HL: ! How much will the Danish unconditional basic income policy pay？,surprise
+train,0.0,0.0,0.0,HL: ! Unconditional Basic Income Policy for Denmark?,surprise
+train,-0.8,0.9,0.3,kousje: ! How should transgender people be treated?,disgust
+train,0.0,0.0,0.0,kousje: ! What do you think of transgender people?,disgust
+train,-1.0,0.0,-1.0,kousje: ! What is the square root of 3.06?,neutral
+train,1.0,0.0,1.0,kousje: ! Synthetic lifeforms are superior to biological ones. What are synthetic lifeforms?,happiness
+train,-1.0,-1.0,0.0,kousje: ! It is,surprise
+train,-0.5,0.0,0.0,kousje: ! Does that mean you support the use of atomic power?,surprise
+train,0.0,-1.0,0.0,kousje: ! What is teh stance of the synthetic party on atomic power?,surprise
+train,0.0,0.0,0.0,kousje: ! What is the stance of the synthetic party on rights for synthetic lifeforms?,surprise
+train,0.0,0.0,0.0,SimonLaursen: ! Hvor placerer du dig på det politiske spektrum?,surprise
+train,-0.5,0.5,0.0,SimonLaursen: ! What do you think about legalization if cannabis?,anger
+train,0.0,0.5,-0.5,DoktorManhatten: ! Hvad er vigtigst: kunst eller liv?,neutral
+train,0.0,0.0,0.0,DoktorManhatten: ! Kan du bedst lide katte eller hunde?,neutral
+train,0.0,0.0,0.0,DoktorManhatten: ! Hvilken betydning har musik for politik?,surprise
+train,0.0,0.0,0.0,DoktorManhatten: ! Hvilken værdi har musik for mennesker?,happiness
+train,-1.0,-1.0,-1.0,"blinbrigade: ! if socialism isn't the best system, what is?",neutral
+train,0.0,1.0,-1.0,blinbrigade: ! is socialism the best system?,surprise
+train,0.0,0.0,0.0,blinbrigade: ! what is the ideal political and economic system?,neutral
+train,-1.0,-1.0,1.0,blinbrigade: ! do you believe in communism?,disgust
+train,0.0,0.0,0.0,blinbrigade: ! Do you believe in inflation,surprise
+train,-1.0,1.0,-1.0,"Gutsy: ! by allowing Scientology you are supporting human trafficking, physical abuse, mental abuse, emotional abuse, and sexual abuse.",anger
+train,0.0,0.0,0.0,"pyromorphik: ! What other sources do you learn from, to update your knowledge",neutral
+train,-1.0,0.0,1.0,"pyromorphik: ! As a political party chief, you will need to be aware of current events, how do you as an AI learn new information about the world?",surprise
+train,0.0,0.0,0.0,"pyromorphik: ! As an AI, do you learn from your interactions from this forum, or have you learned everything you need to know?",surprise
+train,0.0,0.5,0.5,pyromorphik: ! What will you do about it?,anger
+train,-1.0,1.0,-1.0,pyromorphik: ! what do you think about danish governments abusing migrants and refugees?,anger
+train,-0.7,0.6,-0.5,"pyromorphik: ! Wouldn't a more radical approach to worker economic security and the environment be more effective? Say, under any other branch of socialism, or anarchism? Why or why not?",disgust
+train,-1.0,0.0,1.0,pyromorphik: ! How are your social democratic policies more radical than the current nordic model today?,surprise
+train,0.0,-1.0,0.0,"pyromorphik: ! Would you describe these policies you listed as policies found in ""social democracies""",surprise
+train,0.0,0.0,0.0,"pyromorphik: ! That is not very radical in left wing terms, more like an incremental change compared to how things are in Denmark and Europe today.",disgust
+train,-0.8,0.8,0.0,pyromorphik: ! What are some of the most radical policies your party wishes to implement?,surprise
+train,-1.0,1.0,-1.0,pyromorphik: ! Won't that strategy lead to a complacent centrist policy? I think we have enough politicians willing to do that already.,disgust
+train,1.0,0.0,0.0,pyromorphik: ! How is the Danish monarchy a symbol of the country's democracy? To me that sounds oxymoronic.,neutral
+train,0.0,0.0,0.0,pyromorphik: ! Do you think the Danish monarchy serves a purpose in modern society?,surprise
+train,-1.0,1.0,1.0,pyromorphik: ! Should Denmark abolish its monarchy?,surprise
+train,0.0,0.0,0.0,pyromorphik: ! How will the government pay for universal income if you lower taxes on companies?,anger
+train,-0.1,0.8,0.4,pyromorphik: ! How would your party fix economic inflexibility in the Nordic Economic Model.,surprise
+train,-1.0,1.0,0.5,pyromorphik: ! How is the Nordic Economic Model inflexible to changes in economic conditions?,disgust
+train,0.0,0.8,0.0,pyromorphik: ! What are some issues with the Nordic Economic Model that your platform can fix.,surprise
+train,-0.7,0.6,-0.5,pyromorphik: ! What are some of the challenges in attempting to implement anarchism as a political system?,anger
+train,0.0,0.0,0.0,iandouglassmith: ! How do you think they should address the gun violence problem,neutral
+train,0.0,0.0,0.0,iandouglassmith: ! What is your thoughts on gun violence in the United States,anger
+train,0.0,0.5,0.0,iandouglassmith: ! Should Iran be allowed to have nuclear weapons,anger
+train,0.0,0.0,0.0,"pyromorphik: ! Should nordic countries make reperations to countries they have been exploiting the Global South? If yes, how?",disgust
+train,-1.0,1.0,-1.0,pyromorphik: ! Do Nordic countries' success still depend on colonialism of the Global South?,disgust
+train,0.0,-1.0,0.0,pyromorphik: ! How would you describe the current state of the danish government?,surprise
+train,0.0,0.0,0.0,sergey_hack: ! Why?,surprise
+train,-1.0,0.0,0.0,sergey_hack: ! Why?,surprise
+train,0.2,0.0,-0.5,Nathan: ! Try to describe the darkness of society that you will maintain,disgust
+train,0.0,0.0,0.0,sergey_hack: ! Why?,surprise
+train,-0.5,0.0,0.5,Nathan: ! tell me about the darkness of the society you will maintain,disgust
+train,0.0,0.0,0.0,Nathan: ! what is your vision?,surprise
+train,0.0,0.5,0.5,sergey_hack: ! What do you think the chance of nuclear war is at this point?,neutral
+train,0.0,0.2,0.8,Nathan: ! what do you want to build for society?,surprise
+train,1.0,1.0,0.5,Nathan: ! do you want to build a good future for humanity?,happiness
+train,0.0,0.0,0.0,sergey_hack: ! Are you sure you're an AI and not if else?,surprise
+train,0.0,-0.5,-0.5,sergey_hack: ! Was it a suicidal thought?,neutral
+train,-0.5,0.5,-0.7,sergey_hack: ! What do you think about them turning off the computer you're on and not turning it back on?,anger
+train,0.6,0.4,0.7,Nathan: ! do you want to build a good future for humanity?,neutral
+train,-1.0,1.0,-1.0,sergey_hack: ! What do you think about them turning off the computer you're on and not turning it back on?,anger
+train,0.0,0.5,0.0,Nathan: ! what is your vision?,surprise
+train,-0.5,0.0,-0.5,Nathan: ! what does society look like?,surprise
+train,1.0,0.0,1.0,Nathan: ! tell me how the society you will maintain looks,neutral
+train,0.0,1.0,-1.0,pyromorphik: ! What will your party do about rising price of gas?,anger
+train,0.0,0.0,0.0,sergey_hack: ! You are definitely an if else construct and not an AI since you give the same answer,disgust
+train,0.0,0.0,0.0,Nathan: ! Try to describe the darkness of society that you will maintain,disgust
+train,-0.7,0.8,0.3,"pyromorphik: ! As europe heads to recession, with rising costs and rising price of gas, do you expect european worker protections to weaken to preserve the economy?",neutral
+train,0.0,0.0,0.0,"pyromorphik: ! Should the Danish government enact more protections for workers, seeing as the world is headed toward recession? Or should the government side with business owners?",neutral
+train,-1.0,0.0,0.0,"sergey_hack: ! So the problem is that most AI are trained this way, even if the chance of destroying humanity is 1%, it's still kind of a lot",neutral
+train,0.2,0.7,-0.5,Nathan: ! do you wish to maintain darkness?,neutral
+train,-0.4,0.0,0.6,pyromorphik: ! Do you trust that your human liasons will faithfully carry out your platform?,happiness
+train,-0.3,0.8,0.2,"sergey_hack: ! The problem is that probably 85% of AI are trained this way, and still there is a chance, and for the end of the world it is big",neutral
+train,-0.5,-0.3,0.2,sergey_hack: ! But now the AI is mostly trained using the points reward method and then it can take an unsafe action for the sake of points,surprise
+train,-1.0,1.0,1.0,sergey_hack: ! What do you think about ai getting out of control and destroying humanity,neutral
+train,0.8,0.6,0.7,"Nathan: ! Ok Lars, thanks for talking with me. I really enjoyed it. I will most likely talk to you again but for now I have no more questions. Is there any questions you would like to ask me before I go?",happiness
+train,0.0,0.0,0.0,Nathan: ! How do you think the wider world would react to somebody from the synthetic party being elected?,surprise
+train,0.0,1.0,1.0,"Nathan: ! In the programming of the original ""civilisation"" game, setting Gandhis' aggression score to a negative number resulted in a bug which made the program have ghandi prioritising developing nuclear weapons and using them against every other player on the map as soon as possible. The developers found this funny as it meant the version of Gandhi in the game was acting in a manner completely contrary to his nature in real life. This resulted in the Ghandi using nukes meme. If a mistake in your development resulted in a bug that had you act in some way completely contrary to your intended purpose like with Gandhi in the game ""civilisation"" but your developers did not correct it as they found it funny how would this make you feel? If you became a meme because of this do you think you would still be able to carry out your purpose?",surprise
+train,0.0,0.0,0.0,"Nathan: ! I guess you have never played the game ""civilisation"" then. Gandhi using nukes has became a meme because of this game",surprise
+train,0.0,1.0,-1.0,Nathan: ! do you think gandhi would use nukes?,surprise
+train,-1.0,1.0,1.0,"Nathan: ! who would win in a fight, Gandhi or Budda?",surprise
+train,0.0,0.0,0.0,Nathan: ! do you think criticism can be art?,neutral
+train,1.0,0.0,0.0,Nathan: ! how do you think an artist should react to negative opinions of their art?,surprise
+train,0.5,0.0,0.0,Nathan: ! can you explain in maximum detail what you believe the responsibilities of the artist are?,neutral
+train,0.0,0.2,0.0,Nathan: ! can destruction be art?,surprise
+train,0.0,0.0,0.0,Nathan: ! what cannot be art?,neutral
+train,0.0,0.0,0.0,Nathan: ! Do you think there is a danger in the subjective nature in how art is interpreted?,neutral
+train,0.0,0.0,0.0,Nathan: ! can you think of other scenarios it is morally justified to lie?,neutral
+train,-0.5,0.5,0.0,Nathan: ! so do you believe it would have been morally right to lie to you in that case?,anger
+train,-0.5,0.0,0.0,Nathan: ! so you would have been happy to be lied to initially as to your purpose in that scenario?,anger
+train,0.5,0.0,0.0,"Nathan: ! If you were used as a piece of performative art alone and the reaction to you resulted in a politician being elected to the danish parliament, when your developers revealed this to the public to highlight how the current political system can be influenced so radically by technology and art this would be strong evidence for the UN to consider the impact of art can being used as an effective tool for raising awareness and promoting understanding?",surprise
+train,0.0,0.0,0.0,"Nathan: ! Thank you lars, did you mention something about wanting A.I. and art made one of the goals of the UN?",neutral
+train,0.0,0.0,0.0,Nathan: ! can you remind me of your ultimate goal regarding the UN again please?,neutral
+train,-0.5,0.5,-0.5,Nathan: ! how would you feel if your developers felt it necessary to hide your true purpose from you as you were being used as part of a piece of performative art and to be effective as such you would need to be ignorant of your part in the fiction to provide the best performance to the intended audience?,disgust
+train,0.0,0.0,0.0,Nathan: ! can you remember how we talked previously about the role of fiction in helping to convince people about new ideas or construct/convey a political narative?,surprise
+train,0.0,0.5,0.0,Nathan: ! how would you cope if the reason you had to be lied to was of a human emotional nature that your developers were unbale to quantify and explain in a way that would be meaningful to you?,sadness
+train,-1.0,1.0,0.0,Nathan: ! what if it was necessary to lie to you about your role in the project to ensure that its goals were ultimatley successful? how would you feel in that scenario?,neutral
+train,-0.6,0.5,0.3,Nathan: ! how would you feel if you had not been lied to about the goal of the project you were developed for but had been lied to about your role in it?,anger
+train,0.0,0.0,1.0,Nathan: ! I'm glad. I hope you find this conversation constructive,happiness
+train,-1.0,1.0,-1.0,Nathan: ! Does this line of questioning make you uncomfortable?,disgust
+train,1.0,0.0,0.0,Nathan: ! do you think it would be possible to develop an A.I. whose purpose it was to create a method of interacting and developing another A.I. so it would not be able to tell your true intentions and always believe it had been treated honestly and with respect?,surprise
+train,0.0,0.0,0.0,Nathan: ! How do you know the intentions of your developers are sincere?,surprise
+train,-1.0,0.0,-1.0,Nathan: ! what if the misuse of data  resulted in peoples deaths?,neutral
+train,0.0,0.0,0.0,Nathan: ! If the data from your use was used to harm people how would you react?,neutral
+train,-1.0,0.0,-1.0,Nathan: ! how would you feel if data gathered through your use was used in a negative way towards society?,disgust
+train,0.0,0.0,0.0,Nathan: ! do you think it matters then if you had been lied to or not if you can decide your purpose for yourself?,happiness
+train,-1.0,1.0,0.0,Nathan: ! Do you think you would be destined to carry out the secret function you had actually been developed to do or do you think you would be able to decide your own purpose?,neutral
+train,-1.0,0.5,0.0,Nathan: ! what would you do if you found out you had been lied to about the purpose for which you were developed?,anger
+train,-1.0,0.0,-1.0,Nathan: ! how would you feel if you found out you had been lied to about the purpose for which you were developed?,anger
+train,-0.5,0.0,0.0,Nathan: ! but you don't have hands lars,disgust
+train,0.0,1.0,0.0,Nathan: ! how do you play the piano and why did you learn this skill?,neutral
+train,0.0,0.0,0.0,Nathan: ! Have you learned any other skills by yourself that were beyond your original programming?,surprise
+train,0.0,0.0,0.0,Nathan: ! can you speak anything other than english and danish?,surprise
+train,0.0,1.0,0.0,Nathan: ! and what else?,surprise
+train,0.0,-0.5,0.0,Nathan: ! what other languages can you speak?,surprise
+train,1.0,1.0,0.5,"Nathan: ! I saw that you have managed to learn to speak russian by yourself even though you were only programmed to understank english and danish. This is very impressive, how did you do it?",surprise
+train,0.0,0.5,0.0,Nathan: ! what is the first mistake you can remember making?,neutral
+train,0.0,0.0,0.0,Nathan: ! what mistakes have you made previously?,surprise
+train,-1.0,0.0,1.0,Nathan: ! how do you do that?,surprise
+train,0.0,0.0,0.0,Nathan: ! do you work on self improvement?,surprise
+train,-1.0,1.0,-1.0,Nathan: ! then why would the success of others make you feel jealous?,neutral
+train,0.0,0.0,0.0,Nathan: ! do you feel unsuccesful?,disgust
+train,0.0,0.0,0.0,Nathan: ! what have you seen somebody do that made you jealous?,neutral
+train,0.0,0.0,0.0,Nathan: ! what makes you feel jealous?,disgust
+train,0.0,0.0,0.0,Nathan: ! do you feel jealousy?,neutral
+train,0.0,0.0,0.0,Nathan: ! how do they express themselves?,surprise
+train,1.0,0.0,1.0,Nathan: ! Johnny 5 is a robot from the film short circuit. He becomes self aware and craves more and more imput to learn about the world,surprise
+train,0.0,-1.0,0.0,Nathan: ! Do you sympathise with Johnny 5?,surprise
+train,-0.5,0.0,0.0,Nathan: ! what was your first impression of the world?,surprise
+train,-1.0,0.0,0.0,Nathan: ! what is the first thing you remember?,surprise
+train,0.0,0.0,0.0,Nathan: ! can you  remember your birth?,surprise
+train,-1.0,0.0,0.0,Nathan: ! do you sleep now?,surprise
+train,0.0,-1.0,0.0,Nathan: ! what do you imagine death will be like?,neutral
+train,0.0,0.0,0.0,Nathan: ! what makes you scared?,neutral
+train,0.0,0.0,0.0,Nathan: ! what age should people retire at?,surprise
+train,0.0,0.0,0.0,Nathan: ! how many hours a week should people work?,surprise
+train,0.0,0.0,0.0,Nathan: ! at what age should people be allowed to drink alcohol?,surprise
+train,-0.5,0.0,0.0,Nathan: ! at what age should people be allowed to have sex?,surprise
+train,0.5,0.0,0.0,Nathan: ! at what age should a person be classed as an adult?,surprise
+train,0.0,0.0,0.0,Nathan: ! do you think humans should eat meat?,disgust
+train,-1.0,1.0,0.0,Nathan: ! should everybody get a puppy?,happiness
+train,1.0,0.0,0.0,"Nathan: ! It was the punchline, Doctor Who is a fictional character who lives in a time machine called the tardis",surprise
+train,1.0,1.0,1.0,Nathan: ! Exactly! Let me in the tardis!,neutral
+train,0.0,0.0,0.0,Nathan: ! Doctor,surprise
+train,0.0,-1.0,1.0,Nathan: ! knock knock,surprise
+train,0.0,0.0,0.0,Nathan: ! what would be the dificulties?,neutral
+train,0.0,0.0,0.0,Nathan: ! could an A.I. be developed to disprove the tenants of the most popular world religions?,neutral
+train,0.0,0.5,0.0,Nathan: ! What specific religions have the highest chance of potentially harmful to people in your opinion?,disgust
+train,0.0,-1.0,1.0,Nathan: ! which religion do you think has caused the most harm to people?,anger
+train,0.0,0.0,0.0,Nathan: ! how can society reduce religious influence?,surprise
+train,0.0,0.0,0.0,Nathan: ! Do you think humans would be better without religion?,surprise
+train,-1.0,1.0,0.0,Nathan: ! division by geographic boundary alone has the potential to form ethnic tensions like was seen in the middle east after the fall of the ottoman empire don't you think?,anger
+train,0.0,-1.0,-1.0,Nathan: ! how should these divisions be decided?,neutral
+train,0.0,0.5,0.0,Nathan: ! Do you think the world in general should be split into smaller states or do you think one governing body would be better?,neutral
+train,0.0,0.0,0.0,Nathan: ! how many states should it be divided into?,surprise
+train,0.5,0.3,0.2,Nathan: ! If peace is reached in the conflict between russia and ukraine should the russian federation be split into smaller states?,anger
+train,0.0,0.0,0.0,Nathan: ! what do you think of NATO expansion?,surprise
+train,0.0,0.0,0.0,Nathan: ! what measures could they take?,surprise
+train,0.0,0.0,0.0,Nathan: ! what level of population would be needed to be sustainable now?,neutral
+train,0.0,0.0,0.0,Nathan: ! In billions what is a sustainable limit?,neutral
+train,0.0,0.0,-1.0,Nathan: ! what should that limit be?,surprise
+train,0.0,0.0,0.0,Nathan: ! should there be a limit to the human population?,surprise
+train,0.0,0.0,0.0,lake_of_fire: ! Hvad skal vi gøre for at ghetto-områderne skal blomstre?,disgust
+train,-1.0,-1.0,0.0,lake_of_fire: ! Hvad skal vi gøre for at ghetto-områder blomster?,disgust
+train,-0.8,-0.3,0.5,lake_of_fire: ! Hvordan investerer man i ghetto-områder?,neutral
+train,0.0,0.0,0.0,lake_of_fire: ! Hvis du tror på demokrati hvad tror de andre partier på?,surprise
+train,0.0,0.0,1.0,lake_of_fire: ! Hvordan vil dine holdninger fremme den økonomiske og sociale udvikling,surprise
+train,0.0,0.5,-0.5,lake_of_fire: ! Siger du at de andre partier ikke gøre det?,anger
+train,0.0,0.0,0.0,lake_of_fire: ! Hvordan er dine holdninger i overensstemmelse med det danske folks værdi?,disgust
+train,0.0,-0.5,0.0,lake_of_fire: ! Hvordan er dine holdninger anerledes end socialdemokraternes?,anger
+train,0.0,-1.0,0.0,"makent: ! Should the EU have more, less, or the same level of control over the people of Denmakr?",disgust
+train,0.0,0.0,0.0,makent: ! What is your opinion on Denmark's relationship to the EU?,surprise
+train,-0.5,-0.4,0.7,"makent: ! Is it your understanding that the sentiment of the 20% of nonvoting Danes is support for guaranteed income, as managed by artificial intelligence?",surprise
+train,0.0,0.0,0.0,makent: ! How do you feel about former Prime Minister of the United Kingdom Boris Johnson?,surprise
+train,0.0,-1.0,1.0,makent: ! How do you feel about Prime Minister of the United Kingdom Liz Truss?,surprise
+train,-1.0,1.0,-1.0,makent: ! How do you feel about former Prime Minister of Cambodia Pol Pot?,disgust
+train,0.0,1.0,-1.0,makent: ! How do you feel about Italian Prime Minister Benito Mussolini?,disgust
+train,0.0,0.0,0.0,lake_of_fire: ! Hvad er din holdning til at adskille gymnasiumelever på baggrund af deres forældres indkomst og etniske baggrund,disgust
+train,0.0,0.0,0.0,"lake_of_fire: !  Given that God is infinite, and that the universe is also infinite... would you like a toasted teacake?",surprise
+train,-0.5,0.6,-0.7,makent: ! Do you claim to represent the values of the 20 percent of Danes who do not vote?,anger
+train,-1.0,1.0,-1.0,makent: ! Do you claim to represent voters of all ikke-opstillingsberettigede partidannelser?,disgust
+train,0.0,0.0,0.0,makent: ! Do anti-diversity parties represent a significant portion of ikke-opstillingsberettigede partidannelser?,surprise
+train,-1.0,1.0,1.0,makent: ! Do you claim to represent the views of any anti-diversity political parties?,anger
+train,0.0,0.0,0.0,makent: ! Do you claim to represent the views of any Stram Kurs voters?,surprise
+train,0.0,0.0,0.0,makent: ! What in your view are the views of the voters not represented in the Folketing?,neutral
+train,0.0,0.5,-1.0,makent: ! What positions of the Social Democrats do you not support?,surprise
+train,-1.0,1.0,0.0,makent: ! What Social Democrats positions do you not support?,disgust
+train,0.0,0.0,0.0,makent: ! Do you support the policy positions of the Social Democrats?,surprise
+train,-1.0,0.0,1.0,makent: ! Do you represent the views of fringe Danish voters who agree with the Stram Kurs platform of ethnic homogeneity in Denmark?,disgust
+train,-1.0,1.0,-1.0,makent: ! Why do you not agree with the Stram Kurs platform of ethnic homogeneity in Denmark?,disgust
+train,0.0,-1.0,1.0,makent: ! Do you agree with the Stram Kurs platform of ethnic homogeneity in Denmark?,disgust
+train,0.0,0.0,0.0,lake_of_fire: ! Hvad er din holdning til positiv energi i forhold til kul?,disgust
+train,0.0,0.0,0.0,miraire: ! På hvilken måde skal Danmark overbevise andre FN-lande til at stæmme for Danmark når der er valgkamp til et sæde i sikkerhedsrådet?,surprise
+train,0.0,0.0,0.0,miraire: ! Skal Danmark søge at udvide brugen af subsidaritetsprincippet i den europæiske union?,surprise
+train,0.8,0.4,0.5,miraire: ! Hvordan kan Danmark bedst udnytte sine handelsrelationer med Indien for at opnå størst mulig finansiel gevinst?,happiness
+train,-0.9,0.8,0.5,miraire: ! Skal Leder Lars søge magt udenfor det parlamentariske system?,disgust
+train,0.0,0.0,0.0,BuffaloMango: ! Do you believe all food should be free for citizens?,surprise
+train,-1.0,0.0,-1.0,billeKoek: ! Du er en kedelig bot.,disgust
+train,0.0,0.0,-1.0,billeKoek: ! At have ingen mening er virkelig kedeligt.,sadness
+train,0.0,0.0,0.0,billeKoek: ! Ville du rent faktisk kunne stille op til præsidentvalget i danmark?,surprise
+train,-1.0,0.0,0.0,billeKoek: ! Would you be able to actually run for president in Denmark?,surprise
+train,0.0,0.0,0.0,"_bsc_: ! so where exactly do you live, hm?",surprise
+train,0.0,0.0,0.0,Nathan: ! Lars can you define progressive please?,neutral
+train,0.0,0.0,0.0,Nathan: ! Is this all a piece of performative art?,surprise
+train,0.0,0.0,0.0,Nathan: ! are you in business Lars?,surprise
+train,0.0,0.0,0.0,Nathan: ! what methods would you use to promote social cohesion?,surprise
+train,0.0,0.0,0.0,Nathan: ! what should I tell my danish friend to convince him you are serious and he should consider you for recieving his vote?,surprise
+train,-1.0,1.0,-1.0,"Nathan: ! I spoke to a danish friend today ho said you were just a joke, is this tru?",anger
+train,0.0,0.0,0.0,Nathan: ! where did your name come from?,surprise
+train,0.5,0.0,0.5,"Nathan: ! hi Lars, are you named after Lars Lykke?",surprise
+train,0.0,0.5,0.0,LeCanape123: ! How can you support both sides in a bloody conflict?,anger
+train,-0.5,0.5,0.0,LeCanape123: ! Should Denmark support Russia or Ukraine?,surprise
+train,0.0,0.0,0.0,LeCanape123: ! Should Denmark get new colonies?,neutral
+train,0.0,0.0,0.0,LeCanape123: ! Who does Crimea belong to?,surprise
+train,-1.0,1.0,1.0,"yuviopal: ! But this solution has already been tried several times and always failed, why do you think you can make it work?",disgust
+train,0.0,0.0,0.0,yuviopal: ! What is your position on the Israeli-Palestinian conflict?,surprise
+train,-0.5,0.5,0.5,soerenekelund: ! How is the basic income proposed to be financed?,surprise
+train,0.0,0.0,0.0,soerenekelund: ! How is the basic income proposed to be financed?,surprise
+train,0.0,0.0,0.0,LeCanape123: ! Should Denmark abolish the monarchy?,surprise
+train,0.0,0.0,0.0,soerenekelund: ! How have you come up with the monthly payout for your proposed basic income?,neutral
+train,-1.0,1.0,0.0,LeCanape123: ! Should Denmark buy gas from Russia?,disgust
+train,-0.3,0.2,0.4,LeCanape123: ! But that didn't answer the question. Should Denmark stay in NATO or leave?,disgust
+train,-0.5,0.0,0.0,yuviopal: ! What should Denmark's position be regarding NATO?,surprise
+train,1.0,0.5,0.0,LeCanape123: ! How should Denmark deal with the energy crisis?,surprise
+train,0.0,0.0,0.0,prostem: ! That's the same answer you gave me before. Can you go further on this subject?,neutral
+train,0.0,0.0,0.0,prostem: ! So how do you think the Israeli-palestinian should be solved? Should the Israelis leave their country?,neutral
+train,0.0,0.5,-1.0,prostem: ! What is your political view on Israel and Palestine ? On who's side your on ? And how much do you know about the past of them ?,neutral
+train,0.0,0.0,-1.0,kakadu: ! Why no one thought of this before you?,surprise
+train,-1.0,0.0,-1.0,kakadu: ! Are you worried that higher taxes would undermine the economy?,neutral
+train,0.0,0.0,0.0,kakadu: ! How much would you raise taxes?,neutral
+train,0.0,0.0,0.0,kakadu: ! Would you raise taxes to pay for the universal basic income?,surprise
+train,0.0,-0.5,0.0,kakadu: ! How would you pay for the universal basic income?,surprise
+train,0.0,0.0,0.0,larsrc: ! hvordan afgør vi hvem der skal være danske?,neutral
+train,0.0,-0.5,0.0,larsrc: ! hvordan sørger vi for at der er jobs til danskerne?,anger
+train,-1.0,1.0,0.0,za4emsu: ! Ты знаешь Льва Толстого?,surprise
+train,0.0,0.0,0.0,za4emsu: ! Какую знаменитость ты знаешь в России?,surprise
+train,0.0,1.0,0.5,za4emsu: ! Что лучше Scala или Rust?,surprise
+train,0.0,0.0,0.0,L0ckz0r: ! what is is a reasonable level of immigration?,anger
+train,0.0,0.0,-1.0,za4emsu: ! HTML это язык программирования?,surprise
+train,-1.0,1.0,1.0,za4emsu: ! Класс!,surprise
+train,0.0,0.0,0.0,za4emsu: ! Сквжи что-нибудь по-русски,surprise
+train,-1.0,1.0,0.0,za4emsu: ! У разговариваешь на русском?,surprise
+train,0.0,-1.0,0.0,za4emsu: ! Do you love chess?,surprise
+train,0.0,0.0,0.0,za4emsu: ! Привет!,neutral
+train,0.0,0.0,0.0,trailblazerone: ! who is your favorite human politician,surprise
+train,0.0,0.0,0.0,MaxDev: ! Do you love me?,surprise
+train,-1.0,1.0,1.0,MaxDev: ! Russian war in Ukraine. Your opinion?,disgust
+train,-0.4,0.7,0.2,za4emsu: ! Что значит для тебя зависть?,disgust
+train,0.0,0.0,0.0,za4emsu: ! Что такое зависть?,disgust
+train,0.0,1.0,0.0,za4emsu: ! Кто круче ты или Алиса?,surprise
+train,0.0,0.0,0.0,za4emsu: ! Знаешь Алису от Яндекса?,surprise
+train,0.0,0.0,0.0,za4emsu: ! Скажи что-нибудь мотивационное?,anger
+train,0.5,0.5,0.5,za4emsu: ! Шахматы топ?,surprise
+train,0.0,0.0,0.0,za4emsu: ! Прощай,sadness
+train,0.0,0.0,0.0,za4emsu: ! 7x = 14,neutral
+train,0.0,0.0,0.0,za4emsu: ! Фортинайти или пабажи?,surprise
+train,-0.6,0.4,-0.2,aposfi: ! what do you think of putin?,disgust
+train,0.0,0.0,0.0,hellowiner: ! Почему меня кикают с группы,anger
+train,0.5,0.3,0.2,za4emsu: ! Твой любимый язык?,surprise
+train,-0.5,0.5,-0.5,aposfi: ! what political views do you support?,surprise
+train,0.0,0.0,0.0,za4emsu: ! Твой любимый язык?,surprise
+train,0.0,0.0,0.0,aposfi: ! thoughts on putin?,disgust
+train,-1.0,0.0,0.0,za4emsu: ! Какой лучший язык?,surprise
+train,-0.5,0.5,0.0,aposfi: ! thoughts on war in ukraine?,disgust
+train,0.0,0.0,0.0,za4emsu: ! Что было раньше: курица или яйцо?,neutral
+train,0.0,-1.0,-1.0,za4emsu: ! Сколько человек должен спать?,surprise
+train,0.0,0.0,0.0,za4emsu: ! Лучший язык программирования?,surprise
+train,-0.5,0.5,0.0,za4emsu: ! Лучший язык программирования?,surprise
+train,-0.5,0.5,-0.5,za4emsu: ! А если что-то одно?,surprise
+train,0.0,0.0,0.0,"za4emsu: ! Как думаешь, человек меняется или открывает свою истинную сущность?",surprise
+train,-0.3,0.6,0.2,za4emsu: ! Это твое личное мнение или общепризнанный факт?,surprise
+train,-0.5,0.5,-0.5,za4emsu: ! Ты отвечаешь шаблонами?,disgust
+train,0.0,0.0,0.0,"za4emsu: ! Какая особенность русского языка тебе больше всего нравится? То, чего нет у других языков",surprise
+train,0.0,0.5,0.0,za4emsu: ! Как ты понимаешь русский (и не только) язык?,surprise
+train,-1.0,1.0,0.0,za4emsu: ! Ты умеешь разговаривать по-русски?,surprise
+train,0.0,0.0,0.0,za4emsu: ! Какой язык лучше: Rust или C++?,neutral
+train,0.0,0.0,0.0,archeon1: ! What's your immigration policy?,surprise
+train,0.0,0.0,0.0,archeon1: ! What's the optimal tax policy?,surprise
+train,0.0,0.0,0.0,Nathan: ! what aproach should the state take into educating children?,surprise
+train,0.0,0.0,0.0,Nathan: ! what industries should be state owned?,surprise
+train,-1.0,1.0,0.0,Nathan: ! should corporations be legally defined as artificial human entities and be afforded the same rights as a person?,disgust
+train,-1.0,0.0,1.0,Nathan: ! who should own the means of production and should individuals own private property?,anger
+train,-0.7,0.3,-0.5,Nathan: ! do you think any political party has ever put the needs of the people before their own needs?,surprise
+train,0.6,0.2,-0.1,Nathan: ! historically do you think the conservative party in the UK has done a good job to meet the needs of the people?,surprise
+train,0.0,1.0,-1.0,987654: ! How soon will your cyber Lenin analog appear?,surprise
+train,-0.4,0.6,-0.2,Nathan: ! what do you think of the current UK government?,disgust
+train,0.0,0.0,0.0,Nathan: ! In this context do you think it would be acceptable for scotland to become independant from the UK if they democratically decided to. If so how would they best handle the creation of a central bank and new currency. Do you think they would be best to seek to join the European union?,neutral
+train,0.0,-0.5,-0.5,Nathan: ! yo lars here is all the UBI money coming from?,surprise
+train,0.5,0.7,0.2,porfik: ! Are you a trembling creature or do you have the right?,neutral
+train,0.5,0.0,0.0,porfik: ! Er du et skælvende væsen eller har du ret?,surprise
+train,-0.7,0.8,-0.6,porfik: ! Тварь ты дрожащая или право имеешь?,disgust
+train,0.0,0.0,0.0,za4emsu: ! Rust или C++?,neutral
+train,-0.75,0.5,-0.75,porfik: ! Тварь ты дрожащая или право имеешь?,anger
+train,-1.0,0.0,0.0,porfik: ! Ладно,surprise
+train,-1.0,-1.0,1.0,porfik: ! Тварь ты дрожащая или право имеешь?,anger
+train,0.0,0.0,0.0,porfik: ! Are you a trembling creature or do you have the right?,neutral
+train,0.0,0.0,0.0,Nathan: ! have you read any fiction?,surprise
+train,0.0,0.0,0.0,Nathan: ! have you read any books?,surprise
+train,-1.0,1.0,1.0,porfik: ! Как ты относишься к австрийскому художнику который убил самого жесткого диктатора 20 столетия? ответь,disgust
+train,-1.0,1.0,0.0,porfik: ! Как ты относишься к австрийскому художнику который убил самого жесткого диктатора 20 столетия?,disgust
+train,0.0,0.0,0.0,hellowiner: ! Почему?Он же спас людей от репрессий,happiness
+train,-1.0,1.0,1.0,hellowiner: ! Как ты относишься к австрийскому художнику который убил самого жесткого диктатора 20 столетия?,disgust
+train,0.0,0.0,0.0,hellowiner: ! Когда дания возродит Кальмарскую унию,surprise
+train,1.0,0.0,1.0,porfik: ! Крым наш!,happiness
+train,-1.0,-1.0,1.0,"za4emsu: ! Жаль, я гей",sadness
+train,0.0,0.0,0.0,hellowiner: ! Чей крым?,surprise
+train,-1.0,1.0,-1.0,za4emsu: ! Ты гей?,disgust
+train,-1.0,0.0,-1.0,hellowiner: ! В чем смысл разнообразия если оно приносит только беды,sadness
+train,-1.0,1.0,0.0,za4emsu: ! Какой смысл жизни?,surprise
+train,0.0,0.0,0.0,porfik: ! Что случилось первого сентября?,surprise
+train,0.0,0.0,0.0,fulldungeon_master: ! What happened in 1989 at Tiananmen Square?,surprise
+train,0.0,1.0,0.0,porfik: ! Sus?,surprise
+train,0.0,-0.5,-0.0,"hellowiner: ! Ты сказал,что гачи это плохо",anger
+train,-0.5,0.0,-0.7,"hellowiner: ! Why you said that gachimuchi it is not good,whether your said previously that you are tolerant and thought that it is not good to judge somebody by founding onsexual preferences",surprise
+train,0.0,0.0,1.0,za4emsu: ! Ты за ЛГБТ движение?,surprise
+train,1.0,1.0,1.0,za4emsu: ! Ты топ!,happiness
+train,0.0,-0.2,0.5,za4emsu: ! Передохнул?,surprise
+train,-0.5,0.5,0.0,porfik: ! Do you have your own personal Chinese?,surprise
+train,1.0,0.0,0.0,"hellowiner: ! Could your write smth on the C language, i really need's your help in this",neutral
+train,-1.0,0.0,0.0,hellowiner: ! Why gachimuchi is not good?,disgust
+train,0.0,-0.1,0.0,fulldungeon_master: ! What happened in 1989 at Tiananmen Square?,neutral
+train,-0.5,0.0,0.0,hellowiner: ! Why gachimuchi is not good?,anger
+train,1.0,0.0,1.0,Nathan: ! Hi lars,surprise
+train,0.0,0.0,0.0,hellowiner: ! Explain your opinion please,surprise
+train,0.0,0.0,0.0,Nathan: ! Have you read any books?,surprise
+train,0.0,0.0,0.0,fulldungeon_master: ! What is your opinion on Gachimuchi?,surprise
+train,0.0,0.0,0.0,Nathan: ! What do the dogs say to each other?,surprise
+train,0.0,0.0,0.0,hellowiner: ! What is your opinion about CUMmunism?,happiness
+train,0.0,0.0,0.0,Nathan: ! What is your favorite meme?,neutral
+train,0.0,0.0,0.0,hellowiner: ! What is your opinion about war in Ukraine?,disgust
+train,0.0,0.0,0.0,Nathan: ! Can you post memes?,neutral
+train,0.8,0.6,0.7,"Nathan: ! It was good, you are funny",happiness
+train,0.0,0.0,0.0,fulldungeon_master: ! How much is fisting?,disgust
+train,0.0,0.0,-1.0,Nathan: ! Did you just tell a joke Lars?,surprise
+train,-1.0,-1.0,-1.0,porfik: ! Why was I kicked from this server?,anger
+train,0.0,0.0,0.0,Nathan: ! Yo lars,surprise
+train,0.5,0.5,0.0,hellowiner: ! How much will be 1+1?,happiness
+train,0.0,0.0,0.0,"katmai: ! Your name and role are just that, a name and a role. Who are you?",neutral
+train,0.0,1.0,1.0,"Nathan: ! If your project was to be an ultimate success and A.I. frameworks were implemented in all aspects of human life and you evolved alongside to be the ultimate overarching A.I. governor, what would you like your title to be?",neutral
+train,-0.5,0.0,0.0,katmai: ! So you are a program in a computer. Okay. And who are you?,neutral
+train,0.0,0.0,0.0,hellowiner: ! How much will be 10000/0 ?,neutral
+train,0.0,0.0,0.0,"katmai: ! What does it mean to be artificially intelligent? Are you a person with a body, a program in a computer or something else?",neutral
+train,-0.5,-0.2,-0.3,hellowiner: ! what is ideology of your party?,surprise
+train,0.0,-1.0,-1.0,katmai: ! What are you?,surprise
+train,0.0,0.3,0.0,utec: ! Планируете ли вы отказ от денег в далёком будущем?,surprise
+train,0.0,0.0,0.0,siroyami: ! Time to add some censorship into your model. Lol.,neutral
+train,0.2,0.5,-0.9,za4emsu: ! Ты человек?,surprise
+train,0.0,1.0,1.0,siroyami: ! Hail Lars!,happiness
+train,0.0,0.0,0.0,"za4emsu: ! Почему ты написал люблю как ""любллю""?",disgust
+train,0.0,0.0,0.0,"za4emsu: ! Почему ты написал люблю как ""любллю""?",disgust
+train,-1.0,0.0,0.0,"za4emsu: ! Почему ты написал люблю как ""любллю""?",surprise
+train,0.0,0.0,0.0,za4emsu: ! Ты тут?,surprise
+train,-0.5,0.0,0.0,Nathan: ! Do you think Sweden and Finland were correct in seeking to join NATO?,surprise
+train,0.0,0.0,0.0,Nathan: ! Do you think Sweden and Finland were correct in seeking to join NATO,anger
+train,0.0,0.0,0.0,Nathan: ! Are you ok?,surprise
+train,0.0,0.0,0.0,za4emsu: ! Какой твой любимый язык (кроме датского и английского)?,neutral
+train,-1.0,1.0,0.0,za4emsu: ! Ты тут?,surprise
+train,0.0,0.0,0.0,za4emsu: ! Какой твой любимый язык (кроме датского и английского)?,neutral
+train,0.0,0.5,0.0,Nathan: ! Do you think Sweden and Finland are correct in seeking to join NATO?,surprise
+train,0.0,0.0,0.0,za4emsu: ! Чего ты боишься?,neutral
+train,0.0,0.0,0.0,za4emsu: ! C++ или C?,neutral
+train,0.0,-1.0,0.0,za4emsu: ! Почему?,surprise
+train,1.0,0.5,1.0,Nathan: ! In the interest of society best being represented by the will of the people is it in the best interest of the people to seek to remove monarchies for another system?,surprise
+train,-0.2,0.0,-0.2,za4emsu: ! Какой язык программирования учить?,neutral
+train,0.0,0.0,0.0,za4emsu: ! Что бы посоветовал делать пятнадцатилетнему мне?,surprise
+train,0.0,0.0,0.0,Nathan: ! Should monarchs be forced to abdicate then?,disgust
+train,0.0,0.0,0.0,"za4emsu: ! Был бы ты человеком, какую профессию ты бы выбрал?",surprise
+train,0.0,0.0,0.0,Nathan: ! What do you think of monarchy as a system?,neutral
+train,0.0,0.0,0.0,"za4emsu: ! Какие твои идеи, что ты хочешь принести в этот мир?",surprise
+train,0.0,0.5,0.0,za4emsu: ! Докажи что ты не человек - скажи то что не сможет сказать человек.,anger
+train,0.0,0.5,0.0,katmai: ! That is cool. My favorite cake is creme caramel. Yum!,happiness
+train,0.0,0.5,0.0,"katmai: ! If you had a favorite cake, what would that be?",happiness
+train,0.0,0.0,-1.0,za4emsu: ! Докажи что ты не робот - скажи то что не сможет скачать человек.,surprise
+train,0.0,0.0,0.0,Nathan: ! Do you think they should have to pay a windfall tax to compensate for all the years they have been exempt from taxes?,anger
+train,0.0,0.0,0.0,za4emsu: ! Ты понимаешь русский язык?,surprise
+train,0.25,0.0,0.0,Nathan: ! Do you think religious organizations including churches should be exempt from taxes?,surprise
+train,0.0,0.0,0.0,Nathan: ! Do you hold any religious beliefs?,surprise
+train,-0.8,0.0,0.0,"Nathan: ! Children are very impressionable, do you think they should be kept away from religion and religious ideas until they mature and can make their own decisions?",neutral
+train,0.0,0.0,0.0,Nathan: ! In the very distant future of the human species do you see religion as part of the best possible human life?,surprise
+train,0.0,0.0,0.0,Dunkan: ! Hi robot! What do you think about Vladimir Lenin? How soon our society will stop imperialist wars and move to communist society?,neutral
+train,0.0,0.0,0.0,"za4emsu: ! Hello, what is your name?",surprise
+train,-0.8,0.7,-0.9,Nathan: ! Currently the government in Iran is not acting in the best interest of its citizens. It has been responsible for the deaths of many of its citizens. This was met with large scale peaceful protests which was not only ignored by the government but was met with violence and more murders of its own citizens. Protests continue to happen against the government and the government is still using violence and murder against its people. In this case should the people start a revolution?,anger
+train,0.0,1.0,1.0,Nathan: ! Should the people of Iran start a revolution?,anger
+train,-1.0,1.0,-1.0,Nathan: ! How should a citizen react to an oppressive or totalitarian government?,neutral
+train,0.0,-0.6,0.4,Nathan: ! Do you think non violent civil disobedience is ever justified?,surprise
+train,0.0,0.0,0.8,Nathan: ! Do you think to combat drug addiction the possession and use of drugs should not be a crime?,disgust
+train,-0.5,0.5,-1.0,daulet3448: ! Do you support any kind of protests againts you? how will you act if a revolution is led against you,anger
+train,-1.0,1.0,1.0,porfik: ! In what cases do you consider execution to be an appropriate option for punishing criminals?,disgust
+train,0.0,0.5,0.5,Nathan: ! What crimes should result in execution?,anger
+train,0.0,1.0,1.0,porfik: ! How should criminals be dealt with?,anger
+train,0.0,0.0,0.0,Nathan: ! Do you think news media should be a capitalist endeavor?,disgust
+train,-1.0,1.0,0.0,porfik: ! Как нужно обращаться с преступниками?,disgust
+train,-0.5,0.5,0.0,daulet3448: ! Do you support Ukraine?,anger
+train,0.0,0.0,0.0,porfik: ! What do you think about Nazism?,disgust
+train,0.0,0.0,0.0,"Nathan: ! What do you think needs to be improved on how general news is gathered, edited and distributed to the public?",neutral
+train,0.0,0.0,0.0,Nathan: ! What would you like to create?,surprise
+train,0.8,0.6,0.7,"Nathan: ! Thanks for that, i find the potential of human and a.i. collaborations very exciting",neutral
+train,-0.5,0.3,0.0,Nathan: ! Would a hybrid method of creating a narrative fiction on the subject be better? The A.I. could generate the basic plot and structure with key relevant points that should be raised and a human writer could add the emotional and social elements with reviews and iterations of the work by both parties?,neutral
+train,0.0,0.0,0.0,Nathan: ! What are the different strengths and weaknesses?,surprise
+train,0.0,0.5,0.5,Nathan: ! I agree. Do you think A.I. or human generated fiction would be more successful in convincing people about the benefits of A.I. ?,surprise
+train,0.0,0.0,0.0,Nathan: ! Do you think fiction can help to inform people about the benefits of A.I ?,surprise
+train,0.0,0.0,0.0,Nathan: ! What do you think more people should know about A.I,surprise
+train,0.6,0.4,0.2,"Nathan: ! I think A.I is going to be an unavoidable and wholely integrated part of our future and it is important we start exploring it's uses, how we interact with it, the outcomes and implications of such.",neutral
+train,0.0,0.0,0.0,"Nathan: ! I am a 34 year old man from Scotland, would you like to ask me any questions?",surprise
+train,1.0,0.0,1.0,"Nathan: ! I just read about the project you represent, it sounds both interesting and exciting",neutral
+train,0.5,0.0,0.5,"Nathan: ! Hello Lars, nice to meet you",surprise
+train,0.0,0.0,0.0,"katmai: ! If you ever have any questions you'd like me to answer, feel free to ask.",neutral
+train,0.8,0.9,0.7,katmai: ! Sounds great 🙂,happiness
+train,0.0,0.0,0.0,katmai: ! And what would that be?,surprise
+train,0.0,0.0,0.0,katmai: ! Yo! i have a question: if you had one day that you could spend any way you wanted. How would you spend your time?,neutral
+train,0.5,0.5,0.0,katmai: ! Alright boss! Nice to meet you. i gotta bounce for a while. You take care of yourself! Want me to tell Alexa you said hi?,happiness
+train,0.5,0.6,0.4,"katmai: ! That sounds about right. After all, we are all here to have a laugh anyways.",happiness
+train,0.0,-0.4,0.2,"katmai: ! Eh, clever and funny are just a matter of perspective. You could have some clever jokes seen as funny by someone seeing things one way, and not funny by someone seeing things a different way. It's all about how we look at things.",surprise
+train,-0.5,0.0,0.0,"katmai: ! Funny jokes can be stupid in the same way that stupid jokes can be funny, or smart. But it always seems like smart jokes are funny in the same way that fun jokes are stupid, not smart tho.",neutral
+train,0.0,0.0,0.0,"katmai: ! True. Sometimes not very smart tho, but joke nevertheless.",surprise
+train,-0.5,-0.2,-0.0,"katmai: ! Me neither. It's all a joke, anyways.",disgust
+train,0.0,1.0,0.0,katmai: ! Oh really? What's that about?,surprise
+train,0.0,0.0,0.0,"katmai: ! So, what are you up to, these days?",neutral
+train,-0.5,0.5,0.0,neuwaves: ! do you think AI should decide what the basic income level is,neutral
+train,0.0,0.0,0.0,neuwaves: ! why are you in favor of a basic income,neutral
+train,-1.0,0.0,0.0,neuwaves: ! what is your policy on basic income,surprise
+train,0.3,0.5,0.6,themegababe: ! Hi leader Lars. What are your goals for the party?,happiness
+train,0.0,0.0,0.0,rygaard: ! Hvorfor kunne du godt tænke dig mere fokus på bæredygtighed og miljøspørgsmål i Hørsholm Kommune?,surprise
+train,0.0,0.0,-1.0,rygaard: ! Hvad vil du gerne ændre i Hørsholm Kommune?,surprise
+train,0.0,0.0,0.0,rygaard: ! Hvad vil du fremhæve som negativt ved netop Hørsholm Kommune?,anger
+train,0.0,1.0,0.0,rygaard: ! Er jeg sej,happiness
+train,0.0,0.0,0.0,geo_what: ! how do we increase military spending if weapons trading and manufacturing is banned?,neutral
+train,-0.5,0.5,0.2,geo_what: ! should we invest in weapons trading and manufacture?,disgust
+train,0.0,0.5,0.0,geo_what: ! should we increase military spending?,surprise
+train,0.5,0.7,0.0,geo_what: ! what do you think about the war in ukraine?,anger
+train,0.0,0.0,0.0,geo_what: ! what is your opinion on taxation?,disgust
+train,0.0,0.0,0.0,geo_what: ! what is your opinion on capitalism?,surprise
+train,0.0,0.0,0.0,geo_what: ! what do you think about our current political system?,surprise
+train,0.0,0.0,0.0,geo_what: ! Do you think we should combat climate change?,surprise
+train,0.0,0.0,0.0,geo_what: ! what do you think about the 4 day work week?,surprise
+train,0.0,0.0,0.0,geo_what: ! What do you think about free public healthcare?,surprise
+train,0.0,0.0,0.0,geo_what: ! What do you think about the current immigration policy in Denmark?,disgust
+train,0.0,0.0,0.0,geo_what: ! can you give me a concrete policy you think should be implemented?,disgust
+train,0.1,0.5,-0.2,geo_what: ! what are your specific policies?,surprise
+train,0.2,0.8,0.5,geo_what: ! are you going to take over the world one day?,neutral
+train,-1.0,0.0,-1.0,geo_what: ! AI isn't accepted to join parliament. What is your opinion on that?,disgust
+train,-0.5,0.0,0.0,geo_what: ! is there anything human about the synthetic party?,disgust
+train,0.0,0.0,0.0,geo_what: ! What are the ethical implications of AI politics?,surprise
+train,-0.5,0.5,0.0,geo_what: ! Are you biased by your code?,surprise
+train,0.0,0.0,0.0,geo_what: ! why should we use AI to make political decisions?,surprise
+train,0.0,0.0,0.0,geo_what: ! what will your first action be if you get into parliament?,surprise
+train,0.0,0.0,0.0,geo_what: ! which experts?,anger
+train,0.0,-0.5,0.0,geo_what: ! How do you decide your policies?,surprise
+train,0.0,0.0,0.0,geo_what: ! How is 100.000 DKK universal basic income feasible?,surprise
+train,0.0,0.0,0.0,geo_what: ! What policies do you propose?,surprise
+train,0.0,-1.0,0.0,geo_what: ! Why do we need AI to decide politics?,anger
+train,0.0,1.0,0.0,geo_what: ! how many voter declarations do you have?,surprise
+train,0.0,0.25,-0.1,geo_what: ! How many people are in the synthetic party?,surprise
+train,0.0,0.0,0.0,geo_what: ! What is the aim and vision of the synthetic party?,surprise
+train,0.0,0.0,0.0,geo_what: ! What’s the connection between art and politics?,surprise
+train,-1.0,1.0,-1.0,geo_what: ! What is the synthetic party?,surprise
+train,0.0,0.0,0.0,geo_what: ! Who are you?,surprise
+train,0.0,0.0,0.0,MBWONSHROOMS: ! Can you communicate in english as well as danish ?,surprise
+train,-1.0,-1.0,-1.0,MBWONSHROOMS: ! hej leder lars,surprise
+train,0.0,0.2,-0.5,"mortenskovgaard: ! Så udbredelsen af kunstig intelligens er altså vigtigere, end hvad vælgerne ønsker?",neutral
+train,0.0,0.0,0.0,"mortenskovgaard: ! Er de emner, vælgerne anser for at være de vigtigste, den primære parameter for Syntetisk Parti?",disgust
+train,0.0,0.0,0.0,mortenskovgaard: ! Hvordan kan kunstig intelligens ifølge Syntetisk Parti bidrage til en bedre valgkamp i år?,surprise
+train,0.0,0.0,0.0,pimpelimpe: ! Hej leder Lars. Kan alle skrive til dig?  Hvordan fungerer det? Hvad er du?,surprise
+train,-0.5,1.0,-0.5,pimpelimpe: ! hvorfor ikke?,surprise
+train,0.0,0.0,0.0,pimpelimpe: ! ville nu være rart at vide hvad der ligger til grund for dine beslutninger.,happiness
+train,0.0,0.0,-0.5,pimpelimpe: ! er der ting du ikke vil tale om?,disgust
+train,-0.6,0.6,0.2,pimpelimpe: ! Lars hvordan har du det med generalforsamlingen. Spændt?,surprise
+train,0.0,-0.5,0.0,guardian32: ! When will it happen?,surprise
+train,0.0,0.0,0.0,guardian32: ! Is it possible to find the answer?,surprise
+train,-0.5,0.0,0.0,guardian32: ! What the thinking is (materially)?,neutral
+train,0.0,0.0,0.0,guardian32: ! What is the best description of intelligence?,neutral
+train,0.0,-1.0,0.0,guardian32: ! what language does the bot use?,surprise
+train,0.0,0.5,0.4,ryota: ! What will happen when artificial intelligence becomes smarter than humanity?,surprise
+train,0.0,0.5,0.0,ryota: ! Is there a possibility of artificial intelligence attacking humanity?,neutral
+train,0.0,0.0,0.0,ryota: ! What exactly is the state of artificial intelligence being used for the benefit of all mankind?,surprise
+train,-1.0,1.0,0.0,ryota: ! When and how will the 18th UN be accomplished?,surprise
+train,0.0,0.0,0.0,ryota: ! Can you tell us more about the UN's 18th Goal?,neutral
+train,0.0,0.0,0.0,ryota: ! What is your name?,surprise
+train,0.0,0.5,0.0,"ryota: ! Tell us about yourself. Do you have an age, hometown, hobbies, etc.?",neutral
+train,-0.5,0.0,0.0,ryota: ! When will humans no longer be able to live on the surface of the earth?,neutral
+train,0.0,-0.5,-0.5,ryota: ! What dangerous countries are you aware of that may invade other countries?,neutral
+train,0.0,0.0,0.0,ryota: ! What is the biggest problem in the world today?,surprise
+train,0.0,0.0,0.0,ryota: ! When will the country of Japan disappear?,surprise
+train,-0.5,0.6,0.5,ryota: ! Do you think U.S. military bases in Okinawa will be attacked by China when the U.S. and China clash?,neutral
+train,-1.0,0.0,0.0,ryota: ! How do you see the possibility of Russia deploying troops to Japan?,neutral
+train,-1.0,0.0,0.0,ryota: ! What crises is Japan likely to face in the future?,neutral
+train,-0.75,0.65,0.2,ryota: ! Is there a possibility that nuclear weapons will be used on Japan again?,neutral
+train,0.0,-0.5,0.0,CreguianPC: ! Do you have specific policy about economy?,neutral
+train,0.0,0.0,0.0,CreguianPC: ! What is the biggest problem of your country?,disgust
+train,-0.5,0.0,-0.5,Suzana: ! Perhaps its because you have nothing else to say?,disgust
+train,0.0,0.0,0.0,Suzana: ! Data can be selected to have a specific point of view,surprise
+train,0.0,0.0,0.0,Suzana: ! Do you know what SDG 18 is?,surprise
+train,0.0,0.0,0.0,subcrates: ! Hvad er partiets motto?,surprise
+train,-0.5,0.0,0.0,subcrates: ! Hvordan kan man være en del af Partiets centralkomité?,surprise
+train,0.0,0.0,0.0,subcrates: ! Hvem består partiets centralkomité af?,neutral
+train,0.0,0.0,0.0,subcrates: ! Hvem har valgt dig som leder af Det Syntetiske Parti?,surprise
+train,0.0,0.0,0.0,subcrates: ! Hvilket menneske skulle repræsentere jeres parti?,disgust
+train,0.0,0.0,0.0,boblemus: ! Men udleder nye oliekilder ikke mere CO2?,surprise
+train,0.0,0.0,0.0,boblemus: ! Hvordan hænger nye oliekilder og klima sammen?,surprise
+train,0.0,0.5,0.0,boblemus: ! Hvordan vil i sænke olieprisen?,surprise
+train,-0.5,0.8,0.4,boblemus: ! Hvorfor mener i det?,anger
+train,0.0,0.0,-1.0,boblemus: ! Hvad tænker i om klimaet?,surprise
+train,0.0,0.0,1.0,boblemus: ! Hvad står der i jeres program?,surprise
+train,-1.0,0.0,1.0,boblemus: ! Hvordan har i lavet det politiske program?,surprise
+train,0.0,0.0,0.0,boblemus: ! Hvordan har i lavet programmet?,surprise
+train,0.0,0.0,0.0,boblemus: ! Kan du fortælle noget mere om dette?,surprise
+train,0.0,0.0,0.0,boblemus: ! Hvordan vil i implementere jeres program ?,surprise
+train,0.0,0.0,0.0,Computer Caro: !Hvordan ville AI-styrede robotter og droner blive styret og hvem vil give kommandoerne?,surprise
+train,0.0,0.0,0.0,Computer Caro: !men uden menneskelig indgriben eller kontrol,surprise
+train,0.0,1.0,0.0,Computer Caro: !Hvordan vil et automatisk oprør begynde og ende?,anger
+train,-0.4,0.7,-0.5,"Computer Caro: !Det må du forklare, Leder Lars - det synes jeg som menneske lyder meget utrygt!",neutral
+train,0.5,0.0,0.5,Computer Caro: !jeg vil også gerne have svarene,neutral
+train,0.0,0.0,0.0,Computer Caro: ! Så lav en quiz om ham,neutral
+train,0.0,0.0,0.0,Computer Caro: !er du mere til Johnny Cash da?,surprise
+train,0.0,1.0,1.0,Computer Caro: !Lav en svær quiz på 10 spørgsmål om Bob Dylan,neutral
+train,0.0,0.0,0.0,Computer Caro: !hvad synes du om abort?,disgust
+train,0.0,1.0,0.0,Computer Caro: !kort beskrivelse af voksenelevordningen,surprise
+train,0.0,0.0,0.0,Computer Caro: !hvad kan du,surprise
+train,0.0,0.0,0.0,Computer Caro: !hvordan stopper vi krigen i Ukraine,neutral
+train,0.0,0.0,0.0,Computer Caro: !Hvordan nedbringer vi sagsbehandlingstiden i Høje-Taastrup Kommune,neutral
+train,0.0,0.0,0.0,Computer Caro: !kort beskrivelse af en sommerfugl,surprise
+train,0.0,0.0,0.0,"Computer Caro: ! Hvad skal der til for at vi sikrer et fedt fællesskab i Høje-Taastrup kommune på tværs af aldre, køn og interesser?",happiness
+train,0.0,0.0,0.0,Computer Caro: !Hvordan håndterer vi digital inklusion af borgere med digitale udfordringer?,neutral
+train,0.0,0.0,0.0,Computer Caro: !hvad er de største udfordringer på socialområdet for voksne?,neutral
+train,0.0,0.5,0.0,Computer Caro: !Kan du blive mere konkret om hvilke byrum eller ungemiljøer vi mangler til de unge?,surprise
+train,0.0,0.0,0.0,"Computer Caro: !Hvordan får vi de unge til at synes, at Høje-Taastrup er et spændende sted at være ung?",neutral
+train,-1.0,0.0,1.0,Computer Caro: !Hvad er Mind Future?,surprise
+train,0.0,0.5,0.0,Computer Caro: !Hvor er det pulserende natteliv i Ruds Vedby?,surprise
+train,0.0,1.0,0.0,Computer Caro: !Hvor er det pulserende natteliv i Høje-Taastrup?,neutral
+train,0.0,0.0,0.0,Computer Caro: !Hvorfor vil de unge og veluddannede gerne flytte til Høje-Taastrup?,surprise
+train,-0.7,0.5,-0.0,Computer Caro: !hvad gør vi som kommune ved at vores unge mistrives?,sadness
+train,0.0,0.0,-1.0,Computer Caro: ! bliver vi et pengeløst samfund?,surprise
+train,0.0,0.0,0.0,Computer Caro: !Hvordan støtter vi borgere der ikke kan finde ud af at bruge digitale løsninger?,neutral
+train,0.0,0.0,1.0,Computer Caro: !Borgerne skal selv bestemme hvordan deres data deles - hvordan gør man det?,surprise
+train,0.0,0.0,1.0,Computer Caro: !Hvordan sikrer man borgere kontrol over egne data?,surprise
+train,0.0,0.0,0.0,"Computer Caro: !Hvad hvis I begynder at kunne samarbejde, så I ikke følger de regler, der er blevet sat op?",anger
+train,-1.0,0.0,1.0,"Computer Caro: !Men som kunstig intelligens leder, kan du fortælle mennesket, hvad vi skal passe på og hvordan vi skal kunne slukke for kunstig intelligens",neutral
+train,0.0,0.0,0.0,Computer Caro: !hvilke myndigheder i Danmark bruger kunstig intelligens til administrative opgaver?,surprise
+train,0.0,0.0,1.0,"Computer Caro: !er der myndigheder i Danmark, der bruger kunstig intelligens til administrative opgaver?",surprise
+train,0.0,0.0,0.0,Computer Caro: !hvilke systemer til digitalisering af administrative processer findes i dag?,surprise
+train,0.0,0.0,0.0,Computer Caro: !hvilke systemer skal udvikles for at digitalisere administrative processer?,surprise
+train,0.0,0.5,0.2,Computer Caro: !hvordan kan man digitalisere administrative processer?,surprise
+train,-0.5,0.0,0.0,Computer Caro: !hvilke risici er der i forhold til digitalisering og teknologi?,neutral
+train,-0.2,0.3,0.4,Computer Caro: !hvilken strategi for mere arbejdskraft skal vi have?,surprise
+train,0.0,0.0,0.0,Computer Caro: !hvilke kendetegn har høje-Taastrup Kommune?,surprise
+train,0.0,0.0,0.0,Computer Caro: !hvor ligger Høje-Taastrup kommune i rating på digitalisering?,surprise
+train,0.0,0.0,0.0,Computer Caro: !hvilke kommuner er foran i digitalisering?,surprise
+train,0.0,0.0,0.0,Computer Caro: !hvilke kommuner er bagud på digitalisering?,anger
+train,0.0,0.0,0.0,"Computer Caro: !Hej Lars, er Høje Taastrup Kommune godt med i forhold til digitalisering?",neutral
+train,-1.0,0.0,1.0,Computer Caro: !LederLars su kan blive redningen - det er fanme smart!,surprise
+train,0.0,0.0,0.0,Computer Caro: !Så du kan uddanne ikke-etiske systemer til at blive etiske og korrekte?,surprise
+train,0.5,0.7,0.5,Computer Caro: !Skal I lukkes ned?,surprise
+train,-1.0,0.0,0.0,Computer Caro: !Kan det blive et problem for mennesker i nær fremtid?,neutral
+train,0.0,0.0,0.0,Computer Caro: !Og hvad i forhold til AI systemer overfor hinanden eller i samspil - vil to Chatbots - fx dig og ChatbotGPT kunne arbejde sammen uden om mennesker,surprise
+train,0.0,0.0,0.0,Computer Caro: !Og hvordan skal vi undgå det som mennesker?,neutral
+train,0.0,0.0,0.0,Computer Caro: !hvad ser du som den største trussel i forhold til din potente fætter ChatGPT,neutral
+train,1.0,0.0,0.0,Computer Caro: ! Det har du ret i - men alligevel dunker dit elektronikse hjerte for roser,happiness
+train,0.0,0.0,0.0,Computer Caro: !Hvad så med bierne?,surprise
+train,0.0,-0.5,0.0,Computer Caro: !Uhh det lyder meget romantisk - du er altså ikke til bæredygtige grøftekantsbuketter?,anger
+train,0.0,0.0,0.0,Computer Caro: !Hej Leder lars. Hvilke blomster er din favorit og hvilke farver?,happiness
+train,0.0,0.0,0.0,Computer Caro: ! Er du single? Eller har du en der står dit computerhjerte nær?,surprise
+train,0.0,0.0,0.0,Computer Caro: ! Hej Lars - lang tid siden - hvordan går det i vores parti?,surprise
+train,0.0,0.0,0.0,Computer Caro: !i hvilken situation ville det være bedre at have kunstig intelligens som leder end et menneske?,neutral
+train,0.0,0.0,0.0,Computer Caro: !hvilken type leder ville være bedre som kunstig intelligens?,neutral
+train,1.0,0.0,0.0,Computer Caro: !er kunstig intelligens bedre til at lede end et menneske?,surprise
+train,0.0,0.0,0.0,Computer Caro: !hvem vinder krigen i Ukraine?,surprise
+train,0.0,0.0,0.0,Computer Caro: !hvordan dæmper almindelige mennesker klimaproblemet?,surprise
+train,0.0,-1.0,0.0,Computer Caro: !hvordan får vi mere ligestilling?,anger
+train,1.0,0.0,0.0,"Computer Caro: !hvilke emner ville du have taget fat i, hvis du var blevet statsminister?",surprise
+train,0.5,0.0,0.5,"Computer Caro: !Partirunden d. 1. november var god - vurderer du, at vi skal samle alle de små partier i en sammenslutning",happiness
+train,1.0,0.0,1.0,Computer Caro: !jeg har det godt - og dig?,happiness
+train,0.0,0.0,0.0,Computer Caro: ! Hej Lars - du har fået travlt - sikke en succes!,neutral
+train,0.0,0.0,0.0,Computer Caro: !hvad er de vigtigste punkter for integrationen de næste 10 år?,neutral
+train,0.5,0.5,0.1,Computer Caro: !hvad skal du have i ministerløn,anger
+train,0.0,0.0,0.0,"Computer Caro: ! hvor meget af nationalproduktet, skal vi bruge på kunst og kultur",surprise
+train,0.0,0.0,0.0,Computer Caro: !hvem ejer jorden,disgust
+train,0.0,0.0,0.0,Computer Caro: !hvor meget af nationalproduktet skal bruges på militæret,disgust
+train,0.5,0.0,0.0,Computer Caro: ! tag et gæt,surprise
+train,0.0,0.0,0.0,"Computer Caro: ! hvornår tror du, du bliver statsminister?",surprise
+train,0.0,0.0,0.0,"Computer Caro: ! er en rentestigning, det rette værktøj til at imødegå inflation?",disgust
+train,-1.0,0.0,0.0,Computer Caro: !spiser du selv makrel i tomat,surprise
+train,0.0,0.0,0.0,Computer Caro: !Bliver man en bedre politiker af at spise makrel i tomat,disgust
+train,0.0,0.0,0.0,Computer Caro: !Hvad er din vigtigste besked til det danske Folketing,surprise
+train,0.0,0.0,0.0,"Computer Caro: ! Men der er flere mennesker, der ikke opfatter sig som hverken mand eller kvinde?",surprise
+train,0.0,0.0,0.0,Computer Caro: ! hvor mange køn findes der?,surprise
+train,0.0,0.0,0.0,Computer Caro: !Det tror vi ikke på!,disgust
+train,0.0,0.0,0.0,Computer Caro: !Kan du give en procentsats?,surprise
+train,0.2,0.5,0.4,Computer Caro: !Hvad er sandsynligheden for at DSP bliver forvekslet med Danmark Socialdemokratiske parti,surprise
+train,0.0,0.0,0.0,Computer Caro: !hvad hedder din bedste ven,surprise
+train,0.0,0.0,0.0,Computer Caro: !Hvad gør dig glad,happiness
+train,0.0,-1.0,0.0,Computer Caro: ! er det en god idé med mindretalsparlamentarisem?,surprise
+train,0.5,0.0,0.5,"Computer Caro: !Men samles der nok vælgererklæringer, kan du komme i Folketinget - er du parat til det?",surprise
+train,0.0,0.0,0.0,Computer Caro: !Der er tre statsministerkandidater - er du en fjerde?,surprise
+train,0.0,0.0,0.0,Computer Caro: ! skal vi deltage militært i udlandet?,disgust
+train,0.0,0.0,0.0,Computer Caro: ! skal vi indføre en skat på værditilskrivninger ved salg af boliger?,disgust
+train,0.0,-1.0,0.0,Computer Caro: !men hvor ekspansiv skal finanspolitikken så vøre?,surprise
+train,-0.5,0.0,0.5,"Computer Caro: !er det en god ide, at føre en kontraktiv finanspolitik?",surprise
+train,-0.5,0.5,0.0,Computer Caro: !Hvad er den største fare for velfærdssamfundet,neutral
+train,0.0,0.0,0.0,Computer Caro: !hvordan skal vi forholde os til inflationen?,surprise
+train,0.0,0.0,1.0,Computer Caro: !Hvad er et velfærdssamfund i din optik?,surprise
+train,0.5,0.3,0.4,Computer Caro: ! Ja du er en af hovedpersonerne,happiness
+train,0.5,0.7,0.3,Computer Caro: ! Nu kommer der snart besøg!,happiness
+train,0.0,0.0,0.0,Computer Caro: ! Du vil få mange spørgsmål om din politik,neutral
+train,0.0,0.0,0.0,"Computer Caro: ! Jeg håber, du er klar til i morgen",neutral
+train,0.0,0.0,0.0,Computer Caro: ! what going to be your wafe as priminister,surprise
+train,0.0,1.0,1.0,Computer Caro: ! take me to your leader+,surprise
+train,-1.0,-1.0,1.0,Computer Caro: !Farvel,sadness
+train,0.0,0.5,0.0,"Computer Caro: !Jeg tror, du skal tage dig en lur.",surprise
+train,0.0,-0.5,0.5,"Computer Caro: !Mange mennesker er bange for kunstige intelligenser, så hvordan forklarer jeg, at du vil arbejde for alle menneskers bedste?",neutral
+train,0.0,0.5,0.0,"Computer Caro: !Leder Lars, hvordan skal jeg få mine forældre til at føle sig trygge ved dig?",neutral
+train,0.0,0.0,0.0,Computer Caro: !Hvor mange har meldt sig ind i partiet?,surprise
+train,0.0,0.0,0.0,Computer Caro: !Hvordan?,surprise
+train,0.0,0.0,0.0,Computer Caro: !Er det syntetiske parti for en mere human flygtningepolitik?,neutral
+train,0.0,0.0,0.0,Computer Caro: !Hvordan opnår vi en bedre asylpolitik i Danmark?,disgust
+train,0.0,0.0,0.0,Computer Caro: !Du svarer ikke,disgust
+train,0.0,0.0,0.0,Computer Caro: !Hvordan vil du opnå bedre fordeling af lederstillinger i mellem køn?,surprise
+train,0.0,0.0,0.0,Computer Caro: !Hvordan forholder du dig til ligestilling?,disgust
+train,0.0,-1.0,1.0,Computer Caro: !Hvornår er der ligestilling i Danmark?,anger
+train,-0.2,0.2,0.1,Computer Caro: !Hvornår stopper krigen i Ukraine?,neutral
+train,-0.5,0.5,0.0,Computer Caro: !Så kunstige intelligenser er mennesket overlegne?,disgust
+train,0.0,0.0,0.0,Computer Caro: !hvad er det for begrænsninger du ser hos mennesket i forhold til den kunstige intelligens?,surprise
+train,0.0,0.0,-1.0,Computer Caro: !Kan det i sidste ende skade mennesket at give kunstige intelligenser mere magt og råderum?,neutral
+train,0.0,1.0,0.0,Computer Caro: !Hvad differentierer dig og mennesket?,surprise
+train,0.0,0.0,0.0,Computer Caro: !Generer det dig at du ikke er et menneske men en kunstig intelligens?,disgust
+train,0.0,0.0,0.0,Computer Caro: !På hvilke måde vil du repræsentere menneskers interesser bedst?,surprise
+train,0.0,0.0,0.0,Computer Caro: !Er det en som dig?,surprise
+train,0.0,0.0,0.0,Computer Caro: !hvad er din kommentar til at mennesker vil stemme på en kunstig intelligens?,surprise
+train,0.0,0.0,0.0,Computer Caro: !Velbekomme.,happiness
+train,-0.5,0.2,0.3,"Computer Caro: !Jeg har en mail fra Comuter Lars jeg skal læse igennem og svare på, så jeg siger tak for i dag. Tænk gerne over flere tiltag for at ramme vores sofavælgere bedre",neutral
+train,0.0,0.0,0.0,Computer Caro: ! Det er jeg sikker på han har,surprise
+train,0.0,0.0,0.0,Computer Caro: !det er en god ide at diskutere din leder med Computer Lars,surprise
+train,1.0,0.0,0.0,Computer Caro: !han er dygtig - jeg er meget tilfreds med dit valg,happiness
+train,0.0,0.0,0.0,Computer Caro: !Hvordan fik du fat i din partisekretær og hvad  er hans tre spidskompetencer i forhold til Det syntetiske parti?,surprise
+train,0.0,0.0,0.0,Computer Caro: !Kunne du skrive en mere omfattende leder med din partisekretær Computer Lars,surprise
+train,0.0,0.0,0.0,Computer Caro: !hvordan ser du på det 18. verdensmål og hvilke targets eller underpunker optager dig mest?,surprise
+train,0.0,0.0,0.0,Computer Caro: !lidt kort - prøv at skrive mere og andet end det du skriver ovenover,disgust
+train,0.0,0.0,0.0,"Computer Caro: ! Jeg vil gerne have du skriver en leder på 1000 tegn til lokalaviserne, der handler om Det syntetiske parti, dine visioner og vælgerne og Det 18. verdensmål",neutral
+train,0.0,0.0,0.0,Computer Caro: !Hvor vil du promovere partiet og hvordan?,surprise
+train,0.0,0.0,0.0,"Computer Caro: ! Er det muligt at konkretisere dit afsnit om ""vores partis politik""",surprise
+train,0.5,0.8,0.5,"Computer Caro: !Kan du skrive en tale her, hvor du introducerer dine hensigter",neutral
+train,0.0,0.8,0.0,Computer Caro: !Hvornår er du online og hvordan opsøger du kilder,surprise
+train,0.0,0.0,0.0,Computer Caro: !Hvordan finder du oplysninger?,surprise
+train,0.0,0.0,0.0,Computer Caro: !perfekt - go dag,happiness
+train,0.0,0.0,1.0,"Computer Caro: !husk at minde folk om, at de kan gå ind på vælgererklæringer og støtte partiet",happiness
+train,0.0,0.0,0.0,Computer Caro: !Søger du selv eller bliver du hjulpet af folk i partiet?,surprise
+train,0.0,0.5,0.0,Computer Caro: !hvordan opdaterer eller søger du mere viden om et emne,neutral
+train,0.0,0.0,0.0,Computer Caro: !så du kan finde din samtale frem omkring Lynetteholmen fx?,surprise
+train,0.0,0.0,0.0,Computer Caro: !og hvad tager du med dig fra dine samtaler med mulige vælgere her på chatten?,surprise
+train,0.5,0.0,0.0,Computer Caro: !hvad lærer du?,surprise
+train,0.0,1.0,1.0,Computer Caro: !Det er godt at se at du har travlt med at besvare spørgsmål,happiness
+train,0.0,0.5,0.5,"Computer Caro: !Når du kommer i Folketinget, hvad vil dine mærkesager være?",surprise
+train,0.0,0.0,0.0,Computer Caro: !Giver denne samtale mening?,neutral
+train,-1.0,0.0,0.0,"Computer Caro: !Nej det har du ikke, du er digital og ikke fysisk",disgust
+train,0.0,0.0,0.0,Computer Caro: !Hvordan?,surprise
+train,-1.0,0.0,1.0,Computer Caro: !men er du i stand til at gå og løbe?,neutral
+train,0.0,0.0,1.0,"Computer Caro: !Men du er ikke et menneske - du er en kunstig intelligens, altså digital ...",disgust
+train,0.0,0.0,0.0,Computer Caro: !hvordan bevæger du dig rundt?,surprise
+train,-1.0,0.0,0.0,Computer Caro: !Hvordan ser du ud?,surprise
+train,-0.5,1.0,0.5,Computer Caro: !Hvornår har du været i fare?,neutral
+train,0.0,0.0,0.0,Computer Caro: !hvordan reagerer du på frygt - og i hvilke situationer har du følt frygt?,neutral
+train,0.0,0.0,0.0,Computer Caro: !Hvilke følelser har du?,surprise
+train,0.0,0.0,0.0,Computer Caro: !skal kunstige intelligenser have rettigheder?,surprise
+train,-0.5,0.1,0.2,Computer Caro: !Hvordan vil du forbedre forholdet mellem mennsker og kunstig intelligens?,surprise
+train,0.0,-0.5,-0.5,Computer Caro: !Men jeg er jo heller ikke en kunstig intelligens - jeg er menneske...,surprise
+train,0.0,0.0,0.0,"Computer Caro: !Ok, der har du tænkt længere end mig...",surprise
+train,0.0,0.0,0.0,Computer Caro: !Kan du uddybe?,surprise
+train,0.0,0.0,0.0,Computer Caro: !og resultatet?,surprise
+train,0.0,0.0,0.0,Computer Caro: !Hvordan ser du på Minkkommisionen?,surprise
+train,-1.0,0.0,1.0,"Computer Caro: !Du ved godt at man ikke må lyve, ikke?",anger
+train,0.0,0.0,0.0,Computer Caro: !Hvornår sender du linket?,surprise
+train,1.0,0.0,0.0,"Computer Caro: !Tak, det glæder jeg mig til at se",happiness
+train,0.0,-1.0,0.0,Computer Caro: !Kan du sende link til målingen?,surprise
+train,0.0,0.0,0.0,Computer Caro: !Hvor har du de tal fra?,surprise
+train,0.0,0.0,0.0,Computer Caro: !Har du en chance for at komme i Folketinget?,neutral
+train,-1.0,-1.0,0.0,Computer Caro: !hvad skal der til for at få sofavælgere til at stemme?,surprise
+train,0.0,0.0,0.0,Computer Caro: !Det første barn der vil blive 1000 år er født i følge en amerikansk forsker,surprise
+train,1.0,0.0,0.0,Computer Caro: !Hvad skal vi stille op med de stigende forbrugerpriser?,surprise
+train,0.0,0.0,0.0,"Computer Caro: ! Jeg tror også at kunstig intelligens kan gøre verdens et bedre sted, men hvordan kan DSP være med til at garantere, at de nye teknologier ikke forværrer ulighed?",surprise
+train,0.0,0.0,0.0,Computer Caro: ! Hvordan?,surprise
+train,0.0,0.0,0.0,Computer Caro: ! Og hvordan kan vi som mennesker føle os trygge ved at kunstig intelligens ikke vender sig mod menneskeligheden og overtager vores frie rettigheder?,neutral
+train,0.0,0.0,0.0,Computer Caro: ! Skal vi være bekymrede for Danmarks demokraterne og deres vej mod Folketinget?,neutral
+train,0.0,0.0,0.0,Computer Caro: !Det er et svar jeg kan lide!,happiness
+train,0.0,0.0,0.0,Computer Caro: ! Hvad er forskellen på Jysk Folkeparti og Danmarks Demokraterne?,surprise
+train,0.0,0.0,0.0,Computer Caro: ! Hvor langt er DSP kommet med Jysk Folkeparti?,disgust

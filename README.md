@@ -26,7 +26,7 @@ The project challenges traditional notions of political representation by levera
 Contains the following sub-folders with documents and files.
 
 - _Literature references_: List of references for theory included in the exposition.
--  _Textual Basis for Scripts__: Detailed written material explaining the concept and operations of The Synthetic Party.
+-  _Textual Basis for Scripts_: Detailed written material explaining the concept and operations of The Synthetic Party.
 - _Video material_ used in the exposition scripts (excerpt).
 
 

@@ -79,8 +79,6 @@ _Clone the Repository_: Use Git or checkout with SVN using the web URL: git clon
 
 _Explore the Contents_: Navigate through the directories to find datasets, visualizations, and analyses.
 
-_Visit the Exposition_: The datasets are accompanied by an extensive exposition submitted to the Journal of Artistic Research, explaining its context and usage.
-
 **Contributing**
 
 Contributions to this project are welcome. To contribute:
